@@ -110,6 +110,15 @@ a, h1, h2, h3, h4, h5, h6{
     font-size: 17px;
     border-bottom: 1px dotted;
 }
+.unset_padding_left{
+    padding-left: 0px;
+}
+.unset_padding_right{
+    padding-right: 0px;
+}
+.img_right{
+    margin-bottom: 30px;
+}
 .package-details-content .title {
     border-bottom: 1px dotted;
     padding-bottom: 5px;

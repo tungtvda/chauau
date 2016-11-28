@@ -279,7 +279,7 @@
     /* ]]> */
 </script>
 <script type='text/javascript' src='wp-includes/js/plupload/wp-plupload.min1c9b.js?ver=4.6.1'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.mine899.js?ver=1.11.4'></script>
+<!--<script type='text/javascript' src='wp-includes/js/jquery/ui/sortable.mine899.js?ver=1.11.4'></script>-->
 <script type='text/javascript'>
     /* <![CDATA[ */
     var mejsL10n = {
@@ -466,6 +466,7 @@
 <script type='text/javascript'
         src='http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.7'></script>
 <![endif]-->
+<!--<script src="themes/calendar/dist/jquery-1.12.4.min.js"></script>-->
 </body>
 
 <!-- Mirrored from demo.themeum.com/wordpress/wptravelkit/demo2/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 26 Nov 2016 08:10:47 GMT -->

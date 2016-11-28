@@ -12,6 +12,7 @@
                     <li class=""><a href="#itinerary" role="tab" data-toggle="tab" aria-expanded="false">Tin tức</a></li>
                     <li class=""><a href="#hotelinfo" role="tab" data-toggle="tab" aria-expanded="false">Khách sạn</a></li>
                     <li class=""><a href="#tourvideo" role="tab" data-toggle="tab" aria-expanded="false">Videos</a></li>
+                    <li class=""><a href="#thuvienanh" role="tab" data-toggle="tab" aria-expanded="false">Thư viện ảnh</a></li>
                 </ul><!--/.package-nav-tab-->
 
                 <div class="tab-content package-tab-content">
@@ -19,15 +20,15 @@
                     <!--tourinfo-->
                     <div class="tab-pane fade active in" id="tourinfo" style="bottom: 0px;">
                         <div class="product">
-                            <div class="images">
+                            <div style="padding: 0px" class="images col-md-6 col-sm-12">
                                 <a itemprop="image" class="woocommerce-main-image zoom"
                                    title="Full day Hanoi Classic trip"
-                                   data-rel="prettyPhoto[product-gallery]"><img
+                                   data-rel="prettyPhoto[product-gallery]"><img style="width: 100%"
                                         src="http://mixtourist.com/view/admin/Themes/kcfinder/upload/images/banner/ho-guom-ha-noi-mixtourist.jpg"
-                                        class="attachment-shop_single wp-post-image" alt="Full day Hanoi Classic trip"
+                                        class="attachment-shop_single wp-post-image " alt="Full day Hanoi Classic trip"
                                         title="Full day Hanoi Classic trip"></a>
                             </div>
-                            <div class="summary entry-summary">
+                            <div  class="summary entry-summary col-md-6 col-sm-12">
                                 <!--<h1 itemprop="name" class="product_title entry-title">Bora Bora</h1>-->
                                 <div itemprop="offers" class="detail_font">
                                     <p class="price"><i class="icon-dollar"></i> Price:
@@ -95,7 +96,7 @@
 
 
                         </div>
-                        <div style="margin-top: 20px; float: left; width: 100%" class="package-details-content">
+                        <div id="booking" style="margin-top: 20px; float: left; width: 100%" class="package-details-content">
                             <div class="col-md-4 unset_padding_left">
                                 <h3 class="title">Tour Details</h3>
                                 <link rel="stylesheet" type="text/css" href="themes/calendar/src/css/pignose.calender.css" />
@@ -534,6 +535,50 @@
                         </div><!--/.package-details-hotel-->
                     </div><!--/.tab-pane-->
                     <!--/#Hotel Info-->
+                    <!--img Info-->
+                    <div class="tab-pane fade" id="thuvienanh" style="bottom: 0px;">
+                        <div class="package-details-gallery">
+                            <div class="row margin-bottom photo-gallery-item">
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5665133.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5665133-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5112865.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5112865-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945436.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945436-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945356.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945356-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2120808.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2120808-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+
+                                <div class="photo-gallery-items col-sm-6 col-md-4">
+                                    <div class="gallery-items-img">
+                                        <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2071528.jpg" class="plus-icon"><img src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2071528-570x400.jpg" class="img-responsive" alt="photo : "></a>
+                                    </div><!--/.gallery-items-img-->
+                                </div> <!--/.col-md-3-->
+                            </div><!--/.row-->
+                        </div>
+                    </div><!--/.tab-pane-->
+                    <!--/#img Info-->
 
                     <!--Tour Video-->
                     <div class="tab-pane fade" id="tourvideo" style="bottom: 0px;">

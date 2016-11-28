@@ -6,7 +6,7 @@
 <div class="bottom borderimage">
     <div class="container">
         <div class="row clearfix">
-            <div class="col-sm-6 col-md-3 bottom-widget">
+            <div class="col-sm-6 col-md-4 bottom-widget">
                 <div id="text-2" class="widget widget_text"><h3 class="widget-title">ABOUT TRAVELKIT</h3>
                     <div class="textwidget">
                         <div class="contact-info">
@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 bottom-widget">
+            <div class="col-sm-6 col-md-4 bottom-widget">
                 <div id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title">Booking</h3>
                     <div class="menu-booking-container">
                         <ul id="menu-booking" class="menu">
@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 bottom-widget">
+            <div class="col-sm-6 col-md-4 bottom-widget">
                 <div id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">Selling</h3>
                     <div class="menu-selling-container">
                         <ul id="menu-selling" class="menu">
@@ -74,35 +74,6 @@
                             <li id="menu-item-1190"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1190"><a
                                     href="#">Secret Room</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-3 bottom-widget">
-                <div id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title">Support</h3>
-                    <div class="menu-support-container">
-                        <ul id="menu-support" class="menu">
-                            <li id="menu-item-1191"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1191"><a
-                                    href="#">Trust + Safety</a></li>
-                            <li id="menu-item-1192"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1192"><a
-                                    href="#">FAQs</a></li>
-                            <li id="menu-item-1193"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1193"><a
-                                    href="#">Testimonials</a></li>
-                            <li id="menu-item-1194"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1194"><a
-                                    href="#">Contact Us</a></li>
-                            <li id="menu-item-1195"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1195"><a
-                                    href="#">Hotel Cancellation Policy</a></li>
-                            <li id="menu-item-1196"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196"><a
-                                    href="#">Deal with Us</a></li>
-                            <li id="menu-item-1197"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1197"><a
-                                    href="#">Travellia Special</a></li>
                         </ul>
                     </div>
                 </div>

@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.1
+-- version 4.4.12
 -- http://www.phpmyadmin.net
 --
--- Client :  127.0.0.1
--- Généré le :  Lun 28 Novembre 2016 à 10:29
--- Version du serveur :  10.1.9-MariaDB
--- Version de PHP :  5.6.15
+-- Host: 127.0.0.1
+-- Generation Time: Nov 28, 2016 at 03:24 PM
+-- Server version: 5.6.25
+-- PHP Version: 5.6.11
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,24 +17,24 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données :  `chauau`
+-- Database: `chauau`
 --
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `admin`
+-- Table structure for table `admin`
 --
 
-CREATE TABLE `admin` (
+CREATE TABLE IF NOT EXISTS `admin` (
   `Id` int(11) NOT NULL,
   `TenDangNhap` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
   `Full_name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `MatKhau` varchar(255) COLLATE utf8_unicode_ci NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `admin`
+-- Dumping data for table `admin`
 --
 
 INSERT INTO `admin` (`Id`, `TenDangNhap`, `Full_name`, `MatKhau`) VALUES
@@ -43,10 +43,10 @@ INSERT INTO `admin` (`Id`, `TenDangNhap`, `Full_name`, `MatKhau`) VALUES
 -- --------------------------------------------------------
 
 --
--- Structure de la table `booking_tour`
+-- Table structure for table `booking_tour`
 --
 
-CREATE TABLE `booking_tour` (
+CREATE TABLE IF NOT EXISTS `booking_tour` (
   `id` int(11) NOT NULL,
   `tour_id` int(11) NOT NULL,
   `name_tour` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -66,15 +66,15 @@ CREATE TABLE `booking_tour` (
   `request` text COLLATE utf8_unicode_ci,
   `status` int(11) NOT NULL,
   `created` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=27 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `config`
+-- Table structure for table `config`
 --
 
-CREATE TABLE `config` (
+CREATE TABLE IF NOT EXISTS `config` (
   `Id` int(11) NOT NULL,
   `Logo` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Icon` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -90,10 +90,10 @@ CREATE TABLE `config` (
   `fax_hcm` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Hotline_hcm` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Email_hcm` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `config`
+-- Dumping data for table `config`
 --
 
 INSERT INTO `config` (`Id`, `Logo`, `Icon`, `Name`, `Address`, `Phone`, `fax`, `Hotline`, `Email`, `Website`, `Address_hcm`, `Phone_hcm`, `fax_hcm`, `Hotline_hcm`, `Email_hcm`) VALUES
@@ -102,10 +102,10 @@ INSERT INTO `config` (`Id`, `Logo`, `Icon`, `Name`, `Address`, `Phone`, `fax`, `
 -- --------------------------------------------------------
 
 --
--- Structure de la table `contact`
+-- Table structure for table `contact`
 --
 
-CREATE TABLE `contact` (
+CREATE TABLE IF NOT EXISTS `contact` (
   `id` int(11) NOT NULL,
   `name_kh` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `address` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -115,60 +115,58 @@ CREATE TABLE `contact` (
   `content` text COLLATE utf8_unicode_ci NOT NULL,
   `created` datetime NOT NULL,
   `status` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=40 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `danhmuc_tour`
+-- Table structure for table `danhmuc_tour`
 --
 
-CREATE TABLE `danhmuc_tour` (
+CREATE TABLE IF NOT EXISTS `danhmuc_tour` (
   `id` int(11) NOT NULL,
-  `danhmuc1_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `name_url` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `banner` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `position` int(11) NOT NULL,
   `title` varchar(70) COLLATE utf8_unicode_ci DEFAULT NULL,
   `keyword` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `description` varchar(170) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `danhmuc_tour`
+-- Dumping data for table `danhmuc_tour`
 --
 
-INSERT INTO `danhmuc_tour` (`id`, `danhmuc1_id`, `name`, `name_url`, `img`, `banner`, `position`, `title`, `keyword`, `description`) VALUES
-(1, 1, 'Chọn danh mục cấp 2', 'air-helicopter--balloon-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 1, 'Air, Helicopter & Balloon Tours', 'Air, Helicopter & Balloon Tours', 'Air, Helicopter & Balloon Tours'),
-(2, 2, 'Day Trips & Excursions', 'day-trips--excursions', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 2, 'Day Trips & Excursions', 'Day Trips & Excursions', 'Day Trips & Excursions'),
-(3, 2, 'Tours & Sightseeing', 'tours--sightseeing', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 3, 'Tours & Sightseeing', 'Tours & Sightseeing', 'Tours & Sightseeing'),
-(4, 2, 'Multi-day & Extended Tours', 'multi-day--extended-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 4, 'Multi-day & Extended Tours', 'Multi-day & Extended Tours', 'Multi-day & Extended Tours'),
-(5, 2, 'Food, Wine & Nightlife', 'food-wine--nightlife', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 5, 'Food, Wine & Nightlife', 'Food, Wine & Nightlife', 'Food, Wine & Nightlife'),
-(6, 3, 'Cultural & Theme Tours', 'cultural--theme-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 1, 'Cultural & Theme Tours', 'Cultural & Theme Tours', 'Cultural & Theme Tours'),
-(7, 3, 'Transfers & Ground Transport', 'transfers--ground-transport', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 2, 'Transfers & Ground Transport', 'Transfers & Ground Transport', 'Transfers & Ground Transport'),
-(8, 2, 'Shore Excursions', 'shore-excursions', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 3, 'Shore Excursions', 'Shore Excursions', 'Shore Excursions'),
-(9, 4, 'Shows, Concerts & Sports ', 'shows-concerts--sports-', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 1, 'Shows, Concerts & Sports ', 'Shows, Concerts & Sports ', 'Shows, Concerts & Sports '),
-(10, 4, 'Walking & Biking Tours', 'walking--biking-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 2, 'Walking & Biking Tours', 'Walking & Biking Tours', 'Walking & Biking Tours'),
-(11, 4, 'Water Sports', 'water-sports', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 3, 'Water Sports', 'Water Sports', 'Water Sports'),
-(12, 5, 'Outdoor Activities', 'outdoor-activities', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 1, 'Outdoor Activities', 'Outdoor Activities', 'Outdoor Activities'),
-(13, 5, 'Sightseeing Tickets & Passes', 'sightseeing-tickets--passes', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 2, 'Sightseeing Tickets & Passes', 'Sightseeing Tickets & Passes', 'Sightseeing Tickets & Passes'),
-(14, 5, 'Classes & Workshops', 'classes--workshops', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 0, 'Classes & Workshops', 'Classes & Workshops', 'Classes & Workshops'),
-(15, 6, 'HANOI', 'hanoi', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 1, 'HANOI', 'HANOI', 'HANOI'),
-(16, 6, 'SAPA', 'sapa', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 2, 'SAPA', 'SAPA', 'SAPA'),
-(17, 6, 'HO CHI MINH CITY', 'ho-chi-minh-city', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 3, 'HO CHI MINH CITY', 'HO CHI MINH CITY', 'HO CHI MINH CITY'),
-(18, 6, 'HALONG BAY', 'halong-bay', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 4, 'HALONG BAY', 'HALONG BAY', 'HALONG BAY'),
-(19, 6, 'HUE-DANANG-HOIAN', 'hue-danang-hoian', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 5, 'HUE-DANANG-HOIAN', 'HUE-DANANG-HOIAN', 'HUE-DANANG-HOIAN'),
-(20, 6, 'MEKONG', 'mekong', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg', 6, 'MEKONG', 'MEKONG', 'MEKONG');
+INSERT INTO `danhmuc_tour` (`id`, `name`, `name_url`, `img`, `position`, `title`, `keyword`, `description`) VALUES
+(1, 'Chọn danh mục cấp 2', 'air-helicopter--balloon-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 1, 'Air, Helicopter & Balloon Tours', 'Air, Helicopter & Balloon Tours', 'Air, Helicopter & Balloon Tours'),
+(2, 'Day Trips & Excursions', 'day-trips--excursions', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 2, 'Day Trips & Excursions', 'Day Trips & Excursions', 'Day Trips & Excursions'),
+(3, 'Tours & Sightseeing', 'tours--sightseeing', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 3, 'Tours & Sightseeing', 'Tours & Sightseeing', 'Tours & Sightseeing'),
+(4, 'Multi-day & Extended Tours', 'multi-day--extended-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 4, 'Multi-day & Extended Tours', 'Multi-day & Extended Tours', 'Multi-day & Extended Tours'),
+(5, 'Food, Wine & Nightlife', 'food-wine--nightlife', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 5, 'Food, Wine & Nightlife', 'Food, Wine & Nightlife', 'Food, Wine & Nightlife'),
+(6, 'Cultural & Theme Tours', 'cultural--theme-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 1, 'Cultural & Theme Tours', 'Cultural & Theme Tours', 'Cultural & Theme Tours'),
+(7, 'Transfers & Ground Transport', 'transfers--ground-transport', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 2, 'Transfers & Ground Transport', 'Transfers & Ground Transport', 'Transfers & Ground Transport'),
+(8, 'Shore Excursions', 'shore-excursions', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 3, 'Shore Excursions', 'Shore Excursions', 'Shore Excursions'),
+(9, 'Shows, Concerts & Sports ', 'shows-concerts--sports-', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 1, 'Shows, Concerts & Sports ', 'Shows, Concerts & Sports ', 'Shows, Concerts & Sports '),
+(10, 'Walking & Biking Tours', 'walking--biking-tours', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 2, 'Walking & Biking Tours', 'Walking & Biking Tours', 'Walking & Biking Tours'),
+(11, 'Water Sports', 'water-sports', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 3, 'Water Sports', 'Water Sports', 'Water Sports'),
+(12, 'Outdoor Activities', 'outdoor-activities', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 1, 'Outdoor Activities', 'Outdoor Activities', 'Outdoor Activities'),
+(13, 'Sightseeing Tickets & Passes', 'sightseeing-tickets--passes', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 2, 'Sightseeing Tickets & Passes', 'Sightseeing Tickets & Passes', 'Sightseeing Tickets & Passes'),
+(14, 'Classes & Workshops', 'classes--workshops', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg', 0, 'Classes & Workshops', 'Classes & Workshops', 'Classes & Workshops'),
+(15, 'HANOI', 'hanoi', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 1, 'HANOI', 'HANOI', 'HANOI'),
+(16, 'SAPA', 'sapa', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 2, 'SAPA', 'SAPA', 'SAPA'),
+(17, 'HO CHI MINH CITY', 'ho-chi-minh-city', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 3, 'HO CHI MINH CITY', 'HO CHI MINH CITY', 'HO CHI MINH CITY'),
+(18, 'HALONG BAY', 'halong-bay', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 4, 'HALONG BAY', 'HALONG BAY', 'HALONG BAY'),
+(19, 'HUE-DANANG-HOIAN', 'hue-danang-hoian', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 5, 'HUE-DANANG-HOIAN', 'HUE-DANANG-HOIAN', 'HUE-DANANG-HOIAN'),
+(20, 'MEKONG', 'mekong', '/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/1469094451027_7991614.jpg', 6, 'MEKONG', 'MEKONG', 'MEKONG');
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `hanhtrinh`
+-- Table structure for table `hanhtrinh`
 --
 
-CREATE TABLE `hanhtrinh` (
+CREATE TABLE IF NOT EXISTS `hanhtrinh` (
   `id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `content` text COLLATE utf8_unicode_ci
@@ -177,10 +175,10 @@ CREATE TABLE `hanhtrinh` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `hanhtrinh_color`
+-- Table structure for table `hanhtrinh_color`
 --
 
-CREATE TABLE `hanhtrinh_color` (
+CREATE TABLE IF NOT EXISTS `hanhtrinh_color` (
   `id` int(11) NOT NULL,
   `hanhtrinh_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -191,10 +189,10 @@ CREATE TABLE `hanhtrinh_color` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `info_mix`
+-- Table structure for table `info_mix`
 --
 
-CREATE TABLE `info_mix` (
+CREATE TABLE IF NOT EXISTS `info_mix` (
   `id` int(11) NOT NULL,
   `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -202,10 +200,10 @@ CREATE TABLE `info_mix` (
   `title` varchar(70) COLLATE utf8_unicode_ci DEFAULT NULL,
   `keyword` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `description` varchar(170) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `info_mix`
+-- Dumping data for table `info_mix`
 --
 
 INSERT INTO `info_mix` (`id`, `img`, `name`, `content`, `title`, `keyword`, `description`) VALUES
@@ -222,10 +220,10 @@ INSERT INTO `info_mix` (`id`, `img`, `name`, `content`, `title`, `keyword`, `des
 -- --------------------------------------------------------
 
 --
--- Structure de la table `khachsan`
+-- Table structure for table `khachsan`
 --
 
-CREATE TABLE `khachsan` (
+CREATE TABLE IF NOT EXISTS `khachsan` (
   `id` int(11) NOT NULL,
   `danhmuc_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -240,20 +238,20 @@ CREATE TABLE `khachsan` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `menu`
+-- Table structure for table `menu`
 --
 
-CREATE TABLE `menu` (
+CREATE TABLE IF NOT EXISTS `menu` (
   `id` int(11) NOT NULL,
   `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `title` varchar(70) COLLATE utf8_unicode_ci DEFAULT NULL,
   `keyword` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `description` varchar(170) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `menu`
+-- Dumping data for table `menu`
 --
 
 INSERT INTO `menu` (`id`, `img`, `name`, `title`, `keyword`, `description`) VALUES
@@ -274,10 +272,10 @@ INSERT INTO `menu` (`id`, `img`, `name`, `title`, `keyword`, `description`) VALU
 -- --------------------------------------------------------
 
 --
--- Structure de la table `news`
+-- Table structure for table `news`
 --
 
-CREATE TABLE `news` (
+CREATE TABLE IF NOT EXISTS `news` (
   `id` int(11) NOT NULL,
   `danhmuc_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -288,10 +286,10 @@ CREATE TABLE `news` (
   `keyword` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `description` varchar(170) COLLATE utf8_unicode_ci DEFAULT NULL,
   `created` datetime NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `news`
+-- Dumping data for table `news`
 --
 
 INSERT INTO `news` (`id`, `danhmuc_id`, `name`, `name_url`, `img`, `content`, `title`, `keyword`, `description`, `created`) VALUES
@@ -306,10 +304,10 @@ INSERT INTO `news` (`id`, `danhmuc_id`, `name`, `name_url`, `img`, `content`, `t
 -- --------------------------------------------------------
 
 --
--- Structure de la table `slide`
+-- Table structure for table `slide`
 --
 
-CREATE TABLE `slide` (
+CREATE TABLE IF NOT EXISTS `slide` (
   `id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `price` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -317,10 +315,10 @@ CREATE TABLE `slide` (
   `img_small` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `link` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `position` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `slide`
+-- Dumping data for table `slide`
 --
 
 INSERT INTO `slide` (`id`, `name`, `price`, `img`, `img_small`, `link`, `position`) VALUES
@@ -331,20 +329,20 @@ INSERT INTO `slide` (`id`, `name`, `price`, `img`, `img_small`, `link`, `positio
 -- --------------------------------------------------------
 
 --
--- Structure de la table `social`
+-- Table structure for table `social`
 --
 
-CREATE TABLE `social` (
+CREATE TABLE IF NOT EXISTS `social` (
   `id` int(11) NOT NULL,
   `facebook` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `twitter` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `youtube` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `google` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `rss` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `social`
+-- Dumping data for table `social`
 --
 
 INSERT INTO `social` (`id`, `facebook`, `twitter`, `youtube`, `google`, `rss`) VALUES
@@ -353,35 +351,33 @@ INSERT INTO `social` (`id`, `facebook`, `twitter`, `youtube`, `google`, `rss`) V
 -- --------------------------------------------------------
 
 --
--- Structure de la table `subport`
+-- Table structure for table `subport`
 --
 
-CREATE TABLE `subport` (
+CREATE TABLE IF NOT EXISTS `subport` (
   `id` int(11) NOT NULL,
-  `danhmuc_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `phone` varchar(205) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `phone_format` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `skype` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `email` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `yahoo` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `subport`
+-- Dumping data for table `subport`
 --
 
-INSERT INTO `subport` (`id`, `danhmuc_id`, `name`, `phone`, `phone_format`, `skype`, `email`, `yahoo`) VALUES
-(1, 1, '', ' (+84) 983 224 973', ' (+84) 983 224 973', '', '', ''),
-(2, 2, '', ' (+84) 974 910 891', ' (+84) 974 910 891', '', '', '');
+INSERT INTO `subport` (`id`, `name`, `phone`, `skype`, `email`, `yahoo`) VALUES
+(1, '', ' (+84) 983 224 973', '', '', ''),
+(2, '', ' (+84) 974 910 891', '', '', '');
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `tour`
+-- Table structure for table `tour`
 --
 
-CREATE TABLE `tour` (
+CREATE TABLE IF NOT EXISTS `tour` (
   `id` int(11) NOT NULL,
   `danhmuc_id` int(11) NOT NULL,
   `danhmuc_multi` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -414,10 +410,10 @@ CREATE TABLE `tour` (
   `description` varchar(170) COLLATE utf8_unicode_ci DEFAULT NULL,
   `inclusion` text COLLATE utf8_unicode_ci,
   `exclusion` text COLLATE utf8_unicode_ci
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Contenu de la table `tour`
+-- Dumping data for table `tour`
 --
 
 INSERT INTO `tour` (`id`, `danhmuc_id`, `danhmuc_multi`, `promotion`, `packages`, `name`, `name_url`, `code`, `img`, `price`, `price_2`, `price_3`, `price_4`, `price_5`, `price_6`, `durations`, `departure`, `destination`, `departure_time`, `vehicle`, `hotel`, `summary`, `highlights`, `schedule`, `price_list`, `content`, `list_img`, `title`, `keyword`, `description`, `inclusion`, `exclusion`) VALUES
@@ -442,10 +438,10 @@ INSERT INTO `tour` (`id`, `danhmuc_id`, `danhmuc_multi`, `promotion`, `packages`
 -- --------------------------------------------------------
 
 --
--- Structure de la table `tour_img`
+-- Table structure for table `tour_img`
 --
 
-CREATE TABLE `tour_img` (
+CREATE TABLE IF NOT EXISTS `tour_img` (
   `id` int(11) NOT NULL,
   `danhmuc_id` int(11) NOT NULL,
   `highlight` tinyint(1) NOT NULL,
@@ -456,258 +452,255 @@ CREATE TABLE `tour_img` (
 -- --------------------------------------------------------
 
 --
--- Structure de la table `video`
+-- Table structure for table `video`
 --
 
-CREATE TABLE `video` (
+CREATE TABLE IF NOT EXISTS `video` (
   `id` int(11) NOT NULL,
   `danhmuc_id` int(11) NOT NULL,
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `name_cn` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `link_video` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `highlights` tinyint(1) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 --
--- Index pour les tables exportées
+-- Indexes for dumped tables
 --
 
 --
--- Index pour la table `admin`
+-- Indexes for table `admin`
 --
 ALTER TABLE `admin`
   ADD PRIMARY KEY (`Id`);
 
 --
--- Index pour la table `booking_tour`
+-- Indexes for table `booking_tour`
 --
 ALTER TABLE `booking_tour`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `config`
+-- Indexes for table `config`
 --
 ALTER TABLE `config`
   ADD PRIMARY KEY (`Id`);
 
 --
--- Index pour la table `contact`
+-- Indexes for table `contact`
 --
 ALTER TABLE `contact`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `danhmuc_tour`
+-- Indexes for table `danhmuc_tour`
 --
 ALTER TABLE `danhmuc_tour`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `danhmuc1_id` (`danhmuc1_id`);
+  ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `hanhtrinh`
+-- Indexes for table `hanhtrinh`
 --
 ALTER TABLE `hanhtrinh`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `hanhtrinh_color`
+-- Indexes for table `hanhtrinh_color`
 --
 ALTER TABLE `hanhtrinh_color`
   ADD PRIMARY KEY (`id`),
   ADD KEY `hanhtrinh_id` (`hanhtrinh_id`);
 
 --
--- Index pour la table `info_mix`
+-- Indexes for table `info_mix`
 --
 ALTER TABLE `info_mix`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `khachsan`
+-- Indexes for table `khachsan`
 --
 ALTER TABLE `khachsan`
   ADD PRIMARY KEY (`id`),
   ADD KEY `danhmuc_id` (`danhmuc_id`);
 
 --
--- Index pour la table `menu`
+-- Indexes for table `menu`
 --
 ALTER TABLE `menu`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `news`
+-- Indexes for table `news`
 --
 ALTER TABLE `news`
   ADD PRIMARY KEY (`id`),
   ADD KEY `danhmuc_id` (`danhmuc_id`);
 
 --
--- Index pour la table `slide`
+-- Indexes for table `slide`
 --
 ALTER TABLE `slide`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `social`
+-- Indexes for table `social`
 --
 ALTER TABLE `social`
   ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `subport`
+-- Indexes for table `subport`
 --
 ALTER TABLE `subport`
-  ADD PRIMARY KEY (`id`),
-  ADD KEY `danhmuc_id` (`danhmuc_id`);
+  ADD PRIMARY KEY (`id`);
 
 --
--- Index pour la table `tour`
+-- Indexes for table `tour`
 --
 ALTER TABLE `tour`
   ADD PRIMARY KEY (`id`),
   ADD KEY `DanhMuc1Id` (`danhmuc_id`);
 
 --
--- Index pour la table `tour_img`
+-- Indexes for table `tour_img`
 --
 ALTER TABLE `tour_img`
   ADD PRIMARY KEY (`id`),
   ADD KEY `danhmuc_id` (`danhmuc_id`);
 
 --
--- Index pour la table `video`
+-- Indexes for table `video`
 --
 ALTER TABLE `video`
   ADD PRIMARY KEY (`id`),
   ADD KEY `danhmuc_id` (`danhmuc_id`);
 
 --
--- AUTO_INCREMENT pour les tables exportées
+-- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT pour la table `admin`
+-- AUTO_INCREMENT for table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
 --
--- AUTO_INCREMENT pour la table `booking_tour`
+-- AUTO_INCREMENT for table `booking_tour`
 --
 ALTER TABLE `booking_tour`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=27;
 --
--- AUTO_INCREMENT pour la table `config`
+-- AUTO_INCREMENT for table `config`
 --
 ALTER TABLE `config`
-  MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
--- AUTO_INCREMENT pour la table `contact`
+-- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=40;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=40;
 --
--- AUTO_INCREMENT pour la table `danhmuc_tour`
+-- AUTO_INCREMENT for table `danhmuc_tour`
 --
 ALTER TABLE `danhmuc_tour`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=21;
 --
--- AUTO_INCREMENT pour la table `hanhtrinh`
+-- AUTO_INCREMENT for table `hanhtrinh`
 --
 ALTER TABLE `hanhtrinh`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
--- AUTO_INCREMENT pour la table `hanhtrinh_color`
+-- AUTO_INCREMENT for table `hanhtrinh_color`
 --
 ALTER TABLE `hanhtrinh_color`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
--- AUTO_INCREMENT pour la table `info_mix`
+-- AUTO_INCREMENT for table `info_mix`
 --
 ALTER TABLE `info_mix`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=10;
 --
--- AUTO_INCREMENT pour la table `khachsan`
+-- AUTO_INCREMENT for table `khachsan`
 --
 ALTER TABLE `khachsan`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
--- AUTO_INCREMENT pour la table `menu`
+-- AUTO_INCREMENT for table `menu`
 --
 ALTER TABLE `menu`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=14;
 --
--- AUTO_INCREMENT pour la table `news`
+-- AUTO_INCREMENT for table `news`
 --
 ALTER TABLE `news`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=6;
 --
--- AUTO_INCREMENT pour la table `slide`
+-- AUTO_INCREMENT for table `slide`
 --
 ALTER TABLE `slide`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=4;
 --
--- AUTO_INCREMENT pour la table `social`
+-- AUTO_INCREMENT for table `social`
 --
 ALTER TABLE `social`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
--- AUTO_INCREMENT pour la table `subport`
+-- AUTO_INCREMENT for table `subport`
 --
 ALTER TABLE `subport`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
 --
--- AUTO_INCREMENT pour la table `tour`
+-- AUTO_INCREMENT for table `tour`
 --
 ALTER TABLE `tour`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=11;
 --
--- AUTO_INCREMENT pour la table `tour_img`
+-- AUTO_INCREMENT for table `tour_img`
 --
 ALTER TABLE `tour_img`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
--- AUTO_INCREMENT pour la table `video`
+-- AUTO_INCREMENT for table `video`
 --
 ALTER TABLE `video`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 --
--- Contraintes pour les tables exportées
+-- Constraints for dumped tables
 --
 
 --
--- Contraintes pour la table `hanhtrinh_color`
+-- Constraints for table `hanhtrinh_color`
 --
 ALTER TABLE `hanhtrinh_color`
   ADD CONSTRAINT `hanhtrinh_color_ibfk_1` FOREIGN KEY (`hanhtrinh_id`) REFERENCES `hanhtrinh` (`id`);
 
 --
--- Contraintes pour la table `khachsan`
+-- Constraints for table `khachsan`
 --
 ALTER TABLE `khachsan`
   ADD CONSTRAINT `khachsan_ibfk_1` FOREIGN KEY (`danhmuc_id`) REFERENCES `danhmuc_tour` (`id`);
 
 --
--- Contraintes pour la table `news`
+-- Constraints for table `news`
 --
 ALTER TABLE `news`
   ADD CONSTRAINT `news_ibfk_1` FOREIGN KEY (`danhmuc_id`) REFERENCES `danhmuc_tour` (`id`);
 
 --
--- Contraintes pour la table `tour`
+-- Constraints for table `tour`
 --
 ALTER TABLE `tour`
   ADD CONSTRAINT `tour_ibfk_1` FOREIGN KEY (`danhmuc_id`) REFERENCES `danhmuc_tour` (`id`);
 
 --
--- Contraintes pour la table `tour_img`
+-- Constraints for table `tour_img`
 --
 ALTER TABLE `tour_img`
   ADD CONSTRAINT `tour_img_ibfk_1` FOREIGN KEY (`danhmuc_id`) REFERENCES `danhmuc_tour` (`id`);
 
 --
--- Contraintes pour la table `video`
+-- Constraints for table `video`
 --
 ALTER TABLE `video`
   ADD CONSTRAINT `video_ibfk_1` FOREIGN KEY (`danhmuc_id`) REFERENCES `danhmuc_tour` (`id`);

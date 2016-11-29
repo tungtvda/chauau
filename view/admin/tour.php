@@ -68,7 +68,20 @@ function showFrom($form,$ListKey=array())
         }
     }
     $str_from.='</select></p>';
-    $str_from.='<p><label>danhmuc_multi</label><input class="text-input small-input" type="text"  name="danhmuc_multi" value="'.(($form!=false)?$form->danhmuc_multi:'').'" /></p>';
+    $str_from.='<p><label>danhmuc_multi</label>';
+    $arr_check=array();
+    if($form!=false){
+        $arr_check=explode(',',$form->danhmuc_multi);
+    }
+    foreach($ListKey['danhmuc_id'] as $key)
+    {
+        $checked='';
+        if(in_array($key->id,$arr_check)){
+            $checked='checked';
+        }
+        $str_from.=$key->name.' <input style="margin-top: -4px;" '.$checked.'  class="text-input small-input" type="checkbox"  name="danhmuc_multi[]" value="'.$key->id.'" /> --- ';
+    }
+    $str_from.='</p>';
     $str_from.='<p><label>promotion</label><input  type="checkbox"  name="promotion" value="1" '.(($form!=false)?(($form->promotion=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>packages</label><input  type="checkbox"  name="packages" value="1" '.(($form!=false)?(($form->packages=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';

@@ -4,6 +4,7 @@ require_once DIR.'/model/tourService.php';
 require_once DIR.'/model/danhmuc_tourService.php';
 require_once DIR.'/view/admin/tour.php';
 require_once DIR.'/common/messenger.php';
+require_once DIR.'/common/locdautiengviet.php';
 $data=array();
 $insert=true;
 if(isset($_SESSION["Admin"]))
@@ -65,6 +66,11 @@ if(isset($_SESSION["Admin"]))
        $array['danhmuc_id']='0';
        if(!isset($array['danhmuc_multi']))
        $array['danhmuc_multi']='0';
+        $mutil_dm='';
+        if($_POST["danhmuc_multi"]!=''){
+            $mutil_dm=implode(',',$_POST["danhmuc_multi"]);
+        }
+        $array['danhmuc_multi']=$mutil_dm;
        if(!isset($array['promotion']))
        $array['promotion']='0';
        if(!isset($array['packages']))
@@ -73,6 +79,7 @@ if(isset($_SESSION["Admin"]))
        $array['name']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
+        $array['name_url']=LocDau($array['name']);
        if(!isset($array['code']))
        $array['code']='0';
        if(!isset($array['img']))

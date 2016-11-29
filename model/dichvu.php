@@ -1,14 +1,13 @@
 <?php
-class khachsan
+class dichvu
 {
-    public $id,$danhmuc_id,$name,$name_url,$start,$img,$content,$title,$keyword,$description;
-    public function khachsan($data=array())
+    public $id,$danhmuc_id,$name,$name_url,$img,$content,$title,$keyword,$description;
+    public function dichvu($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->danhmuc_id=isset($data['danhmuc_id'])?$data['danhmuc_id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_url=isset($data['name_url'])?$data['name_url']:'';
-    $this->start=isset($data['start'])?$data['start']:'';
     $this->img=isset($data['img'])?$data['img']:'';
     $this->content=isset($data['content'])?$data['content']:'';
     $this->title=isset($data['title'])?$data['title']:'';
@@ -22,7 +21,6 @@ class khachsan
             $this->danhmuc_id=addslashes($this->danhmuc_id);
             $this->name=addslashes($this->name);
             $this->name_url=addslashes($this->name_url);
-            $this->start=addslashes($this->start);
             $this->img=addslashes($this->img);
             $this->content=addslashes($this->content);
             $this->title=addslashes($this->title);
@@ -35,7 +33,6 @@ class khachsan
             $this->danhmuc_id=stripslashes($this->danhmuc_id);
             $this->name=stripslashes($this->name);
             $this->name_url=stripslashes($this->name_url);
-            $this->start=stripslashes($this->start);
             $this->img=stripslashes($this->img);
             $this->content=stripslashes($this->content);
             $this->title=stripslashes($this->title);

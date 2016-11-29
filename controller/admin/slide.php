@@ -54,15 +54,15 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/slide.php');
         }
     }
-    if(isset($_POST["name"])&&isset($_POST["price"])&&isset($_POST["img"])&&isset($_POST["img_small"])&&isset($_POST["link"])&&isset($_POST["position"]))
+    if(isset($_POST["name"])&&isset($_POST["contents_short"])&&isset($_POST["img"])&&isset($_POST["img_small"])&&isset($_POST["link"])&&isset($_POST["position"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
        if(!isset($array['name']))
        $array['name']='0';
-       if(!isset($array['price']))
-       $array['price']='0';
+       if(!isset($array['contents_short']))
+       $array['contents_short']='0';
        if(!isset($array['img']))
        $array['img']='0';
        if(!isset($array['img_small']))

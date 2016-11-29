@@ -62,17 +62,17 @@ function hanhtrinh_color_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function hanhtrinh_color_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return hanhtrinh_color_Get("SELECT hanhtrinh_color.id, hanhtrinh.name as hanhtrinh_id, hanhtrinh_color.name, hanhtrinh_color.content, hanhtrinh_color.positon FROM  hanhtrinh_color, hanhtrinh where hanhtrinh.id=hanhtrinh_color.hanhtrinh_id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return hanhtrinh_color_Get("SELECT hanhtrinh_color.id, hanhtrinh.name as hanhtrinh_id, hanhtrinh_color.name, hanhtrinh_color.color, hanhtrinh_color.content, hanhtrinh_color.positon FROM  hanhtrinh_color, hanhtrinh where hanhtrinh.id=hanhtrinh_color.hanhtrinh_id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function hanhtrinh_color_insert($obj)
 {
-    return exe_query("insert into hanhtrinh_color (hanhtrinh_id,name,content,positon) values ('$obj->hanhtrinh_id','$obj->name','$obj->content','$obj->positon')",'hanhtrinh_color');
+    return exe_query("insert into hanhtrinh_color (hanhtrinh_id,name,color,content,positon) values ('$obj->hanhtrinh_id','$obj->name','$obj->color','$obj->content','$obj->positon')",'hanhtrinh_color');
 }
 //
 function hanhtrinh_color_update($obj)
 {
-    return exe_query("update hanhtrinh_color set hanhtrinh_id='$obj->hanhtrinh_id',name='$obj->name',content='$obj->content',positon='$obj->positon' where id=$obj->id",'hanhtrinh_color');
+    return exe_query("update hanhtrinh_color set hanhtrinh_id='$obj->hanhtrinh_id',name='$obj->name',color='$obj->color',content='$obj->content',positon='$obj->positon' where id=$obj->id",'hanhtrinh_color');
 }
 //
 function hanhtrinh_color_delete($obj)

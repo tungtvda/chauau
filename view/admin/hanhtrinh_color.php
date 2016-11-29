@@ -29,7 +29,7 @@ function view_hanhtrinh_color($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>hanhtrinh_id</th><th>name</th><th>positon</th>';
+    return '<th>id</th><th>hanhtrinh_id</th><th>name</th><th>color</th><th>positon</th>';
 }
 //
 function showTableBody($data)
@@ -41,6 +41,7 @@ function showTableBody($data)
         $TableBody.="<td>".$obj->id."</td>";
         $TableBody.="<td>".$obj->hanhtrinh_id."</td>";
         $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->color."</td>";
         $TableBody.="<td>".$obj->positon."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
@@ -64,6 +65,7 @@ function showFrom($form,$ListKey=array())
     }
     $str_from.='</select></p>';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
+    $str_from.='<p><label>color</label><input class="text-input small-input" type="text"  name="color" value="'.(($form!=false)?$form->color:'').'" /></p>';
     $str_from.='<p><label>content</label><textarea name="content">'.(($form!=false)?$form->content:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'content\'); </script></p>';
     $str_from.='<p><label>positon</label><input class="text-input small-input" type="text"  name="positon" value="'.(($form!=false)?$form->positon:'').'" /></p>';
     return $str_from;

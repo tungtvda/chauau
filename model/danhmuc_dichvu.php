@@ -1,16 +1,13 @@
 <?php
-class khachsan
+class danhmuc_dichvu
 {
-    public $id,$danhmuc_id,$name,$name_url,$start,$img,$content,$title,$keyword,$description;
-    public function khachsan($data=array())
+    public $id,$name,$name_url,$position,$title,$keyword,$description;
+    public function danhmuc_dichvu($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
-    $this->danhmuc_id=isset($data['danhmuc_id'])?$data['danhmuc_id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_url=isset($data['name_url'])?$data['name_url']:'';
-    $this->start=isset($data['start'])?$data['start']:'';
-    $this->img=isset($data['img'])?$data['img']:'';
-    $this->content=isset($data['content'])?$data['content']:'';
+    $this->position=isset($data['position'])?$data['position']:'';
     $this->title=isset($data['title'])?$data['title']:'';
     $this->keyword=isset($data['keyword'])?$data['keyword']:'';
     $this->description=isset($data['description'])?$data['description']:'';
@@ -19,12 +16,9 @@ class khachsan
     public function encode()
         {
             $this->id=addslashes($this->id);
-            $this->danhmuc_id=addslashes($this->danhmuc_id);
             $this->name=addslashes($this->name);
             $this->name_url=addslashes($this->name_url);
-            $this->start=addslashes($this->start);
-            $this->img=addslashes($this->img);
-            $this->content=addslashes($this->content);
+            $this->position=addslashes($this->position);
             $this->title=addslashes($this->title);
             $this->keyword=addslashes($this->keyword);
             $this->description=addslashes($this->description);
@@ -32,12 +26,9 @@ class khachsan
     public function decode()
         {
             $this->id=stripslashes($this->id);
-            $this->danhmuc_id=stripslashes($this->danhmuc_id);
             $this->name=stripslashes($this->name);
             $this->name_url=stripslashes($this->name_url);
-            $this->start=stripslashes($this->start);
-            $this->img=stripslashes($this->img);
-            $this->content=stripslashes($this->content);
+            $this->position=stripslashes($this->position);
             $this->title=stripslashes($this->title);
             $this->keyword=stripslashes($this->keyword);
             $this->description=stripslashes($this->description);

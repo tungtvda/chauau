@@ -56,7 +56,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/hanhtrinh_color.php');
         }
     }
-    if(isset($_POST["hanhtrinh_id"])&&isset($_POST["name"])&&isset($_POST["content"])&&isset($_POST["positon"]))
+    if(isset($_POST["hanhtrinh_id"])&&isset($_POST["name"])&&isset($_POST["color"])&&isset($_POST["content"])&&isset($_POST["positon"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -65,6 +65,8 @@ if(isset($_SESSION["Admin"]))
        $array['hanhtrinh_id']='0';
        if(!isset($array['name']))
        $array['name']='0';
+       if(!isset($array['color']))
+       $array['color']='0';
        if(!isset($array['content']))
        $array['content']='0';
        if(!isset($array['positon']))

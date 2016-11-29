@@ -29,7 +29,7 @@ function view_slide($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>name</th><th>img</th><th>img_small</th><th>position</th>';
+    return '<th>id</th><th>name</th><th>contents_short</th><th>img</th><th>img_small</th><th>link</th><th>position</th>';
 }
 //
 function showTableBody($data)
@@ -40,8 +40,10 @@ function showTableBody($data)
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
         $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->contents_short."</td>";
         $TableBody.="<td><img src=\"".$obj->img."\" width=\"50px\" height=\"50px\"/> </td>";
         $TableBody.="<td><img src=\"".$obj->img_small."\" width=\"50px\" height=\"50px\"/> </td>";
+        $TableBody.="<td>".$obj->link."</td>";
         $TableBody.="<td>".$obj->position."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
@@ -55,7 +57,7 @@ function showFrom($form,$ListKey=array())
 {
     $str_from='';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
-    $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
+    $str_from.='<p><label>contents_short</label><input class="text-input small-input" type="text"  name="contents_short" value="'.(($form!=false)?$form->contents_short:'').'" /></p>';
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
     $str_from.='<p><label>img_small</label><input class="text-input small-input" type="text"  name="img_small" value="'.(($form!=false)?$form->img_small:'').'"/><a class="button" onclick="openKcEditor(\'img_small\');">Upload ảnh</a></p>';
     $str_from.='<p><label>link</label><input class="text-input small-input" type="text"  name="link" value="'.(($form!=false)?$form->link:'').'" /></p>';

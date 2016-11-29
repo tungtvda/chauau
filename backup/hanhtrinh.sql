@@ -1,0 +1,3 @@
+insert into hanhtrinh (name,content) values ('Khám Phá Châu Âu Theo Phong Cách GoEuGo!','<p>
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2012/04/VNmap-2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: rgb(251, 251, 251); outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0); font-family: Arial, Helvetica, sans-serif; font-size: 14px;\"><img alt=\"\" class=\"wp-image-3396\" src=\"http://www.goeugo.vn/wp-content/uploads/2012/04/VNmap-2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></a></p>
+');

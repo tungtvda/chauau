@@ -10,3 +10,4 @@ update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctou
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Vé máy bay',title='Vé máy bay',keyword='Vé máy bay',description='Vé máy bay' where id=3;
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Dịch vụ',title='Dịch vụ',keyword='Dịch vụ',description='Dịch vụ' where id=4;
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Liên hệ',title='Liên hệ',keyword='Liên hệ',description='Liên hệ' where id=5;
+update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Thắng cảnh nổi tiếng',title='Thắng cảnh nổi tiếng',keyword='Thắng cảnh nổi tiếng',description='Thắng cảnh nổi tiếng' where id=6;

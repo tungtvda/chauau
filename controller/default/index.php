@@ -14,11 +14,13 @@ require_once DIR.'/controller/default/public.php';
 $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 ////
-//$data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
+$data['tour_PROMOTIONS']=tour_getByTop(6,'promotion=1 ','id desc');
 //
 //$data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
 //
-//$data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
+$data['tour_danhmuc']=danhmuc_tour_getByTop('','','position desc');
+$data['tintuc_index']=news_getByTop(8,'','id desc');
+$data['hinhanh_index']=tour_img_getByTop(5,'highlight=1','id desc');
 //
 //$data['video']=video_getByTop(1,'highlights=1 ','id desc');
 //$data['count_destinations']=tour_count('danhmuc1_destinations=6');
@@ -38,7 +40,7 @@ $description=($description)?$description:'Dulichchauau.org';
 $keywords=($keyword)?$keyword:'Dulichchauau.org';
 
 show_header($title,$description,$keywords,$data);
-show_menu($data,'home');
+show_menu($data,'trangchu');
 show_slide($data);
 show_index($data);
 show_footer($data);

@@ -136,6 +136,15 @@ a, h1, h2, h3, h4, h5, h6{
     text-align: center;
     float: left;
 }
+.common-menu-wrap .nav>li>ul li a:hover{
+    color: #32aad6;
+}
+.common-menu-wrap .nav>li>ul li{
+    border-bottom: 1px dotted #32aad6;
+}
+.color_name{
+    color: #ffffff;
+}
 @media (max-width: 768px) {
     .short_content{
         height: auto;

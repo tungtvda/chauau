@@ -110,6 +110,8 @@ function show_menu($data1=array(),$active='trangchu')
     $data['config']=$data1['config'];
     $data['active']=$active;
     $data['menu']=$data1['menu'];
+    $data['danhmuc_tour_menu']=danhmuc_tour_getByTop('','','position asc');
+    $data['danhmuc_dichvu_menu']=danhmuc_dichvu_getByTop('','','position asc');
     view_menu($data);
 }
 

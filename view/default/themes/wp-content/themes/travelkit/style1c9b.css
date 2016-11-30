@@ -89,7 +89,7 @@ Text Domain: travelkit
 }
 
 .travelkit-navbar-brand{
-  padding: 15px 0;
+  /*padding: 15px 0;*/
   display: block;
 }
 .travelkit-navbar-brand h1{

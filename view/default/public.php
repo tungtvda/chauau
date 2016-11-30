@@ -65,12 +65,9 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 }
             }
 
-            if(get_class($item)=='danhmuc_2')
+            if(get_class($item)=='danhmuc_tour')
             {
-                    $ft->assign('name',returnLanguageField('name', $item));
-                $ft->assign('view_all',returnLanguage('view_all','VIEW ALL'));
                 $ft->assign('link',link_tour($item));
-                $ft->assign('link_2',link_tour_2($item));
             }
             if(get_class($item)=='video')
             {
@@ -80,18 +77,11 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             {
                 $ft->assign('name',returnLanguageField('name', $item));
             }
-            if(get_class($item)=='slide')
-            {
-                $ft->assign('name',returnLanguageField('name', $item));
-            }
             if(get_class($item)=='tour')
             {
-
-                $ft->assign('name',returnLanguageField('name', $item));
-                $ft->assign('price',returnLanguageField('price', $item));
-                $ft->assign('durations',returnLanguageField('durations', $item));
-                $content=returnLanguageField('content', $item);
-                if (strlen($content) > 200) {
+                $ft->assign('price_format',number_format($item->price,0,",","."));
+                $content=$item->content;
+                if (strlen($item->content) > 200) {
                     $ten1=strip_tags($content);
 
                     $ten = substr($ten1, 0, 200);
@@ -101,11 +91,18 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                     $ft->assign('content',strip_tags($content));
                 }
                 $ft->assign('link',link_tourdetail($item));
-                $ft->assign('currency',returnLanguage('currency','$'));
-                $ft->assign('detail',returnLanguage('detail','DETAIL'));
-                $ft->assign('booking',returnLanguage('booking','BOOKING'));
-                $ft->assign('vehicle',returnLanguage('vehicle',''));
+//                $ft->assign('currency',returnLanguage('currency','$'));
+//                $ft->assign('detail',returnLanguage('detail','DETAIL'));
+//                $ft->assign('booking',returnLanguage('booking','BOOKING'));
+//                $ft->assign('vehicle',returnLanguage('vehicle',''));
 
+            }
+            if(get_class($item)=='tour_img') {
+                $class='column';
+                if($dem==1){
+                    $class='single-col';
+                }
+                $ft->assign('single',$class);
             }
             if(get_class($item)=='danhmuc_tintuc') {
                 $ft->assign('name', returnLanguageField('name', $item));
@@ -114,8 +111,7 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             }
             if(get_class($item)=='news')
             {
-                $ft->assign('name',returnLanguageField('name', $item));
-                $content=returnLanguageField('content', $item);
+                $content=$item->content;
                 if (strlen($content) > 210) {
                     $ten1=strip_tags($content);
 
@@ -125,8 +121,6 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 } else {
                     $ft->assign('content',strip_tags($content));
                 }
-                $ft->assign('detail',returnLanguage('detail','DETAIL'));
-                $ft->assign('news',returnLanguage('news','News'));
                 $ft->assign('link',link_newsdetail($item));
             }
 

@@ -311,7 +311,7 @@ input[type="email"], input[type="url"], input[type="search"], input[type="tel"],
   margin-top: 2px;
 }
 .travelkit-navbar-header .travelkit-navbar-brand img{
-  max-width: 140px;
+  max-width: 190px;
 }
 
 
@@ -485,7 +485,7 @@ header .main-menu-wrap {
   position: absolute;
   content: "[";
   left: -18px;
-  top: 26px;
+  top: 21px;
   font-size: 20px;
 }
 .common-menu-wrap .nav>li>a:after {
@@ -497,7 +497,7 @@ header .main-menu-wrap {
   position: absolute;
   content: "]";
   right: -18px;
-  top: 26px;
+  top: 21px;
   font-size: 20px;
 }
 
@@ -3803,7 +3803,7 @@ body.error404 {
 }
 .thm-tk-search .thm-tk-search-form{
   padding-top: 30px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   font-size: 16px;
 }
 .thm-tk-search .thm-tk-search-form .thm-tk-tab{

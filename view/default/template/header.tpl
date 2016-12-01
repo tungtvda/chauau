@@ -55,8 +55,8 @@
               href='{SITE-NAME}/view/default/themes/wp-includes/js/mediaelement/mediaelementplayer.min51cd.css?ver=2.22.0' type='text/css' media='all'/>
         <link rel='stylesheet' id='wp-mediaelement-css'
               href='{SITE-NAME}/view/default/themes/wp-includes/js/mediaelement/wp-mediaelement.min1c9b.css?ver=4.6.1' type='text/css' media='all'/>
-        <link rel='stylesheet' id='media-views-css' href='{SITE-NAME}/view/default/themes/wp-includes/css/media-views.min1c9b.css?ver=4.6.1' type='text/css'
-              media='all'/>
+        <!--<link rel='stylesheet' id='media-views-css' href='{SITE-NAME}/view/default/themes/wp-includes/css/media-views.min1c9b.css?ver=4.6.1' type='text/css'
+              media='all'/>-->
         <link rel='stylesheet' id='imgareaselect-css' href='{SITE-NAME}/view/default/themes/wp-includes/js/imgareaselect/imgareaselect3bf4.css?ver=0.9.8'
               type='text/css' media='all'/>
         <link rel='stylesheet' id='bootstrap.min-css' href='{SITE-NAME}/view/default/themes/wp-content/themes/travelkit/css/bootstrap.mindc98.css?ver=all'
@@ -216,7 +216,7 @@
             }
 
             .footer-wrap {
-                background-color: #202134;
+                /*background-color: #202134;*/
             }
 
             .common-menu-wrap .nav > li ul {
@@ -383,8 +383,8 @@
             }
 
             .vc_custom_1476955334093 {
-                padding-top: 110px !important;
-                padding-bottom: 65px !important;
+                padding-top: 5px !important;
+                /*padding-bottom: 65px !important;*/
                 background-image: url({SITE-NAME}/view/default/themes/images/Layer-85.png?id=1068) !important;
                 background-position: center !important;
                 background-repeat: no-repeat !important;
@@ -396,3 +396,20 @@
                 }</style>
         </noscript>
     </head>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+                d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+                $.src="//v2.zopim.com/?1yvBi4MFQSLLbInvbhBpu2sLFfBiJZRE";z.t=+new Date;$.
+                type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+    </script>

@@ -78,30 +78,8 @@ function  show_left2($data1=array())
 function  show_right($data1=array())
 {
     $data=array();
-    $data['config']=$data1['config'];
-    $data['ykien']=ykien_getByTop('6','','View desc');
-    $data['tour_noi_bat_trongnuoc']=tourtrongnuoc_getByTop('','NoiBat=1','Id desc');
-    $data['tour_noi_bat_quocte']=tourquocte_getByTop('','NoiBat=1','Id desc');
-    if(isset($_POST['dangky_phone']))
-    {
-        $name=addslashes(strip_tags($_POST['Name']));
-        $phone=addslashes(strip_tags($_POST['Phone']));
-        if($name!=""&&$phone!="")
-        {
-            $new =new dangky();
-            $new->Name=$name;
-            $new->Phone=$phone;
-            dangky_insert($new);
-            echo "<script>alert('You have successfully registered consultants, we will contact you as soon as possible, thank you!')</script>";
-        }
-        else{
-            echo "<script>alert('Please enter your name and telephone number for advice')</script>";
-        }
-
-    }
-
-
-
+    $data['tintuc_right']=news_getByTop('10','','id desc');
+    $data['video_right']=video_getByTop('7','','id desc');
     view_right($data);
 }
 function show_menu($data1=array(),$active='trangchu')

@@ -8,6 +8,8 @@
  */
 require_once DIR.'/common/cls_fast_template.php';
 require_once DIR.'/common/locdautiengviet.php';
+require_once DIR . '/common/redict.php';
+require_once DIR.'/model/danhmuc_tourService.php';
 function print_template($data=array(),$tem)
 {
     $ft=new FastTemplate(DIR.'/view/default/template');
@@ -71,7 +73,12 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             }
             if(get_class($item)=='video')
             {
-                $ft->assign('name',returnLanguageField('name', $item));
+
+                 $class='col-sm-4';
+                if($dem==1){
+                    $class='col-sm-12';
+                }
+                $ft->assign('single',$class);
             }
             if(get_class($item)=='link')
             {
@@ -80,8 +87,8 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             if(get_class($item)=='tour')
             {
                 $ft->assign('price_format',number_format($item->price,0,",","."));
-                $content=$item->content;
-                if (strlen($item->content) > 200) {
+                $content=$item->summary;
+                if (strlen($content) > 200) {
                     $ten1=strip_tags($content);
 
                     $ten = substr($ten1, 0, 200);
@@ -90,11 +97,11 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 } else {
                     $ft->assign('content',strip_tags($content));
                 }
-                $ft->assign('link',link_tourdetail($item));
-//                $ft->assign('currency',returnLanguage('currency','$'));
-//                $ft->assign('detail',returnLanguage('detail','DETAIL'));
-//                $ft->assign('booking',returnLanguage('booking','BOOKING'));
-//                $ft->assign('vehicle',returnLanguage('vehicle',''));
+                $data_dm=danhmuc_tour_getById($item->danhmuc_id);
+                if(count($data_dm)==0){
+                    redict(SITE_NAME);
+                }
+                $ft->assign('link',link_tourdetail($item,$data_dm[0]->name_url));
 
             }
             if(get_class($item)=='tour_img') {
@@ -103,11 +110,6 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                     $class='single-col';
                 }
                 $ft->assign('single',$class);
-            }
-            if(get_class($item)=='danhmuc_tintuc') {
-                $ft->assign('name', returnLanguageField('name', $item));
-                $ft->assign('link',link_news($item));
-                $ft->assign('view_all', returnLanguage('view_all', 'VIEW ALL'));
             }
             if(get_class($item)=='news')
             {
@@ -121,7 +123,30 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 } else {
                     $ft->assign('content',strip_tags($content));
                 }
-                $ft->assign('link',link_newsdetail($item));
+                $data_dm=danhmuc_tour_getById($item->danhmuc_id);
+                if(count($data_dm)==0){
+                    redict(SITE_NAME);
+                }
+                $ft->assign('link',link_newsdetail($item,$data_dm[0]->name_url));
+            }
+            if(get_class($item)=='khachsan')
+            {
+                $content=$item->content;
+                if (strlen($content) > 210) {
+                    $ten1=strip_tags($content);
+
+                    $ten = substr($ten1, 0, 210);
+                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
+                    $ft->assign('content',$name);
+                } else {
+                    $ft->assign('content',strip_tags($content));
+                }
+                $data_dm=danhmuc_tour_getById($item->danhmuc_id);
+                if(count($data_dm)==0){
+                    redict(SITE_NAME);
+                }
+                $ft->assign('start',sao($item->start));
+                $ft->assign('link',link_khachsandetail($item,$data_dm[0]->name_url));
             }
 
 
@@ -138,24 +163,24 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
 }
 function link_tour($app)
 {
-    return SITE_NAME.'/tour/'.$app->name_url.'/';
+    return SITE_NAME.'/'.$app->name_url.'/';
 }
-function link_tour_2($app)
+function link_tourdetail($app,$name_url='')
 {
-    return SITE_NAME.'/destinations/'.$app->name_url.'/';
-}
-function link_tourdetail($app)
-{
-    return SITE_NAME.'/'.$app->name_url.'.html';
+    return SITE_NAME.'/tour/'.$name_url.'/'.$app->name_url.'.html';
 }
 
 function link_news($app)
 {
-    return SITE_NAME.'/news/'.$app->name_url.'/';
+    return SITE_NAME.'/tin-tuc/'.$app->name_url.'/';
 }
-function link_newsdetail($app)
+function link_newsdetail($app,$name_url='')
 {
-    return SITE_NAME.'/news/'.$app->name_url.'.html';
+    return SITE_NAME.'/tin-tuc/'.$name_url.'/'.$app->name_url.'.html';
+}
+function link_khachsandetail($app,$name_url='')
+{
+    return SITE_NAME.'/khach-san/'.$name_url.'/'.$app->name_url.'.html';
 }
 
 

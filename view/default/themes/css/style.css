@@ -145,6 +145,35 @@ a, h1, h2, h3, h4, h5, h6{
 .color_name{
     color: #ffffff;
 }
+.social-share ul li a{
+    font-size: 16px;
+}
+.package-share li a{
+    color: #ed1c24;
+}
+.fa-star{
+    color: #ffd501;
+}
+.tintuc_left li a:hover{
+    color: #32aad6;
+}
+.booking_left p {
+    text-align: left;
+    margin-top: 10px;
+    color: #0086cd !important;
+}
+.booking_left p span {
+    padding-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ec1b23;
+}
+.calculate_bt {
+    width: 40%;
+    color: #ffffff;
+    padding: 10px 20px;
+    background-color: #0086cd;
+}
 @media (max-width: 768px) {
     .short_content{
         height: auto;

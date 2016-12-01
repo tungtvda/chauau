@@ -1,0 +1,1 @@
+<li><a href="{link}"><i class="fa fa-check-circle-o"> </i> {name}</a></li>

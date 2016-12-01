@@ -45,7 +45,7 @@
                                 <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
                                     <a href="">{vemaybay}</a></li>
                                 <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
-                                            href="{SITE-NAME}/lien-he/">{lienhe}</a></li>
+                                            href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                 <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
                                             href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>
 
@@ -86,7 +86,7 @@
                                             title="Hotels" href="">{vemaybay}</a></li>
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
-                                            title="Vehicles" href="{SITE-NAME}/lien-he/">{lienhe}</a></li>
+                                            title="Vehicles" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
                                             title="Vehicles" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>

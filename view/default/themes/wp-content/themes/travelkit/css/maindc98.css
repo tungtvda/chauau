@@ -2054,8 +2054,8 @@ body:not(.single-post) article:hover .blog-details-img img{
 
 /* footer */
 .footer-wrap {
-  background: #20212d;
-  padding: 26px 0;
+  background: #32aad6;
+  padding: 3px 0;
   color: #fff;
   text-transform: uppercase;
 }
@@ -2076,7 +2076,7 @@ body:not(.single-post) article:hover .blog-details-img img{
 
 /* Bottom */
 .bottom {
-  padding: 85px 0;
+  padding: 30px 0;
   border-top: 1px solid #eaeaea;
 }
 .bottom-widget .widget-title {
@@ -2117,6 +2117,7 @@ body:not(.single-post) article:hover .blog-details-img img{
   float: left;
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
+  border: 1px solid #32aad6;
 }
 .mc4wp-form-fields input[type=submit] {
   width: 25%;
@@ -3196,7 +3197,7 @@ height: 164px;
 }
 
 .package-details-choose ul li {
-  width: 33.333333%;
+  width: 24.333333%;
   float: left;
   padding: 0 15px;
 }

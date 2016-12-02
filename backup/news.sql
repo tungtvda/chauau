@@ -2661,3 +2661,11 @@ update news set danhmuc_id='1',name='4 field ravishingly beautiful shepherd in V
 <div>
 	即使在草原长边花的空间，你也可以选择采取与五颜六色的花大草原或录音室的照片</div>
 ',title='4 field ravishingly beautiful shepherd in Vietnam',title_cn='在越南Ravishingly美丽的牧羊4场',keyword='4 field ravishingly beautiful shepherd in Vietnam',keyword_cn='4 field ravishingly beautiful shepherd in Vietnam',description='4 field ravishingly beautiful shepherd in Vietnam',description_cn='4 field ravishingly beautiful shepherd in Vietnam',created='16-10-07 03:26:45' where id=1;
+update news set view='1' where id=5;
+update news set view='2' where id=5;
+update news set view='3' where id=5;
+update news set view='4' where id=5;
+update news set view='5' where id=5;
+update news set view='1' where id=2;
+update news set view='1' where id=2;
+update news set view='1' where id=2;

@@ -43,3 +43,4 @@ update booking_tour set tour_id='9',name_tour='Central And South Of Laos',name_c
 update booking_tour set tour_id='9',name_tour='Central And South Of Laos',name_customer='Trần Văn Tùng',language='en',phone='0123456789',email='tungtv.soict@gmail.com',address='Đông Anh',departure_day='2016-11-01',adults='1',children_5_10='0',children_5='0',price='700',price_children='',price_children_under_5='',total_price='700$',request='<p>
 	Test gửi mail</p>
 ',status='1',created='2016-11-01 05:04:12' where id=26;
+insert into booking_tour (tour_id,name_tour,name_customer,language,phone,email,address,departure_day,adults,children_5_10,children_5,price,price_children,price_children_under_5,total_price,request,status,created) values ('1','Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat','Trần Văn Tùng','','012345645345','tungtv.soict@gmail.com','Hà Nội','2016-12-02','1','0','0','500000','','','500000vnđ','Test','0','16-12-02 03:50:18');

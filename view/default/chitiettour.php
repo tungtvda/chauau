@@ -62,6 +62,59 @@ function show_chitiettour($data = array())
         $asign['quocgia'].=' </ul></div>';
     }
     $asign['date_now'] = date('Y-m-d', strtotime(date(DATETIME_FORMAT)));
+    $asign['date_now_vn'] = date('d-m-Y', strtotime(date(DATETIME_FORMAT)));
+
+    $asign['schedule']=$data['detail'][0]->schedule;
+    $asign['inclusion']=$data['detail'][0]->inclusion;
+    $asign['exclusion']=$data['detail'][0]->exclusion;
+    $asign['price_list']=$data['detail'][0]->price_list;
+
+
+
+    $asign['danhsach_tintuc'] ='';
+    if(count($data['danhsach_tintuc'])>0)
+    {
+        $asign['danhsach_tintuc'] = print_item('danhmuc_tintuc', $data['danhsach_tintuc']);
+    }
+    else{
+        $asign['danhsach_tintuc'] ='<div class="item_tour col-xs-12 col-sm-6 col-md-4">Hệ thống đang cập nhật dữ liệu</div>';
+    }
+    $asign['PAGING_TINTUC']=$data['PAGING_TINTUC'];
+
+    $asign['danhsach_khachsan'] ='';
+    if(count($data['danhsach_khachsan'])>0)
+    {
+        $asign['danhsach_khachsan'] = print_item('danhmuc_khachsan', $data['danhsach_khachsan']);
+    }
+    else{
+        $asign['danhsach_khachsan'] ='<div class="item_tour col-xs-12 col-sm-6 col-md-4">Hệ thống đang cập nhật dữ liệu</div>';
+    }
+    $asign['PAGING_KHACHSAN']=$data['PAGING_KHACHSAN'];
+
+
+    $asign['danhsach_video'] ='';
+    if(count($data['danhsach_video'])>0)
+    {
+        $asign['danhsach_video'] = print_item('danhmuc_video', $data['danhsach_video']);
+    }
+    else{
+        $asign['danhsach_video'] ='<div class="item_tour col-xs-12 col-sm-6 col-md-4">Hệ thống đang cập nhật dữ liệu</div>';
+    }
+
+    $asign['danhsach_hinhanh'] ='';
+    if(count($data['danhsach_hinhanh'])>0)
+    {
+        $asign['danhsach_hinhanh'] = print_item('danhmuc_hinhanh', $data['danhsach_hinhanh']);
+    }
+    else{
+        $asign['danhsach_hinhanh'] ='<div class="item_tour col-xs-12 col-sm-6 col-md-4">Hệ thống đang cập nhật dữ liệu</div>';
+    }
+
+    $asign['tour_lienquan'] ='';
+    if(count($data['tour_lienquan'])>0) {
+        $asign['tour_lienquan'] = print_item('lienquan', $data['tour_lienquan']);
+    }
+
     print_template($asign, 'chitiettour');
 }
 

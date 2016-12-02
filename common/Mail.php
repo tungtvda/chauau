@@ -30,10 +30,8 @@ function SendMail($Sendto,$Body,$Subject)
     $mail->AltBody = "" . $Subject . "";
 
     if (!$mail->Send()) {
-//        $loi = "Đã xảy ra lỗi khi đặt tour, Quý khách vui lòng thực hiện lại: " . $mail->ErrorInfo;
-//        echo "<script>alert('{$loi}');</script>";
+
     } else {
-//        echo "<script>alert('Quý khách đã đặt tour thành công, chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất, Xin cảm ơn!')</script>";
 
     }
 }  

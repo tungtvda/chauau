@@ -20,10 +20,16 @@ if(!isset($_GET['Id'])){
     redict(SITE_NAME);
 }
 $id=addslashes(strip_tags($_GET['Id']));
-$data['detail']=tour_getByTop('1','name_url="'.$id.'"','');
+$data['detail']=news_getByTop('1','name_url="'.$id.'"','');
 if(count($data['detail'])==0){
     redict(SITE_NAME);
 }
+$view=$data['detail'][0]->view;
+$view++;
+$view_update = new news();
+$view_update->id=$data['detail'][0]->id;
+$view_update->view=$view;
+news_update_view($view_update);
 $danhmuc=danhmuc_tour_getById($data['detail'][0]->danhmuc_id);
 if(count($danhmuc)==0){
     redict(SITE_NAME);
@@ -37,11 +43,11 @@ $data['banner']=array(
 );
 $link_pag='/'.$danhmuc[0]->name_url.'/';
 $dk_sub='danhmuc_id='.$danhmuc[0]->id;
-$data['current_tintuc']=isset($_GET['page'])?$_GET['page']:'1';
-$data['pagesize_tintuc']=5;
-$data['count_tintuc']=news_count($dk_sub);
-$data['danhsach_tintuc']=news_getByPaging($data['current_tintuc'],$data['pagesize_tintuc'],'id desc',$dk_sub);
-$data['PAGING_TINTUC'] = showPagingAtLinkSub($data['count_tintuc'], $data['pagesize_tintuc'], $data['current_tintuc'], '' . SITE_NAME . $link_pag,'tin-tuc');
+$data['current']=isset($_GET['page'])?$_GET['page']:'1';
+$data['pagesize']=9;
+$data['count']=tour_count($dk_sub);
+$data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk_sub);
+$data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/'.$danhmuc[0]->name_url.'/');
 
 $data['current_khachsan']=isset($_GET['page'])?$_GET['page']:'1';
 $data['pagesize_khachsan']=5;
@@ -52,7 +58,7 @@ $data['PAGING_KHACHSAN'] = showPagingAtLinkSub($data['count_khachsan'], $data['p
 $data['danhsach_video']=video_getByTop('',$dk_sub,'id desc');
 $data['danhsach_hinhanh']=	tour_img_getByTop('',$dk_sub,'id desc');
 
-$data['tour_lienquan']=tour_getByTop(6,'id!='.$data['detail'][0]->id.' and danhmuc_id='.$data['detail'][0]->danhmuc_id,'id desc');
+$data['tour_lienquan']=news_getByTop(6,'id!='.$data['detail'][0]->id.' and danhmuc_id='.$data['detail'][0]->danhmuc_id,'id desc');
 
 $img_banner=$danhmuc[0]->img;
 $title=$data['detail'][0]->title;
@@ -66,6 +72,6 @@ $keywords=($keyword)?$keyword:'Dulichchauau.org';
 show_header($title,$description,$keywords,$data);
 show_menu($data,'chauau');
 show_banner($data);
-show_chitiettour($data);
+show_chitiettintuc($data);
 show_right($data);
 show_footer($data);

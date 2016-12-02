@@ -3059,8 +3059,8 @@ position: relative;
 
 .package-nav-tab.nav-tabs>li>a {
   border-radius: 2px;
-  padding: 5px 20px;
-  font-size: 16px;
+  padding: 5px 15px;
+  font-size: 15px;
   color: #000;
   border: 0;
   transition: 300ms;

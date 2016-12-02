@@ -110,7 +110,7 @@
                                                 }
                                                 else {
                                                     jQuery('#date_input').val(date_check);
-                                                    jQuery("#date_table").text(date_check.format('DD-MM-YYYY'));
+                                                    jQuery("#date_table").text(convertDate(date_check));
                                                 }
                                             }
 
@@ -144,75 +144,65 @@
                                         jQuery('.back_detail').slideDown();
                                     });
                                     jQuery("#booking_ajax").click(function(){
-                                        $('#loading_booking').show();
-                                        $('#back_booking').hide();
-                                        id=$('#id_input').val();
-                                        name_url=$('#name_url_input').val();
-                                        date=$('#date_input').val();
-                                        price=$('#price_adults').val();
+                                        jQuery('#loading_booking').show();
+                                        jQuery('#back_booking').hide();
+                                        id=jQuery('#id_input').val();
+                                        name_url=jQuery('#name_url_input').val();
+                                        date=jQuery('#date_input').val();
+                                        price=jQuery('#price_adults').val();
                                         price_children=0;
                                         price_children_5=0;
 //                                                        price_children=$('#price_children').val();
 //                                                        price_children_5=$('#price_children_5').val();
-                                        number_adults=$('#num_price_adults').val();
-                                        number_children=$('#num_price_children_val').val();
-                                        number_children_5=$('#num_price_children_5_val').val();
-                                        total_input=$('#total_input').val();
-                                        full_name=$('#name_booking').val();
-                                        email=$('#email_booking').val();
-                                        phone=$('#phone_booking').val();
-                                        address=$('#address_booking').val();
-                                        request=$('#request_booking').val();
+                                        number_adults=jQuery('#num_price_adults').val();
+                                        number_children=jQuery('#num_price_children_val').val();
+                                        number_children_5=jQuery('#num_price_children_5_val').val();
+                                        total_input=jQuery('#total_input').val();
+                                        full_name=jQuery('#name_booking').val();
+                                        email=jQuery('#email_booking').val();
+                                        phone=jQuery('#phone_booking').val();
+                                        address=jQuery('#address_booking').val();
+                                        request=jQuery('#request_booking').val();
                                         check=1;
                                         if(full_name==""){
-                                            $("#full_name_er").show();
+                                            jQuery("#full_name_er").show();
                                             check_name=0;
                                         }
                                         else{
-                                            $("#full_name_er").hide();
+                                            jQuery("#full_name_er").hide();
                                             check_name=1;
                                         }
                                         if(email==""){
-                                            $("#email_er").show();
+                                            jQuery("#email_er").show();
                                             check_email=0;
                                         }else{
                                             if(validateEmail(email)){
-                                                $("#email_er").hide();
+                                                jQuery("#email_er").hide();
                                                 check_email=1;
                                             }else{
-                                                $("#email_er").show();
+                                                jQuery("#email_er").show();
                                                 check_email=0;
                                             }
 
                                         }
                                         if(phone==""){
-                                            $("#phone_er").show();
+                                            jQuery("#phone_er").show();
                                             check_phone=0;
                                         }
                                         else{
-                                            $("#phone_er").hide();
+                                            jQuery("#phone_er").hide();
                                             check_phone=1;
-                                            //if(phonenumber(phone))
-                                            //{
-                                            // $("#phone_er").hide();
-                                            // check_phone=1;
-                                            //}
-                                            // else{
-                                            //$("#phone_er").show();
-                                            //check_phone=0;
-                                            //}
-
                                         }
                                         if(address==""){
-                                            $("#address_er").show();
+                                            jQuery("#address_er").show();
                                             check_address=0;
                                         }else{
-                                            $("#address_er").hide();
+                                            jQuery("#address_er").hide();
                                             check_address=1;
                                         }
                                         if (check_name != 0&&check_email != 0&&check_phone!=0&&check_address!=0) {
 
-                                            $.post("{SITE-NAME}/booking/",
+                                            jQuery.post("{SITE-NAME}/dat-tour/ajax/",
                                                     {
                                                         id: id,
                                                         name_url: name_url,
@@ -236,23 +226,28 @@
                                                     done(function (data) {
                                                         if(data==1)
                                                         {
-                                                            $('#loading_booking').hide();
-                                                            $('#back_booking').show();
-                                                            alert('Booking successfully');
+                                                            jQuery('#loading_booking').hide();
+                                                            jQuery('#back_booking').show();
+                                                            alert('Đặt tour thành công, Chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất. Xin cảm ơn!');
                                                             location.reload(true);
                                                         }
                                                         else{
-                                                            $('#loading_booking').hide();
-                                                            $('#back_booking').show();
-                                                            alert('Booking false')
+                                                            jQuery('#loading_booking').hide();
+                                                            jQuery('#back_booking').show();
+                                                            alert('Đặt tour thất bại, vui lòng kiểm tra lại thông tin đặt tour')
                                                         }
                                                     });
                                         } else {
-                                            alert('{infor_booking}');
+                                            alert('Bạn vui lòng kiểm tra lại thông tin đặt tour');
                                         }
                                     });
 
                                 });
+                                function convertDate(inputFormat) {
+                                    function pad(s) { return (s < 10) ? '0' + s : s; }
+                                    var d = new Date(inputFormat);
+                                    return [pad(d.getDate()), pad(d.getMonth()+1), d.getFullYear()].join('-');
+                                }
                                 function phonenumber(inputtxt)
                                 {
                                     var phoneno = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
@@ -444,7 +439,7 @@
 
 
                                     <p style="margin-bottom: 10px; display: none" id="hidden_total">Thành tiền: <span  class="amount" id="amount_total"></span></p>
-                                    <a style="width: 40%; display: none" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-right"></i> Tiếp tục</a>
+                                    <a style="width: 40%; display: none; margin-top: 20px; float: left" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-right"></i> Tiếp tục</a>
                                 </div>
                                 <div class="next_detail" style="display: none">
                                     <table class="nicdark_table extrabig nicdark_bg_yellow">
@@ -455,7 +450,7 @@
                                                 Ngày khởi hành:
                                             </td>
                                             <td>
-                                                <span id="date_table">{date_now}</span>
+                                                <span id="date_table">{date_now_vn}</span>
                                             </td>
 
                                         </tr>
@@ -499,20 +494,20 @@
                                     </table>
                                     <h3 class=" title left lienquan"></h3>
                                     <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">{full_name_booking}</p>
-                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" id="name_booking">
+                                    <input  class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Họ tên" id="name_booking" style="width:100%">
                                     <p style="color: red ; display: none" id="email_er">{email_booking}</p>
-                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{email}" id="email_booking">
+                                    <input style="width:100%" class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Email" id="email_booking">
                                     <p style="color: red; display: none" id="phone_er">{phone_booking}</p>
-                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" id="phone_booking">
+                                    <input style="width:100%" class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Điện thoại" id="phone_booking">
                                     <p style="color: red; display: none" id="address_er">{add_booking}</p>
-                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{address}" id="address_booking">
-                                                        <textarea style="height:90px"  placeholder="{request}..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="request_booking">
+                                    <input  class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Địa chỉ" id="address_booking">
+                                                        <textarea  style="height:90px; width:100%; margin-bottom: 20px"  placeholder="Yêu cầu..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="request_booking">
 
                                                         </textarea>
 
-                                    <a style="width: 45%;  background-color: #ed1c27" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> {back}</a>
+                                    <a style="width: 45%;  background-color: #ed1c27; float: left" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-left"></i> Trở lại</a>
                                     <img  id="loading_booking" style="width: 45px; display: none" src="{SITE-NAME}/view/default/themes/images/loading.gif">
-                                    <a style="width: 45%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> {booking_lang}</a>
+                                    <a style="width: 45%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-cart-arrow-down"></i> Đặt tour</a>
                                 </div>
                             </div>
                         </div>
@@ -525,21 +520,27 @@
                                         gồm</a></li>
                                 <li class=""><a href="#khongbaogom" role="tab" data-toggle="tab" aria-expanded="false">Không
                                         bao gồm</a></li>
+                                <li class=""><a href="#banggia" role="tab" data-toggle="tab" aria-expanded="false">Bảng giá</a></li>
                                 <li class=""><a href="#binhluan" role="tab" data-toggle="tab" aria-expanded="false">Bình
                                         luận</a></li>
                             </ul><!--/.package-nav-tab-->
                             <div class="tab-content package-tab-content">
                                 <div class="tab-pane fade active in" id="lichtrinh" style="bottom: 0px;">
-                                    lich tirnh
+                                    {schedule}
                                 </div>
                                 <div class="tab-pane fade " id="baogom" style="bottom: 0px;">
-                                    baogom
+                                   {inclusion}
                                 </div>
                                 <div class="tab-pane fade " id="khongbaogom" style="bottom: 0px;">
-                                    khongbaogom
+                                    {exclusion}
+                                </div>
+                                <div class="tab-pane fade " id="banggia" style="bottom: 0px;">
+                                    {price_list}
                                 </div>
                                 <div class="tab-pane fade " id="binhluan" style="bottom: 0px;">
-                                    binhluan
+                                    <div class="fb-comments" data-href="{link}"
+                                         data-colorscheme="light" data-numposts="5"
+                                         data-width="100%"></div>
                                 </div>
                             </div>
                         </div>
@@ -550,345 +551,46 @@
                 <!--/#tourinfo-->
 
                 <!--itinerary-->
-                <div class="tab-pane fade" id="itinerary" style="bottom: 0px;">
+                <div class="tab-pane  {active_tintuc}" id="itinerary" style="bottom: 0px;">
                     <div class="package-details-itinerary">
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <img class="img-responsive"
-                                     src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_18-570x400.jpg"
-                                     alt="photo">
-                            </div><!--/.pull-left-->
-
-                            <div class="media-body">
-                                <h3 class="title"><strong>Day 1,</strong>Arrival at Leh</h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <img class="img-responsive"
-                                     src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_2-1-570x400.jpg"
-                                     alt="photo">
-                            </div><!--/.pull-left-->
-
-                            <div class="media-body">
-                                <h3 class="title"><strong>Day 2,</strong>City of Milan</h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <img class="img-responsive"
-                                     src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_4-1-570x400.jpg"
-                                     alt="photo">
-                            </div><!--/.pull-left-->
-
-                            <div class="media-body">
-                                <h3 class="title"><strong>Day 3,</strong>Adventure in Turin</h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
+                        {danhsach_tintuc}
                     </div><!--/.package-details-itinerary-->
+                    <div class="themeum-pagination">
+                        <ul class="page-numbers">
+                            {PAGING_TINTUC}
+                        </ul>
+                    </div>
                 </div><!--/.tab-pane-->
                 <!--/#itinerary-->
 
                 <!--guide-->
-                <div class="tab-pane fade" id="guide" style="bottom: 0px;">
-                    <div class="package-details-guide">
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <img class="img-responsive"
-                                     src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/08/3.png"
-                                     alt="photo">
-                            </div><!--/.pull-left-->
-
-                            <div class="media-body">
-                                <h3 class="title">Tata Tong</h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                </div><!--/.media-body-content-->
-                                <ul class="package-share">
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                    <li><a href="https://plus.google.com/" target="_blank"><i
-                                                    class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i
-                                                    class="fa fa-youtube"></i></a></li>
-                                </ul>
-
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <img class="img-responsive"
-                                     src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/08/2.png"
-                                     alt="photo">
-                            </div><!--/.pull-left-->
-
-                            <div class="media-body">
-                                <h3 class="title">Riffi Tailor</h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                </div><!--/.media-body-content-->
-                                <ul class="package-share">
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                    <li><a href="https://plus.google.com/" target="_blank"><i
-                                                    class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i
-                                                    class="fa fa-youtube"></i></a></li>
-                                </ul>
-
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
+                <div class="tab-pane  {active_khachsan}" id="hotelinfo" style="bottom: 0px;">
+                    <div class="package-details-itinerary">
+                        {danhsach_khachsan}
                     </div><!--/.package-details-guide-->
+                    <div class="themeum-pagination">
+                        <ul class="page-numbers">
+                            {PAGING_KHACHSAN}
+                        </ul>
+                    </div>
                 </div><!--/.tab-pane-->
                 <!--/#guide-->
-
-                <!--Hotel Info-->
-                <div class="tab-pane fade" id="hotelinfo" style="bottom: 0px;">
-                    <div class="package-details-hotel">
-
-
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <a href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/marquis-los-cabos/"><img
-                                            class="img-responsive"
-                                            src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_2-1-570x400.jpg"
-                                            alt="photo"></a>
-                            </div><!--/.pull-left-->
-
-
-                            <div class="media-body">
-                                <h3 class="title"><a
-                                            href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/marquis-los-cabos/">Marquis
-                                        Los Cabos</a></h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-
-                                <ul class="package-share">
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-youtube"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-globe"></i></a></li>
-                                </ul>
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <a href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/the-boulders-arizona/"><img
-                                            class="img-responsive"
-                                            src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_4-1-570x400.jpg"
-                                            alt="photo"></a>
-                            </div><!--/.pull-left-->
-
-
-                            <div class="media-body">
-                                <h3 class="title"><a
-                                            href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/the-boulders-arizona/">The
-                                        Boulders, Arizona</a></h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-
-                                <ul class="package-share">
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.twitter.com/" target="_blank"><i
-                                                    class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://accounts.google.com/" target="_blank"><i
-                                                    class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i
-                                                    class="fa fa-youtube"></i></a></li>
-                                </ul>
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-
-                        <div class="media common-media-list">
-                            <div class="pull-left">
-                                <a href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/palms-las-vegas/"><img
-                                            class="img-responsive"
-                                            src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_7-1-570x400.jpg"
-                                            alt="photo"></a>
-                            </div><!--/.pull-left-->
-
-
-                            <div class="media-body">
-                                <h3 class="title"><a
-                                            href="http://demo.themeum.com/wordpress/wptravelkit/demo5/hotel/palms-las-vegas/">Palms,
-                                        Las Vegas</a></h3>
-                                <div class="media-body-content">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                                    Duis aute irure dolor in reprehenderit.
-                                </div><!--/.media-body-content-->
-
-                                <ul class="package-share">
-                                    <li><a href="https://www.facebook.com/" target="_blank"><i
-                                                    class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.twitter.com/" target="_blank"><i
-                                                    class="fa fa-twitter"></i></a></li>
-                                    <li><a href="https://accounts.google.com/" target="_blank"><i
-                                                    class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="https://www.youtube.com/" target="_blank"><i
-                                                    class="fa fa-youtube"></i></a></li>
-                                </ul>
-                            </div><!--/.media-body-->
-                        </div><!--/.media-->
-                    </div><!--/.package-details-hotel-->
-                </div><!--/.tab-pane-->
-                <!--/#Hotel Info-->
                 <!--img Info-->
-                <div class="tab-pane fade" id="thuvienanh" style="bottom: 0px;">
+                <div class="tab-pane  {active_thuvien_anh}" id="thuvienanh" style="bottom: 0px;">
                     <div class="package-details-gallery">
                         <div class="row margin-bottom photo-gallery-item">
 
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5665133.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5665133-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
-
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5112865.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/5112865-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
-
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945436.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945436-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
-
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945356.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2945356-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
-
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2120808.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2120808-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
-
-                            <div class="photo-gallery-items col-sm-6 col-md-4">
-                                <div class="gallery-items-img">
-                                    <a href="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2071528.jpg"
-                                       class="plus-icon"><img
-                                                src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2071528-570x400.jpg"
-                                                class="img-responsive" alt="photo : "></a>
-                                </div><!--/.gallery-items-img-->
-                            </div> <!--/.col-md-3-->
+                            {danhsach_hinhanh}
                         </div><!--/.row-->
                     </div>
                 </div><!--/.tab-pane-->
                 <!--/#img Info-->
 
                 <!--Tour Video-->
-                <div class="tab-pane fade" id="tourvideo" style="bottom: 0px;">
+                <div class="tab-pane {active_video}" id="tourvideo" style="bottom: 0px;">
                     <div class="package-details-video">
                         <div class="row">
-                            <div class="col-sm-12">
-                                <div class="tour-video leading">
-                                    <img class="img-responsive"
-                                         src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_8-1-1170x750.jpg"
-                                         alt="photo">
-                                    <a class="btn-video" href="https://www.youtube.com/watch?v=vu-izXGawPs"><i
-                                                class="fa fa-play-circle-o"></i></a>
-
-                                    <h3 class="title">A Travel Guide to Geneva's Old World</h3>
-                                </div><!--/.tour-video-->
-                            </div><!--/.tour-video-->
-                            <div class="col-sm-4">
-                                <div class="tour-video">
-                                    <img class="img-responsive"
-                                         src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_7-1-570x400.jpg"
-                                         alt="photo">
-                                    <a class="btn-video" href="https://www.youtube.com/watch?v=hdBe2kWJP_U"><i
-                                                class="fa fa-play-circle-o"></i></a>
-
-                                    <h3 class="title">Tour of Virgin America Plane and landing</h3>
-                                </div><!--/.tour-video-->
-                            </div><!--/.col-sm-3-->
-                            <div class="col-sm-4">
-                                <div class="tour-video">
-                                    <img class="img-responsive"
-                                         src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_13-1-570x400.jpg"
-                                         alt="photo">
-                                    <a class="btn-video" href="https://www.youtube.com/watch?v=QTZQ9bta31w"><i
-                                                class="fa fa-play-circle-o"></i></a>
-
-                                    <h3 class="title">Washington DC Tour</h3>
-                                </div><!--/.tour-video-->
-                            </div><!--/.col-sm-3-->
-                            <div class="col-sm-4">
-                                <div class="tour-video">
-                                    <img class="img-responsive"
-                                         src="http://demo.themeum.com/wordpress/wptravelkit/demo5/wp-content/uploads/sites/5/2016/10/Image_14-1-570x400.jpg"
-                                         alt="photo">
-                                    <a class="btn-video" href="https://vimeo.com/45174923"><i
-                                                class="fa fa-play-circle-o"></i></a>
-
-                                    <h3 class="title">Jeff Hubbard South America </h3>
-                                </div><!--/.tour-video-->
-                            </div><!--/.col-sm-3-->
+                            {danhsach_video}
                         </div><!--/.row-->
                     </div><!--/.package-details-video-->
                 </div><!--/.tab-pane-->
@@ -903,119 +605,7 @@
         <h3 class="title">Có thể bạn quan tâm</h3>
         <div class="row">
 
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/15231-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="15231">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $850</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/best-tours-in-mexico/">Best
-                                tours in Mexico</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/best-tours-in-mexico/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
-
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/131781-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="131781">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $770</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/holiday-in-azerbaijan/">Holiday
-                                in Azerbaijan</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/holiday-in-azerbaijan/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
-
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/10/Image_18-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="image_18">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $550</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/big-on-tours-sightseeing/">Big
-                                on Tours &amp; Sightseeing</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/big-on-tours-sightseeing/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
-
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/10/Image_1-1-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="image_1">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $450</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/escorted-tours-of-america/">Escorted
-                                tours of America</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/escorted-tours-of-america/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
-
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/10/Image_15-1-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="image_15">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $550</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/sightseeing-tours/">Sightseeing
-                                Tours</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/sightseeing-tours/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
-
-            <div class="col-md-4">
-                <div class="package-list-wrap ">
-                    <img width="570" height="400"
-                         src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/08/gorod-doma-volna-pena-570x400.jpg"
-                         class="img-responsive wp-post-image" alt="gorod-doma-volna-pena">
-                    <div class="package-list-content">
-                        <!-- <p class="package-list-duration"> 2 Days 3 Nights </p> -->
-                        <p class="package-list-duration">3Days, 4 NIghts Start From $850</p>
-                        <h3 class="package-list-title"><a
-                                    href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/hamburger-ham-pig-pork/">Hamburger
-                                ham pork</a></h3>
-                        <a class="package-list-button"
-                           href="http://demo.themeum.com/wordpress/wptravelkit/demo2/package/hamburger-ham-pig-pork/">Book
-                            Now</a>
-                    </div>
-                </div><!--/.package-list-wrap-->
-            </div> <!--/.col-md-3-->
-
+            {tour_lienquan}
         </div> <!-- //row -->
     </div>
 </div>

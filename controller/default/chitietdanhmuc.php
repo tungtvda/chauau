@@ -48,6 +48,7 @@ switch($id){
             'name'=>$name,
             'url'=>'<li><a href="'.SITE_NAME.'" class="breadcrumb_home">Trang chủ</a></li><li class="active">'.$name.'</li>'
         );
+        $data['link_anh']=$data['menu'][1]->img;
         $img_banner=$data['menu'][1]->img;
         $title=$data['menu'][1]->title;
         $description=$data['menu'][1]->description;
@@ -78,6 +79,7 @@ switch($id){
             'name'=>$name,
             'url'=>'<li><a href="'.SITE_NAME.'" class="breadcrumb_home">Trang chủ</a></li><li><a href="'.SITE_NAME.'/du-lich-chau-au/" class="breadcrumb_home">Du lịch Châu Âu</a></li><li class="active">'.$name.'</li>'
         );
+        $data['link_anh']=$danhmuc[0]->img;
         $img_banner=$danhmuc[0]->img;
         $title=$danhmuc[0]->title;
         $description=$danhmuc[0]->description;

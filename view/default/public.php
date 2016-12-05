@@ -80,10 +80,6 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 }
                 $ft->assign('single',$class);
             }
-            if(get_class($item)=='link')
-            {
-                $ft->assign('name',returnLanguageField('name', $item));
-            }
             if(get_class($item)=='tour')
             {
                 $ft->assign('price_format',number_format($item->price,0,",","."));
@@ -128,6 +124,28 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                     redict(SITE_NAME);
                 }
                 $ft->assign('link',link_newsdetail($item,$data_dm[0]->name_url));
+            }
+            if(get_class($item)=='dichvu')
+            {
+                $content=$item->content;
+                if (strlen($content) > 210) {
+                    $ten1=strip_tags($content);
+
+                    $ten = substr($ten1, 0, 210);
+                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
+                    $ft->assign('content',$name);
+                } else {
+                    $ft->assign('content',strip_tags($content));
+                }
+                $data_dm=danhmuc_dichvu_getById($item->danhmuc_id);
+                if(count($data_dm)==0){
+                    redict(SITE_NAME);
+                }
+                $ft->assign('link',link_dichvu($item,$data_dm[0]->name_url));
+            }
+            if(get_class($item)=='danhmuc_dichvu')
+            {
+                $ft->assign('link',link_danhmucdichvu($item));
             }
             if(get_class($item)=='khachsan')
             {
@@ -182,37 +200,19 @@ function link_khachsandetail($app,$name_url='')
 {
     return SITE_NAME.'/khach-san/'.$name_url.'/'.$app->name_url.'.html';
 }
-
-
-
-
-
-
-function link_album($app)
+function link_dichvu($app,$name_url='')
 {
-    return SITE_NAME.'/anh-cuoi/'.$app->Name_url.'/';
+    return SITE_NAME.'/dich-vu/'.$name_url.'/'.$app->name_url.'.html';
 }
-function link_anhcuoi($app)
+function link_danhmucdichvu($app)
 {
-    return SITE_NAME.'/'.LocDau($app->Name).'-l6'.$app->Id.'.html';
-}
-function link_danhmuckhachsan($app)
-{
-    return SITE_NAME.'/khach-san/'.LocDau($app->Name).'/';
-}
-function link_danhmuctourtrongnuoc($app)
-{
-    return SITE_NAME.'/'.$app->Name_url.'/';
-}
-function link_danhmuctourquocte($app)
-{
-    return SITE_NAME.'/'.$app->Name_url.'/';
+    return SITE_NAME.'/dich-vu/'.$app->name_url.'/';
 }
 
-function link_tourtrongnuoc($app)
-{
-    return SITE_NAME.'/'.LocDau($app->Name).'-l1'.$app->Id.'.html';
-}
+
+
+
+
 
 
 

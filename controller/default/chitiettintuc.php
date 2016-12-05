@@ -43,10 +43,34 @@ $data['banner']=array(
 );
 $link_pag='/'.$danhmuc[0]->name_url.'/';
 $dk_sub='danhmuc_id='.$danhmuc[0]->id;
-$data['current']=isset($_GET['page'])?$_GET['page']:'1';
-$data['pagesize']=9;
-$data['count']=tour_count($dk_sub);
-$data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk_sub);
+//$data['current']=isset($_GET['page'])?$_GET['page']:'1';
+//$data['pagesize']=9;
+//$data['count']=tour_count($dk_sub);
+//$data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk_sub);
+//$data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/'.$danhmuc[0]->name_url.'/');
+$pagesize=9;
+$current=isset($_GET['page'])?$_GET['page']:'1';
+$arr_push=array();
+$data_all=tour_getByTop('','','id desc');
+foreach($data_all as $row){
+    $arr_check=explode(',',$row->danhmuc_multi);
+    if($row->danhmuc_id==$danhmuc[0]->id||in_array($danhmuc[0]->id,$arr_check)){
+        array_push($arr_push,$row);
+    }
+}
+$start=($current-1)*$pagesize;
+$data['count']=count($arr_push);
+$arr_push_rest=array();
+$dem=1;
+for($i=$start; $i<=$data['count'];$i++){
+    if(isset($arr_push[$i])&&$dem<=$pagesize){
+        array_push($arr_push_rest,$arr_push[$i]);
+    }
+    $dem++;
+}
+$data['current']=$current;
+$data['pagesize']=$pagesize;
+$data['danhsach']=$arr_push_rest;
 $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/'.$danhmuc[0]->name_url.'/');
 
 $data['current_khachsan']=isset($_GET['page'])?$_GET['page']:'1';

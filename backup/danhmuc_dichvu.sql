@@ -1,0 +1,4 @@
+insert into danhmuc_dichvu (id,name,name_url,position,title,keyword,description) values ('','Visa & Hộ chiếu','visa--ho-chieu','1','Visa & Hộ chiếu','Visa & Hộ chiếu','Visa & Hộ chiếu');
+insert into danhmuc_dichvu (id,name,name_url,position,title,keyword,description) values ('','Land Tour Châu Âu','land-tour-chau-au','2','Land Tour Châu Âu','Land Tour Châu Âu','Land Tour Châu Âu');
+update danhmuc_dichvu set id='1',name='Visa & Hộ chiếu',name_url='visa--ho-chieu',img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',position='1',title='Visa & Hộ chiếu',keyword='Visa & Hộ chiếu',description='Visa & Hộ chiếu' where id=1;
+update danhmuc_dichvu set id='2',name='Land Tour Châu Âu',name_url='land-tour-chau-au',img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',position='2',title='Land Tour Châu Âu',keyword='Land Tour Châu Âu',description='Land Tour Châu Âu' where id=2;

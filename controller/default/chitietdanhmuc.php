@@ -31,6 +31,7 @@ $data['active_thuvien_anh']='';
 $link_pag='';
 $check_show_new=0;
 $current=isset($_GET['page'])?$_GET['page']:'1';
+$active='';
 switch($id){
     case "du-lich-chau-au":
         $function='show_danhmuc';
@@ -56,6 +57,27 @@ switch($id){
         $data['active_tour']='active';
         $link_pag='/du-lich-chau-au/';
         $check_show_new=1;
+        $active='chauau';
+        break;
+    case "dich-vu":
+        $function='show_dichvu';
+        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['pagesize']=9;
+        $data['count']=dichvu_count($dk);
+        $data['danhsach']=dichvu_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/dich-vu/');
+        $name=$data['menu'][3]->name;
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][3]->img,
+            'name'=>$name,
+            'url'=>'<li><a href="'.SITE_NAME.'" class="breadcrumb_home">Trang chủ</a></li><li class="active">'.$name.'</li>'
+        );
+        $data['link_anh']=$data['menu'][3]->img;
+        $img_banner=$data['menu'][3]->img;
+        $title=$data['menu'][3]->title;
+        $description=$data['menu'][3]->description;
+        $keyword=$data['menu'][3]->keyword;
+        $active='dichvu';
         break;
     default:
         $function='show_danhmuc';
@@ -68,10 +90,28 @@ switch($id){
         }
         $dk='danhmuc_id='.$danhmuc[0]->id;
         $dk_sub='danhmuc_id='.$danhmuc[0]->id;
+        $pagesize=9;
+        $arr_push=array();
+        $data_all=tour_getByTop('','','id desc');
+        foreach($data_all as $row){
+            $arr_check=explode(',',$row->danhmuc_multi);
+            if($row->danhmuc_id==$danhmuc[0]->id||in_array($danhmuc[0]->id,$arr_check)){
+                array_push($arr_push,$row);
+            }
+        }
+        $start=($current-1)*$pagesize;
+        $data['count']=count($arr_push);
+        $arr_push_rest=array();
+        $dem=1;
+        for($i=$start; $i<=$data['count'];$i++){
+            if(isset($arr_push[$i])&&$dem<=$pagesize){
+                array_push($arr_push_rest,$arr_push[$i]);
+            }
+            $dem++;
+        }
         $data['current']=$current;
-        $data['pagesize']=9;
-        $data['count']=tour_count($dk);
-        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['pagesize']=$pagesize;
+        $data['danhsach']=$arr_push_rest;
         $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/'.$danhmuc[0]->name_url.'/');
         $name=$danhmuc[0]->name;
         $data['banner']=array(
@@ -87,6 +127,7 @@ switch($id){
         $data['active_tour']='active';
         $link_pag='/'.$danhmuc[0]->name_url.'/';
         $check_show_new=1;
+        $active='chauau';
         break;
 }
 if($check_show_new==1)
@@ -119,6 +160,7 @@ if($check_show_new==1)
 
     $data['danhsach_video']=video_getByTop('',$dk_sub,'id desc');
     $data['danhsach_hinhanh']=	tour_img_getByTop('',$dk_sub,'id desc');
+    $active='chauau';
 }
 
 $title=($title)?$title:'Dulichchauau.org';
@@ -126,7 +168,7 @@ $description=($description)?$description:'Dulichchauau.org';
 $keywords=($keyword)?$keyword:'Dulichchauau.org';
 
 show_header($title,$description,$keywords,$data);
-show_menu($data,'chauau');
+show_menu($data,$active);
 show_banner($data);
 $function($data);
 show_right($data);

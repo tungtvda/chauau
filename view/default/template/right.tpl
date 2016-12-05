@@ -2,7 +2,7 @@
     <aside class="widget-area">
         <div id="search-2" class="widget widget_search">
             <form method="get" id="searchform"
-                  action="http://demo.themeum.com/wordpress/wptravelkit/demo2/">
+                  action="{SITE-NAME}/tim-kiem-tour">
                 <input type="text" value="" name="s" id="s" class="form-control"
                        placeholder="Search . . . . ." autocomplete="off">
                 <button class="btn btn-primary btn-style btn-search"><i class="fa fa-search"></i></button>

@@ -6,6 +6,7 @@ class khachsan
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->danhmuc_id=isset($data['danhmuc_id'])?$data['danhmuc_id']:'';
+    $this->danhmuc_multi=isset($data['danhmuc_multi'])?$data['danhmuc_multi']:'';
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_url=isset($data['name_url'])?$data['name_url']:'';
     $this->start=isset($data['start'])?$data['start']:'';
@@ -21,6 +22,7 @@ class khachsan
         {
             $this->id=addslashes($this->id);
             $this->danhmuc_id=addslashes($this->danhmuc_id);
+            $this->danhmuc_multi=addslashes($this->danhmuc_multi);
             $this->name=addslashes($this->name);
             $this->name_url=addslashes($this->name_url);
             $this->start=addslashes($this->start);
@@ -35,6 +37,7 @@ class khachsan
         {
             $this->id=stripslashes($this->id);
             $this->danhmuc_id=stripslashes($this->danhmuc_id);
+            $this->danhmuc_multi=stripslashes($this->danhmuc_multi);
             $this->name=stripslashes($this->name);
             $this->name_url=stripslashes($this->name_url);
             $this->start=stripslashes($this->start);

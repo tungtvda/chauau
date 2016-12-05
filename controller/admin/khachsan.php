@@ -2,6 +2,7 @@
 require_once '../../config.php';
 require_once DIR.'/model/khachsanService.php';
 require_once DIR.'/model/danhmuc_tourService.php';
+require_once DIR.'/model/danhmuc_room_typeService.php';
 require_once DIR.'/view/admin/khachsan.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
@@ -39,6 +40,7 @@ if(isset($_SESSION["Admin"]))
         $data['tab1_class']='default-tab current';
     }
     $data['listfkey']['danhmuc_id']=danhmuc_tour_getByAll();
+    $data['listfkey']['room_id']=danhmuc_room_type_getByAll();
     if(isset($_GET["action_all"]))
     {
         if($_GET["action_all"]=="ThemMoi")
@@ -56,13 +58,20 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/khachsan.php');
         }
     }
-    if(isset($_POST["danhmuc_id"])&&isset($_POST["name"])&&isset($_POST["name_url"])&&isset($_POST["start"])&&isset($_POST["room_type"])&&isset($_POST["img"])&&isset($_POST["content"])&&isset($_POST["title"])&&isset($_POST["keyword"])&&isset($_POST["description"]))
+    if(isset($_POST["danhmuc_id"])&&isset($_POST["danhmuc_multi"])&&isset($_POST["name"])&&isset($_POST["name_url"])&&isset($_POST["start"])&&isset($_POST["room_type"])&&isset($_POST["img"])&&isset($_POST["content"])&&isset($_POST["title"])&&isset($_POST["keyword"])&&isset($_POST["description"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
        if(!isset($array['danhmuc_id']))
        $array['danhmuc_id']='0';
+        if(!isset($array['danhmuc_multi']))
+            $array['danhmuc_multi']='0';
+        $mutil_dm='';
+        if($_POST["danhmuc_multi"]!=''){
+            $mutil_dm=implode(',',$_POST["danhmuc_multi"]);
+        }
+        $array['danhmuc_multi']=$mutil_dm;
        if(!isset($array['name']))
        $array['name']='0';
        if(!isset($array['name_url']))

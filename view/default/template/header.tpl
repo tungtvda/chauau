@@ -260,7 +260,7 @@
 
             .subtitle-cover {
                 padding: 90px 0 90px;
-                margin-bottom: 100px;
+                margin-bottom: 25px;
             }
 
             body.error404, body.page-template-404 {

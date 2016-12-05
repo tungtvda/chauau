@@ -30,6 +30,9 @@ function show_index($data = array())
     {
         $asign['hinhanh_index'] = print_item('hinhanh_index', $data['hinhanh_index']);
     }
+    $asign['list_Durations']=returnSearchDurations();
+    $asign['list_Quocgia']=returnDanhMucTour();
+    $asign['list_romtype']=returnDanhMucRoomType();
     print_template($asign, 'index');
 }
 

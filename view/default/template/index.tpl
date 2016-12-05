@@ -1,4 +1,3 @@
-
 <div data-vc-full-width="true" data-vc-full-width-init="false"
      class="vc_row wpb_row vc_row-fluid show-overflow package-search-wrapper package-search-wrapper-v2 section-with-border">
     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -12,6 +11,8 @@
                                     <span>Địa điểm</span></a></li>
                             <li><a href="#hotel" class=""><i class="icon-hotel"></i> <span>Khách sạn</span></a>
                             </li>
+                            <li><a href="#tintuc" class=""><i class="fa fa-newspaper-o"></i> <span>Tin tức</span></a>
+                            </li>
                             <!--<li><a href="#flights"><i class="icon-flight"></i>
                                     <span>Chuyến bay</span></a></li>
                             <li><a href="#vehicles" class=""><i class="icon-vehicles"></i>
@@ -22,45 +23,42 @@
                         <div class="thm-tk-tab active" id="holidays">
                             <div class="thm-tk-tab-inner clearfix">
                                 <form id="thm-tk-advancedsearch-form" class="clearfix"
-                                      action="http://demo.themeum.com/wordpress/wptravelkit/demo2/"
+                                      action="{SITE-NAME}/tim-kiem-tour"
                                       method="GET">
                                     <div class="thm-tk-input-4-1">
                                         <label>Từ khóa</label>
-                                        <input type="text" name="s" class="thm-tk-input-first"
+                                        <input type="text" name="key_timkiem" class="thm-tk-input-first"
                                                placeholder="Từ khóa" value="">
                                     </div>
 
                                     <div class="thm-tk-input-4-1">
                                         <label>Location</label>
-                                        <select name="location" class="select2">
-                                            <option value="">Chọn 1 quốc gia</option>
-                                            <option value="america">America</option>
-                                            <option value="australia">Australia</option>
-                                            <option value="france">France</option>
-                                            <option value="india">India</option>
-                                            <option value="london">London</option>
-                                            <option value="russia">Russia</option>
+                                        <select name="quocgia_timkiem" class="select2">
+                                            <option value="">Chọn quốc gia</option>
+                                            {list_Quocgia}
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
                                         <label>Thời gian</label>
-                                        <input type="text" name="checkin"
-                                               class="thm-date-picker" value=""
-                                               placeholder="Check-in date">
+                                        <select name="thoigian_timkiem" class="select2">
+                                            <option value="">Chọn thời gian</option>
+                                            {list_Durations}
+                                        </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
                                         <label>Giá tiền</label>
-                                        <select name="location" class="select2">
-                                            <option value="">Chọn 1 quốc gia</option>
-                                            <option value="america">America</option>
-                                            <option value="australia">Australia</option>
-                                            <option value="france">France</option>
-                                            <option value="india">India</option>
-                                            <option value="london">London</option>
-                                            <option value="russia">Russia</option>
+                                        <select name="gia_timkiem" class="select2">
+                                            <option value="">Chọn giá tiền</option>
+                                            <option value="0-1000000">Dưới 01 Triệu</option>
+                                            <option value="1000000-5000000">01 - 05 Triệu</option>
+                                            <option value="5000000-10000000">05 - 10 Triệu</option>
+                                            <option value="10000000-15000000">10 - 15 Triệu</option>
+                                            <option value="15000000-20000000">15 - 20 Triệu</option>
+                                            <option value="20000000-30000000">20 - 30 Triệu</option>
+                                            <option value="30000000-40000000">30 - 40 Triệu</option>
+                                            <option value="40000000-50000000">40 - 50 Triệu</option>
                                         </select>
                                     </div>
-                                    <input type="hidden" name="post_type" value="package">
                                     <button class="btn btn-primary thm-tk-search-btn"
                                             type="submit">Tìm kiếm
                                     </button>
@@ -70,59 +68,65 @@
                         <div class="thm-tk-tab " id="hotel">
                             <div class="thm-tk-tab-inner">
                                 <form id="thm-tk-advancedsearch-form2" class="clearfix"
-                                      action="http://demo.themeum.com/wordpress/wptravelkit/demo2/"
+                                      action="{SITE-NAME}/tim-kiem-khach-san"
                                       method="GET">
                                     <div class="thm-tk-input-4-1">
                                         <label>Từ khóa</label>
-                                        <input type="text" name="s" id="search-keyword"
+                                        <input type="text" name="key_timkiem" id="search-keyword"
                                                class="thm-tk-input-first"
                                                placeholder="Từ khóa" value="">
                                     </div>
 
                                     <div class="thm-tk-input-4-1">
                                         <label>Location</label>
-                                        <select name="hotel_location" class="select2">
-                                            <option value="">Chọn 1 quốc gia</option>
-                                            <option value="abu-dhabi">Abu Dhabi</option>
-                                            <option value="anguilla">Anguilla</option>
-                                            <option value="bahamas">Bahamas</option>
-                                            <option value="dhaka">dhaka</option>
-                                            <option value="dubai">Dubai</option>
-                                            <option value="german">German</option>
-                                            <option value="las-vegas">Las Vegas</option>
-                                            <option value="london">London</option>
-                                            <option value="los-cabos">Los Cabos</option>
-                                            <option value="new-york-city">New York City</option>
-                                            <option value="paris">Paris</option>
-                                            <option value="rome">Rome</option>
-                                            <option value="trivago">Trivago</option>
-                                            <option value="turkey">Turkey</option>
+                                        <select name="quocgia_timkiem" class="select2">
+                                            <option value="">Chọn quốc gia</option>
+                                            {list_Quocgia}
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
                                         <label>Loại khách sạn</label>
-                                        <select name="hotel_category" class="select2">
-                                            <option value="">Hotel Type</option>
-                                            <option value="3-star">3 Star</option>
-                                            <option value="5-star">5 Star</option>
-                                            <option value="hotel">Hotel</option>
+                                        <select name="sao_timkiem" class="select2">
+                                            <option value="">Loại khách sạn</option>
+                                            <option value="0">0 Sao</option>
+                                            <option value="1">1 Sao</option>
+                                            <option value="2">2 Sao</option>
+                                            <option value="3">3 Sao</option>
+                                            <option value="4">4 Sao</option>
+                                            <option value="5">5 Sao</option>
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
                                         <label>Loại phòng</label>
-                                        <select name="room_type" class="select2">
-                                            <option value="">Room Type</option>
-                                            <option value="doubleroom">Double Room</option>
-                                            <option value="singleroom">Single Room</option>
-                                            <option value="luxuryroom">Luxury Room</option>
-                                            <option value="generalroom">General Room</option>
-                                            <option value="familyroom">Family Room</option>
-                                            <option value="deluxeroom">Deluxe Room</option>
+                                        <select name="room_type_timkiem" class="select2">
+                                            <option value="">Loại phòng</option>
+                                           {list_romtype}
                                         </select>
                                     </div>
                                     <input type="hidden" name="post_type" value="hotel">
                                     <button class="btn btn-primary thm-tk-search-btn"
                                             type="submit">Tìm kiếm
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="thm-tk-tab" id="tintuc">
+                            <div class="thm-tk-tab-inner">
+                                <form  action="{SITE-NAME}/tim-kiem-tin-tuc" class="clearfix">
+                                    <div class="thm-tk-input-4-1">
+                                        <label>Từ khóa</label>
+                                        <input type="text" name="key_timkiem" class="thm-tk-input-first"
+                                               placeholder="Từ khóa" value="">
+                                    </div>
+                                    <div class="thm-tk-input-4-1">
+                                        <label>Chọn quốc gia</label>
+                                        <select name="quocgia_timkiem" class="select2">
+                                            <option value="">Chọn quốc gia</option>
+                                            {list_Quocgia}
+                                        </select>
+                                    </div>
+                                    <button class="btn btn-primary thm-tk-search-btn"
+                                             type="submit">Tìm kiếm
                                     </button>
                                 </form>
                             </div>
@@ -295,13 +299,14 @@
             <div class="wpb_wrapper">
                 <div class="addon-themeum-title " style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">Tour nổi bật</h2>
-                        <p class="thm-sub-titlestandardstylesub">Bạn hãy lựa chọn cho mình những tour nổi bật nhất, ưu đãi nhất</p></div>
+                        <p class="thm-sub-titlestandardstylesub">Bạn hãy lựa chọn cho mình những tour nổi bật nhất, ưu
+                            đãi nhất</p></div>
                 </div>
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
                 <div class="add-popular-tour-package">
                     <div class="row">
-                       {tour_PROMOTIONS}
+                        {tour_PROMOTIONS}
                     </div>
                 </div>
             </div>
@@ -317,7 +322,8 @@
             <div class="wpb_wrapper">
                 <div class="addon-themeum-title " style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">Địa điểm</h2>
-                        <p class="thm-sub-titlestandardstylesub">Khám phá Châu Âu, với rất nhiều địa điểm khách nhau</p></div>
+                        <p class="thm-sub-titlestandardstylesub">Khám phá Châu Âu, với rất nhiều địa điểm khách nhau</p>
+                    </div>
                 </div>
                 <div class="vc_empty_space" style="height: 0px"><span
                             class="vc_empty_space_inner"></span></div>
@@ -338,7 +344,8 @@
                 <div class="addon-themeum-title whitecolor" style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
                             Tin tức &amp; Sự kiện</h2>
-                        <p class="thm-sub-titlestandardstylesub">Thông tin hữu ích cho các bạn khi đi du lịch Châu Âu</p></div>
+                        <p class="thm-sub-titlestandardstylesub">Thông tin hữu ích cho các bạn khi đi du lịch Châu
+                            Âu</p></div>
                 </div>
                 <div class="vc_empty_space" style="height: 50px"><span
                             class="vc_empty_space_inner"></span></div>
@@ -358,7 +365,8 @@
                 <div class="addon-themeum-title " style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
                             Thư viện ảnh</h2>
-                        <p class="thm-sub-titlestandardstylesub">Những hình ảnh đẹp về thiên nhiên, cảnh quan, con người Châu Âu</p></div>
+                        <p class="thm-sub-titlestandardstylesub">Những hình ảnh đẹp về thiên nhiên, cảnh quan, con người
+                            Châu Âu</p></div>
                 </div>
                 <div class="vc_empty_space" style="height:"><span
                             class="vc_empty_space_inner"></span></div>

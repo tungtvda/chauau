@@ -13,5 +13,6 @@ function view_slide($data=array())
     {
         $asign['slide'] = print_item('slide', $data['slide']);
     }
+
     print_template($asign,'slide');
 }

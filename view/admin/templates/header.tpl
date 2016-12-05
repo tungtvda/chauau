@@ -103,6 +103,12 @@
                         <li><a href="{SITE-NAME}/controller/admin/hanhtrinh_color.php">Danh sách color</a></li>
                     </ul>
                 </li>
+                <li class="dropdown {kichhoat_dichvu}"><a href="#"><span class=" icon-random"></span> Dịch vụ</a>
+                    <ul>
+                        <li><a href="{SITE-NAME}/controller/admin/danhmuc_dichvu.php">Danh mục</a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/dichvu.php">Danh sách</a></li>
+                    </ul>
+                </li>
 
                 <li class="{kichhoat_gioithieu}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>
                 <li class="{kichhoat_hotro}"><a href="{SITE-NAME}/controller/admin/subport.php"><span class="icon-question-sign"></span> Hỗ trợ trực tuyến</a></li>

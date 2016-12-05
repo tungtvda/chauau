@@ -62,17 +62,17 @@ function danhmuc_dichvu_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_dichvu_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return danhmuc_dichvu_Get("SELECT danhmuc_dichvu.id, danhmuc_dichvu.name, danhmuc_dichvu.name_url, danhmuc_dichvu.position, danhmuc_dichvu.title, danhmuc_dichvu.keyword, danhmuc_dichvu.description FROM  danhmuc_dichvu ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return danhmuc_dichvu_Get("SELECT danhmuc_dichvu.id, danhmuc_dichvu.name, danhmuc_dichvu.name_url,  danhmuc_dichvu.img, danhmuc_dichvu.position, danhmuc_dichvu.title, danhmuc_dichvu.keyword, danhmuc_dichvu.description FROM  danhmuc_dichvu ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function danhmuc_dichvu_insert($obj)
 {
-    return exe_query("insert into danhmuc_dichvu (id,name,name_url,position,title,keyword,description) values ('$obj->id','$obj->name','$obj->name_url','$obj->position','$obj->title','$obj->keyword','$obj->description')",'danhmuc_dichvu');
+    return exe_query("insert into danhmuc_dichvu (id,name,name_url,img,position,title,keyword,description) values ('$obj->id','$obj->name','$obj->name_url','$obj->img','$obj->position','$obj->title','$obj->keyword','$obj->description')",'danhmuc_dichvu');
 }
 //
 function danhmuc_dichvu_update($obj)
 {
-    return exe_query("update danhmuc_dichvu set id='$obj->id',name='$obj->name',name_url='$obj->name_url',position='$obj->position',title='$obj->title',keyword='$obj->keyword',description='$obj->description' where id=$obj->id",'danhmuc_dichvu');
+    return exe_query("update danhmuc_dichvu set id='$obj->id',name='$obj->name',name_url='$obj->name_url',img='$obj->img',position='$obj->position',title='$obj->title',keyword='$obj->keyword',description='$obj->description' where id=$obj->id",'danhmuc_dichvu');
 }
 //
 function danhmuc_dichvu_delete($obj)

@@ -15,7 +15,7 @@
         </div><!--/.media-body-content-->
 
         <div class="package-share" style="margin-top: 10px">
-           <i class="fa fa-calendar"></i> {start}
+            {start}
         </div><!--/.media-body-content-->
 
         <ul class="package-share">

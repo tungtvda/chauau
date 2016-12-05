@@ -18,4 +18,6 @@ RewriteRule ^dat-tour/ajax/$ controller/default/booking.php
 RewriteRule ^dich-vu/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+).html$ controller/default/chitietdichvu.php?danhmucId=$1&Id=$2
 RewriteRule ^dich-vu/([a-zA-Z0-9_-]+)/$ controller/default/danhmucdichvu.php?Id=$1
 RewriteRule ^dich-vu/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/danhmucdichvu.php?Id=$1&page=$2
-
+RewriteRule ^tim-kiem-tour$ controller/default/timkiemtour.php
+RewriteRule ^tim-kiem-khach-san$ controller/default/timkiemkhachsan.php
+RewriteRule ^tim-kiem-tin-tuc$ controller/default/timkiemtintuc.php

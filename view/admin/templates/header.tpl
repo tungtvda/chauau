@@ -109,7 +109,7 @@
                         <li><a href="{SITE-NAME}/controller/admin/dichvu.php">Danh sách</a></li>
                     </ul>
                 </li>
-
+                <li class="{kichhoat_room}"><a href="{SITE-NAME}/controller/admin/danhmuc_room_type.php"><span class="icon-facetime-video"></span> Danh mục phòng khách sạn</a></li>
                 <li class="{kichhoat_gioithieu}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>
                 <li class="{kichhoat_hotro}"><a href="{SITE-NAME}/controller/admin/subport.php"><span class="icon-question-sign"></span> Hỗ trợ trực tuyến</a></li>
 

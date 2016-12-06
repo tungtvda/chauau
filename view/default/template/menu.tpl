@@ -42,6 +42,8 @@
                                         {danhmuc_dichvu_menu}
                                     </ul>
                                 </li>
+                                <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {hanhtrinh_mn}">
+                                    <a href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
                                 <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
                                     <a href="">{vemaybay}</a></li>
                                 <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
@@ -80,16 +82,18 @@
                                         {danhmuc_dichvu_menu}
                                     </ul>
                                 </li>
-
                                 <li id="menu-item-1024"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a
-                                            title="Hotels" href="">{vemaybay}</a></li>
+                                            title="Hành trình" href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
+                                <li id="menu-item-1024"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a
+                                            title="" href="">{vemaybay}</a></li>
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
-                                            title="Vehicles" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
+                                            title="" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
-                                            title="Vehicles" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>
+                                            title="" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>
                             </ul>
                         </div>
                     </div><!--/.#mobile-menu-->

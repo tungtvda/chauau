@@ -107,6 +107,16 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 }
                 $ft->assign('single',$class);
             }
+            if(get_class($item)=='hanhtrinh_color') {
+                $class1='';
+                $class2='';
+                if($dem==1){
+                    $class1='fade active in';
+                    $class2='active';
+                }
+                $ft->assign('active_tab',$class1);
+                $ft->assign('active_detail',$class1);
+            }
             if(get_class($item)=='news')
             {
                 $content=$item->content;

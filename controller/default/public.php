@@ -105,6 +105,15 @@ function show_footer($data1=array())
     $data=array();
     $data['config']=$data1['config'];
     $data['mangxahoi']=social_getByTop(1,'','');
+    if (isset($_POST['email_footer'])) {
+        $email=addslashes(strip_tags($_POST['email_footer']));
+        $new_dk = new dangky_email();
+        $new_dk->email=$email;
+        $new_dk->status=0;
+        $new_dk->created=date(DATETIME_FORMAT);
+        dangky_email_insert($new_dk);
+        echo "<script>alert('Đăng ký email thành công')</script>";
+    }
     view_footer($data);
 }
 

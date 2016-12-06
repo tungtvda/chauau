@@ -48,8 +48,8 @@
                                     <a href="">{vemaybay}</a></li>
                                 <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
                                             href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
-                                <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
-                                            href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>
+                                <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
+                                            href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>-->
 
                             </ul>
                         </div><!--/#main-menu-->
@@ -91,9 +91,9 @@
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
                                             title="" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
-                                <li id="menu-item-1025"
+                                <!--<li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
-                                            title="" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>
+                                            title="" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>-->
                             </ul>
                         </div>
                     </div><!--/.#mobile-menu-->

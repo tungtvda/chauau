@@ -26,12 +26,10 @@
                             </div>
                             <ul class="nav nav-tabs package-nav-tab " role="tablist">
                                {hanhtrinh_tab}
-                            </ul><!--/.package-nav-tab-->
+                            </ul>
+
                             <div class="tab-content package-tab-content">
-
-
                                {hanhtrinh_detail}
-
                             </div>
 
                         </div>

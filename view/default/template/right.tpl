@@ -1,12 +1,51 @@
 <div id="sidebar" class="col-sm-3" role="complementary">
     <aside class="widget-area">
         <div id="search-2" class="widget widget_search">
-            <form method="get" id="searchform"
-                  action="{SITE-NAME}/tim-kiem-tour">
-                <input type="text" value="" name="s" id="s" class="form-control"
-                       placeholder="Search . . . . ." autocomplete="off">
-                <button class="btn btn-primary btn-style btn-search"><i class="fa fa-search"></i></button>
-            </form>
+            <div class="thm-tk-tab active" id="holidays">
+                <div class="thm-tk-tab-inner clearfix">
+                    <form id="thm-tk-advancedsearch-form" class="clearfix"
+                          action="{SITE-NAME}/tim-kiem-tour"
+                          method="GET">
+                        <div class="thm-tk-input-4-1">
+                            <label hidden>Từ khóa</label>
+                            <input style="width: 100%" type="text" name="key_timkiem" class="thm-tk-input-first"
+                                   placeholder="Từ khóa" value="">
+                        </div>
+
+                        <div class="thm-tk-input-4-1">
+                            <label hidden>Location</label>
+                            <select style="width: 100%" name="quocgia_timkiem" class="select2">
+                                <option value="">Chọn quốc gia</option>
+                                {list_Quocgia}
+                            </select>
+                        </div>
+                        <div class="thm-tk-input-4-1">
+                            <label hidden>Thời gian</label>
+                            <select style="width: 100%" name="thoigian_timkiem" class="select2">
+                                <option value="">Chọn thời gian</option>
+                                {list_Durations}
+                            </select>
+                        </div>
+                        <div class="thm-tk-input-4-1">
+                            <label hidden>Giá tiền</label>
+                            <select style="width: 100%" name="gia_timkiem" class="select2">
+                                <option value="">Chọn giá tiền</option>
+                                <option value="0-1000000">Dưới 01 Triệu</option>
+                                <option value="1000000-5000000">01 - 05 Triệu</option>
+                                <option value="5000000-10000000">05 - 10 Triệu</option>
+                                <option value="10000000-15000000">10 - 15 Triệu</option>
+                                <option value="15000000-20000000">15 - 20 Triệu</option>
+                                <option value="20000000-30000000">20 - 30 Triệu</option>
+                                <option value="30000000-40000000">30 - 40 Triệu</option>
+                                <option value="40000000-50000000">40 - 50 Triệu</option>
+                            </select>
+                        </div>
+                        <button style="float: right;" class="btn btn-primary thm-tk-search-btn"
+                                type="submit">Tìm kiếm
+                        </button>
+                    </form>
+                </div>
+            </div>
         </div>
         <div class="widget widget_meta package-details-content">
             <h3 class="title">Tin tức</h3>

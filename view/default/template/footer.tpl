@@ -7,14 +7,14 @@
         <div class="row clearfix">
             <div class="col-sm-6 col-md-4 bottom-widget">
                 <div id="nav_menu-3" class="widget widget_nav_menu" style="text-align: center">
-                    <a href="http://mixtourist.com"><img
-                                src="http://mixtourist.com/view/default/themes/images/logomix.png"
-                                alt="MIX TOURIST COMPANY"></a>
+                    <a href="{SITE-NAME}"><img
+                                src="{Logo}"
+                                alt="{name}"></a>
                     <div class="menu-selling-container">
-                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-139" method="post" data-id="139"
+                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-139" method="post"
                               data-name="">
-                            <div class="mc4wp-form-fields"><p><input type="email" name="EMAIL"
-                                                                     placeholder="Your email address" required=""><input
+                            <div class="mc4wp-form-fields"><p><input type="email" name="email_footer"
+                                                                     placeholder="Email của bạn" required><input
                                             type="submit" value="Đăng ký"></p>
                             </div>
                             <div class="mc4wp-response"></div>

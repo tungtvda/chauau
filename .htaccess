@@ -22,3 +22,4 @@ RewriteRule ^tim-kiem-tour$ controller/default/timkiemtour.php
 RewriteRule ^tim-kiem-khach-san$ controller/default/timkiemkhachsan.php
 RewriteRule ^tim-kiem-tin-tuc$ controller/default/timkiemtintuc.php
 RewriteRule ^hanh-trinh.html$ controller/default/hanhtrinh.php
+RewriteRule ^lien-he.html$ controller/default/lienhe.php

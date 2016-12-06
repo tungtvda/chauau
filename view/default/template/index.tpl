@@ -26,27 +26,27 @@
                                       action="{SITE-NAME}/tim-kiem-tour"
                                       method="GET">
                                     <div class="thm-tk-input-4-1">
-                                        <label>Từ khóa</label>
+                                        <label hidden>Từ khóa</label>
                                         <input type="text" name="key_timkiem" class="thm-tk-input-first"
                                                placeholder="Từ khóa" value="">
                                     </div>
 
                                     <div class="thm-tk-input-4-1">
-                                        <label>Location</label>
+                                        <label hidden>Location</label>
                                         <select name="quocgia_timkiem" class="select2">
                                             <option value="">Chọn quốc gia</option>
                                             {list_Quocgia}
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
-                                        <label>Thời gian</label>
+                                        <label hidden>Thời gian</label>
                                         <select name="thoigian_timkiem" class="select2">
                                             <option value="">Chọn thời gian</option>
                                             {list_Durations}
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
-                                        <label>Giá tiền</label>
+                                        <label hidden>Giá tiền</label>
                                         <select name="gia_timkiem" class="select2">
                                             <option value="">Chọn giá tiền</option>
                                             <option value="0-1000000">Dưới 01 Triệu</option>
@@ -71,21 +71,21 @@
                                       action="{SITE-NAME}/tim-kiem-khach-san"
                                       method="GET">
                                     <div class="thm-tk-input-4-1">
-                                        <label>Từ khóa</label>
+                                        <label hidden>Từ khóa</label>
                                         <input type="text" name="key_timkiem" id="search-keyword"
                                                class="thm-tk-input-first"
                                                placeholder="Từ khóa" value="">
                                     </div>
 
                                     <div class="thm-tk-input-4-1">
-                                        <label>Location</label>
+                                        <label hidden>Location</label>
                                         <select name="quocgia_timkiem" class="select2">
                                             <option value="">Chọn quốc gia</option>
                                             {list_Quocgia}
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
-                                        <label>Loại khách sạn</label>
+                                        <label hidden>Loại khách sạn</label>
                                         <select name="sao_timkiem" class="select2">
                                             <option value="">Loại khách sạn</option>
                                             <option value="0">0 Sao</option>
@@ -97,7 +97,7 @@
                                         </select>
                                     </div>
                                     <div class="thm-tk-input-4-1">
-                                        <label>Loại phòng</label>
+                                        <label hidden>Loại phòng</label>
                                         <select name="room_type_timkiem" class="select2">
                                             <option value="">Loại phòng</option>
                                            {list_romtype}
@@ -114,12 +114,12 @@
                             <div class="thm-tk-tab-inner">
                                 <form  action="{SITE-NAME}/tim-kiem-tin-tuc" class="clearfix">
                                     <div class="thm-tk-input-4-1">
-                                        <label>Từ khóa</label>
+                                        <label hidden>Từ khóa</label>
                                         <input type="text" name="key_timkiem" class="thm-tk-input-first"
                                                placeholder="Từ khóa" value="">
                                     </div>
                                     <div class="thm-tk-input-4-1">
-                                        <label>Chọn quốc gia</label>
+                                        <label hidden>Chọn quốc gia</label>
                                         <select name="quocgia_timkiem" class="select2">
                                             <option value="">Chọn quốc gia</option>
                                             {list_Quocgia}
@@ -380,80 +380,6 @@
     </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
-<div data-vc-full-width="true" data-vc-full-width-init="false"
-     class="vc_row wpb_row vc_row-fluid thm-res-padding vc_custom_1476955334093 vc_row-has-fill">
-    <div class="wpb_column vc_column_container vc_col-sm-2">
-        <div class="vc_column-inner ">
-            <div class="wpb_wrapper"></div>
-        </div>
-    </div>
-    <div class="wpb_column vc_column_container vc_col-sm-8">
-        <div class="vc_column-inner ">
-            <div class="wpb_wrapper">
-                <div class="atmosphere-details newsletter-icon">
-                    <article class="atmosphere-content" style="">
-                        <ul>
-                            <li><i style="font-size: 48px; color:#ffffff;"
-                                   class="fa fa-envelope-o"></i><span style="font-size: 16px; ">sad</span>
-                            </li>
-                        </ul>
-                    </article>
-                </div>
-                <div class="addon-themeum-title whitecolor themeum-titlelayout-custom"
-                     style="text-align:center;">
-                    <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
-                            SUBSCRIBE TO OUR NEWSLETTER</h2></div>
-                </div>
-                <div class="wpb_text_column wpb_content_element  themeum-newsletter">
-                    <div class="wpb_wrapper">
-                        <script type="text/javascript">(function () {
-                                if (!window.mc4wp) {
-                                    window.mc4wp = {
-                                        listeners: [],
-                                        forms: {
-                                            on: function (event, callback) {
-                                                window.mc4wp.listeners.push({
-                                                    event: event,
-                                                    callback: callback
-                                                });
-                                            }
-                                        }
-                                    }
-                                }
-                            })();
-                        </script>
-                        <!-- MailChimp for WordPress v4.0.7 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
-                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-139" method="post"
-                              data-id="139" data-name="">
-                            <div class="mc4wp-form-fields"><p>
-                                    <input type="email" name="EMAIL"
-                                           placeholder="Your email address" required/>
-                                    <input type="submit" value="Submit">
-                                </p>
-                                <div style="display: none;"><input type="text"
-                                                                   name="_mc4wp_honeypot"
-                                                                   value="" tabindex="-1"
-                                                                   autocomplete="off"/></div>
-                                <input type="hidden" name="_mc4wp_timestamp"
-                                       value="1480145901"/><input type="hidden"
-                                                                  name="_mc4wp_form_id"
-                                                                  value="139"/><input
-                                        type="hidden" name="_mc4wp_form_element_id"
-                                        value="mc4wp-form-1"/></div>
-                            <div class="mc4wp-response"></div>
-                        </form><!-- / MailChimp for WordPress Plugin -->
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="wpb_column vc_column_container vc_col-sm-2">
-        <div class="vc_column-inner ">
-            <div class="wpb_wrapper"></div>
-        </div>
-    </div>
-</div>
 <div class="vc_row-full-width vc_clearfix"></div>
 </div>
 

@@ -51,6 +51,9 @@ if(isset($_GET['room_type_timkiem'])&&$_GET['room_type_timkiem']!=""){
     $demkt++;
 }
 //
+if($dk==""){
+    redict(SITE_NAME);
+}
 $data_all=khachsan_getByTop('',$dk,'id desc');
 if(isset($timkiem_check)){
     $arr_push=array();

@@ -7,7 +7,7 @@ class hanhtrinh_color
     $this->id=isset($data['id'])?$data['id']:'';
     $this->hanhtrinh_id=isset($data['hanhtrinh_id'])?$data['hanhtrinh_id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
-    $this->name=isset($data['name_tab'])?$data['name_tab']:'';
+    $this->name_tab=isset($data['name_tab'])?$data['name_tab']:'';
     $this->color=isset($data['color'])?$data['color']:'';
     $this->content=isset($data['content'])?$data['content']:'';
     $this->positon=isset($data['positon'])?$data['positon']:'';

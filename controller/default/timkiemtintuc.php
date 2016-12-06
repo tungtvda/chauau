@@ -40,6 +40,9 @@ if(isset($_GET['room_type_timkiem'])&&$_GET['room_type_timkiem']!=""){
     $demkt++;
 }
 //
+if($dk==""){
+    redict(SITE_NAME);
+}
 $data['danhsach']=news_getByTop('',$dk,'id desc');
 
 $name=$data['menu'][8]->name;

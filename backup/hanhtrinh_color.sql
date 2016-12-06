@@ -3144,3 +3144,3026 @@ update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN CAM  Book Now!',color=
 <p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
 	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa ăn chung c&ugrave;ng đo&agrave;n (Từ 10 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;10 &ndash; 15&nbsp;</span></p>
 ',positon='6' where id=6;
+update hanhtrinh_color set hanhtrinh_id='1',name='',name_tab='',color='red',content='<p>
+	<font color=\"#191919\" face=\"Arial, Helvetica, sans-serif\"><span style=\"font-size: 14px;\"><b>&aacute;dfsadfasdfasdfasdfasdfsadfdafs</b></span></font></p>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='Tuyến Đỏ',name_tab='Red Line',color='red',content='<p>
+	<font color=\"#191919\" face=\"Arial, Helvetica, sans-serif\"><span style=\"font-size: 14px;\"><b>&aacute;dfsadfasdfasdfasdfasdfsadfdafs</b></span></font></p>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN ĐỎ',name_tab='Red Line',color='red',content='<p>
+	<font color=\"#191919\" face=\"Arial, Helvetica, sans-serif\"><span style=\"font-size: 14px;\"><b>&aacute;dfsadfasdfasdfasdfasdfsadfdafs</b></span></font></p>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH DƯƠNG',name_tab='Blue Line',color='blue',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(51, 102, 255);\">ĐỨC &ndash; CỘNG HO&Agrave; S&Eacute;C &ndash; SLOVAKIA &ndash; HUNGARY &ndash; &Aacute;O &ndash; THUỴ SĨ</span>&nbsp;</strong><br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 07 ng&agrave;y 06 đ&ecirc;m<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi h&agrave;nh: &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 11/4; 9/5; 6/6; 4/7; 8/8; 5/9, 3/10; 7/11; 5/12<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;: &nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Y&ecirc;u Cầu Khởi H&agrave;nh: Từ 10 kh&aacute;ch)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: center;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box; position: relative; max-width: 100%; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 800px;\">
+	<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/blue.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(51, 102, 255);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Mi&ecirc;u Tả:</strong></span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	Tuyến Xanh Biển l&agrave; h&agrave;nh tr&igrave;nh độc đ&aacute;o, mang đến những trải nghiệm mới lạ, những th&agrave;nh phố Trung &Acirc;u đẹp như trong tuyện cổ t&iacute;ch. H&agrave;nh tr&igrave;nh qua 6 quốc gia trong 7 ng&agrave;y. Du kh&aacute;ch chắc chắn sẽ m&ecirc; mẩn với khu phố cổ Praha, tận hưởng khung cảnh Bratislava, s&ocirc;ng Danube mộng mơ, tận hưởng ho&agrave; nhạc Mozart tại &Aacute;o v&agrave; ngắm nh&igrave;n cảnh miền n&uacute;i h&ugrave;ng vĩ, đẹp như tranh vẽ của v&ugrave;ng n&uacute;i Black Forest, Đức v&agrave; v&ugrave;ng n&uacute;i tuyết Titlis, d&atilde;y An Pơ, Thuỵ Sĩ.<br style=\"margin-bottom: 0px;\" />
+	Đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh l&yacute; tưởng cho những du kh&aacute;ch đam m&ecirc; những ki&ecirc;n tr&uacute;c cổ v&agrave; khung cảnh thi&ecirc;n nhi&ecirc;n.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Trước Tour:</strong>&nbsp;Kh&aacute;ch bay từ Việt Nam đến Frankfurt. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br style=\"margin-bottom: 0px;\" />
+	(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại Nh&agrave; Ga Trung T&acirc;m, Frankfurt)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 1: Thứ Hai:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">FRANKFURT &ndash; PRAGUE (530km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3547\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh từ Frankfurt đến Prague, thủ đ&ocirc; của CH S&eacute;c v&agrave; l&agrave; một trong những th&agrave;nh phố c&oacute; nền văn h&oacute;a đặc sắc nhất Ch&acirc;u &Acirc;u kể từ Cuộc C&aacute;ch mạng Nhung. Xe sẽ đi qua nhiều đồng qu&ecirc; xinh đẹp của Đức v&agrave; CH S&eacute;c.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Prague hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">PRAGUE &ndash; BRATISLAVA (330km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/8952533_141359760000_2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3514\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/8952533_141359760000_2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Du kh&aacute;ch tản bộ kh&aacute;m ph&aacute; vẻ đẹp l&atilde;ng mạn v&agrave; kiến tr&uacute;c cổ k&iacute;nh của Prague: L&acirc;u đ&agrave;i cổ Prague, nh&agrave; thờ lớn Saint-Vitus, Khu vườn Na Valech v&agrave; Rajska Zahrada, Con đường V&agrave;ng Golden Lane, c&acirc;y cầu đ&aacute; Charles, chiếc đồng hồ thi&ecirc;n văn học với hơn trăm năm lịch sử, bức tượng 12 vị th&aacute;nh. Mua sắm tự do ở Wenceslas. H&agrave;nh tr&igrave;nh đến Bratislava, thủ đ&ocirc; của Slovakia tham quan Hội trường Th&agrave;nh phố v&agrave; nh&agrave; thờ St. Martin&rsquo;s.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Bratislava hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">BRATISLAVA &ndash; BUDAPEST (200km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Danube.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3515\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Danube.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Đo&agrave;n rời từ Bratislava đến thủ đ&ocirc; Budapest của Hungary, th&agrave;nh phố được mệnh danh l&agrave; Paris của đ&ocirc;ng &Acirc;u. Ngắm nh&igrave;n c&aacute;c cảnh đẹp dọc hai b&ecirc;n bờ s&ocirc;ng Danube thơ mộng. Tham quan danh lam thắng cảnh: Quảng trường Anh h&ugrave;ng, cầu lớn Elizabeth, L&acirc;u đ&agrave;i Fisherman&rsquo;s, nh&agrave; thờ Matthias. Tản bộ l&ecirc;n đồi Gell&eacute;rt để ngắm to&agrave;n cảnh tuyệt đẹp của th&agrave;nh phố Budapest.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Budapest hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">BUDAPEST &ndash; VIENNA (250km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/schonbrunn_palace_garden_original.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3516\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/schonbrunn_palace_garden_original.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Khởi h&agrave;nh đến Vienna, thủ đ&ocirc; của nước &Aacute;o. Tham quan cung điện tuyệt đẹp theo phong c&aacute;ch Baroque &ndash; Sch&ouml;nbrunn, c&ocirc;ng vi&ecirc;n trung t&acirc;m c&oacute; bức tượng mạ v&agrave;ng của nh&agrave; soạn nhạc vĩ đại Johann Strauss. T&ograve;a nh&agrave; Quốc hội, Nh&agrave; h&aacute;t lớn Opera, Đ&agrave;i tưởng niệm Người l&iacute;nh Li&ecirc;n X&ocirc;, Nh&agrave; thờ kiến tr&uacute;c Baroque St. Charles Borromeo, Nh&agrave; thờ lớn St. Est&egrave;phe.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Vienna hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">VIENNA &ndash; SALZBURG &ndash; MUNICH (440km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3517\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Đo&agrave;n đến th&agrave;nh phố Salzburg xinh đẹp &ndash; một trong những di sản thắng cảnh của UNESCO. Tản bộ tham quan qu&ecirc; hương của thi&ecirc;n t&agrave;i &acirc;m nhạc Mozart, nổi bật l&agrave; ng&ocirc;i nh&agrave; của Mozart v&agrave; những địa điểm nổi tiếng gắn liền với bộ phim kinh điển &ldquo;The Sound of Music&rdquo;. Sau đ&oacute;, tiếp tục h&agrave;nh tr&igrave;nh hướng tới Munich, Đức.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Munich hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MUNICH &ndash; MT. TITLIS &ndash; LUCERNE &ndash; ZURICH (480km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3518\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Đo&agrave;n băng qua cung đường tuyệt đẹp của d&atilde;y Alps hướng về đỉnh n&uacute;i tuyết nổi danh Titlis. Tr&ecirc;n đướng đi, đo&agrave;n tuỳ chọn gh&eacute; thăm một trong những c&ocirc;ng quốc nhỏ nhất tr&ecirc;n thế giới. Du kh&aacute;ch kh&ocirc;ng n&ecirc;n bỏ qua trải nghiệm c&aacute;p treo l&ecirc;n đỉnh n&uacute;i tuyết Titlis. Tận hưởng tuyết trắng của d&atilde;y n&uacute;i Alps, từ đỉnh cao ngắm nh&igrave;n to&agrave;n cảnh thi&ecirc;n nhi&ecirc;n y&ecirc;n b&igrave;nh của Thụy Sĩ. Sau đ&oacute; đo&agrave;n đi tham quan thị trấn nhỏ Lucerne với cảnh đẹp như tranh vẽ thuộc miền trung Thụy Sĩ. Đi bộ tham quan c&acirc;y cầu gỗ Chapel, hồ Lucerne v&agrave; Tượng sư tử đ&aacute; biểu tượng của tinh thần dũng cảm v&agrave; trung th&agrave;nh của người Thụy Sĩ. Dạo phố mua sắm đồ mỹ nghệ tinh xảo hoặc c&aacute;c thương hiệu đồng hồ Thụy Sĩ trứ danh.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">ZURICH &ndash; RHINE FALLS &ndash; TITISEE &ndash; FRANKFURT (400km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/black-forest.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3519\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/black-forest.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Đến với Zurich, th&agrave;nh phố lớn nhất v&agrave; l&agrave; trung t&acirc;m t&agrave;i ch&iacute;nh của Thụy Sĩ. Sau khi nghỉ ch&acirc;n b&ecirc;n hồ Zurich, đo&agrave;n đến th&aacute;c Rhine Falls, th&aacute;c nước lớn nhất ch&acirc;u &Acirc;u. Điểm đến hấp dẫn tiếp theo l&agrave; Khu Rừng Đen &ndash; Black Forest của Đức, qu&ecirc;n hương của những chiếc đồng hồ C&uacute;c Cu nổi tiếng. Tại đ&acirc;y, du kh&aacute;ch sẽ được giới thiệu quy tr&igrave;nh sản xuất đồng hồ, nghỉ ngơi b&ecirc;n hờ Black Forest v&agrave; thưởng thức m&oacute;n tr&aacute;ng miệng Black Forest. Khởi h&agrave;nh đi Frankfurt.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Sau Tour:</strong><br />
+	H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfut hay khu vực l&acirc;n cận</i><br style=\"margin-bottom: 0px;\" />
+	(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*):&nbsp; 183.4 Euro (Khoảng 4.600.000 đ)</b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Con đường V&agrave;ng Golden Lane, Praha, CH S&eacute;c* &nbsp; &nbsp; &nbsp; &euro;13</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Ph&aacute;o đ&agrave;i Fisherman&rsquo;s Bastion, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;2.50</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Nh&agrave; thờ Matthias, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;7</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền s&ocirc;ng Danube, Budapest, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;15</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa ăn tối k&egrave;m biểu diễn nhạc truyền thống Hungary* &nbsp; &nbsp;&euro;50</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Cung điện m&ugrave;a h&egrave; Schonbrunn, Vienna, &Aacute;o* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.3</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">C&aacute;p treo n&uacute;i Titlis, Thuỵ Sĩ* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;80</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Liechtenstein, một trong những quốc gia nhỏ nhất thế giới * &euro;10</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa ăn với sườn nướng đặc sản Vienna, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Ho&agrave; nhac Vinnea, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Từ &euro;50</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">THUẾ V&Agrave;O TH&Agrave;NH PHỐ CH S&Eacute;C &amp; VIENNA (Bắt buộc).&nbsp;</b><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng cộng</b><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">: 10 Euro (Khoảng 250.000)</b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o CH S&eacute;c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;5</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Vienna, &Aacute;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&euro;5</span></p>
+',positon='3' where id=3;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN VÀNG',name_tab='Yellow Line',color='yellow',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">T&acirc;y Ban Nha &ndash; Bồ Đ&agrave;o Nha</strong></span><br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời Gian: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>07 ng&agrave;y 06 đ&ecirc;m<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 18/4; 16/5; 13/6; 11/7; 15/8; 12/9<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu/VND. Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* v&agrave; ăn s&aacute;ng.<br />
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: từ 10 kh&aacute;ch)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: center;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box; position: relative; max-width: 100%; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 800px;\">
+	<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/yellow.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Mi&ecirc;u Tả:</strong></span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	H&agrave;nh tr&igrave;nh Tuyến V&agrave;ng sẽ đưa bạn đến những th&agrave;nh phố h&agrave;o hứng Madrid, Barcelona, Lisbon&hellip;. Trong suốt 07 ng&agrave;y h&agrave;nh tr&igrave;nh, du kh&aacute;ch sẽ c&oacute; những kh&aacute;m ph&aacute; th&uacute; vị về văn ho&aacute;, kiến tr&uacute;c, ẩm thực v&agrave; phong cảnh mang đậm chất Địa Trung Hải của 2 quốc gia n&agrave;y. Đối với những ai th&iacute;ch biển xanh th&igrave; đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh đ&aacute;ng để trải nghiệm. .</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Trước Tour:</strong>&nbsp;Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br style=\"margin-bottom: 0px;\" />
+	(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại(Quảng trường Trung t&acirc;m, Barcelona)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">Ng&agrave;y 1: Thứ Hai</span>:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">BARCELONA &ndash; VALECIA &nbsp;- ALICANTE (525km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng đo&agrave;n rời khỏi Barcelona để đến Valencia, th&agrave;nh phố lớn thứ 3 của T&acirc;y Ban Nha. Tham quan Quảng trường cổ, C&aacute;nh cửa cổ dẫn v&agrave;o th&agrave;nh phố v&agrave; Nh&agrave; thờ Valencia. Tiến đến b&atilde;i biển c&aacute;t trắng nghỉ ngơi.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Alicante hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">ALICANTE &nbsp;- GRANADA &ndash; MALAGA (485km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3527\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh đi Granada. Tham quan L&acirc;u đ&agrave;i đỏ Alhambra, b&atilde;i biển Costa del Sol đầy &aacute;nh nắng mặt trời trước khi đến th&agrave;nh phố lớn nhất v&ugrave;ng duy&ecirc;n hải l&agrave; Malaga. Đ&acirc;y cũng l&agrave; qu&ecirc; hương của họa sĩ lừng danh Picasso.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Malaga hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MALAGA &ndash; SEVILLE (210km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3528\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng, đo&agrave;n h&agrave;nh tr&igrave;nh về phương bắc đến khu vực trung t&acirc;m Andalusia của Seville. Tham quan Lăng mộ ho&agrave;ng gia nơi ch&ocirc;n cất c&aacute;c vị Ho&agrave;ng đế trong hơn một thế kỷ;&nbsp;L&acirc;u đ&agrave;i Alcazar&nbsp;được Unesco c&ocirc;ng nhận l&agrave; Di sản văn h&oacute;a thế giới;&nbsp;Nh&agrave; thờ được x&acirc;y dựng v&agrave;o thế kỷ 16.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Seville hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">SEVILLE &ndash; LISBON (460km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3529\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh đi Lisbon thủ đ&ocirc; Bồ Đ&agrave;o Nha, dự kiến sẽ đến Cabo da Roca. Tại đ&acirc;y Qu&yacute; kh&aacute;ch c&oacute; cơ hội thưởng thức phong cảnh đẹp của th&agrave;nh phố cực T&acirc;y của đại lục ch&acirc;u &Acirc;u. Tham quan đ&agrave;i tưởng niệm, tu viện Jeronimos, sau đ&oacute; đến quảng trường Marques de Pombal qu&yacute; kh&aacute;ch tự do mua sắm.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Lisbon hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">LISBON &ndash; TOLEDO &ndash; MADRID (675km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3530\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Xe khởi h&agrave;nh hướng về Madrid, thủ đ&ocirc; của T&acirc;y Ban Nha. Tr&ecirc;n đường đi, đo&agrave;n gh&eacute; tham quan th&agrave;nh phố cổ Toledo, l&acirc;u đ&agrave;i, kiến tr&uacute;c vĩ đại của nh&agrave; thờ lớn tại đ&acirc;y. Sau đ&oacute; đến Madrid.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Madrid hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MADRID &ndash; ZARAGOZA (320km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3531\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Tham quan Madrid, thủ đ&ocirc; T&acirc;y Ban Nha: Đ&agrave;i phun nước Tbilisi, Đ&agrave;i tưởng niệm Christopher Columbus, Trường Đại Học v&agrave; Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha. Đến Puerta, đo&agrave;n dừng ch&acirc;n mua sắm mặc h&agrave;ng da, quần &aacute;o v&agrave; đồ lưu niệm. Đầu giờ chiều, đo&agrave;n chia tay Madrid để h&agrave;nh tr&igrave;nh hướng về Zaragoza.<br />
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Zaragoza hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">ZARAGOZA &ndash; BARCELONA (300km)</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; text-align: justify;\">
+	&nbsp;</p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3532\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng bắt đầu h&agrave;nh tr&igrave;nh đến Barcelona, tham quan Đ&agrave;i tưởng niệm Columbus, Nh&agrave; thờ Holy Family, s&acirc;n vận động Nou Camp, nơi tổ chức Thế vận hội Barcelona 1992. Thời gian c&ograve;n lại d&agrave;nh cho shopping tại Plaza Catalonia.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Sau Tour:</strong><br />
+	H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i><br style=\"margin-bottom: 0px;\" />
+	(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	*** Ăn s&aacute;ng: theo ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, tr&agrave;, c&agrave; ph&ecirc;, sữa.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\">V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute;&nbsp; c&oacute; thể thay đổi)</span></b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 186.9 Euro (Khoảng 4.700.000 đ)</b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha, Madrid &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;8</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Nh&agrave; thờ Sagrada Familia, Barcelona (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;14.8</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Alhambra, Granada (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;14</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Gibraltar, Malaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;2.1&nbsp;</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Alcazar, Segovia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">S&acirc;n vận động Camp Nou, Barcelona &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;23</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;55</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn đến thị trấn Mijas, Malaga &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15&nbsp;</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn bờ biển Alicante ban đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10&nbsp;</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn th&agrave;nh phố v&aacute;ch n&uacute;i Ronda &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;20</span></p>
+',positon='4' where id=4;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN TÍM',name_tab='Purple Line',color='purple',content='<div id=\"tabs2\" style=\"margin: 0px 40px 40px 0px; padding: 0px 40px 0px 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background: rgb(251, 251, 251); width: 890px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<div class=\"transition\" id=\"tabs_container\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: white; transition: all 0.3s ease-in-out 0.3s; overflow: hidden; position: relative; height: 2526px;\">
+		<div class=\"tabcontent hideleft make_transist showleft\" id=\"tabs5\" style=\"margin: 0px 40px 40px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; transition: all 0.3s ease-in-out 0.3s; transform: translateX(0px); opacity: 1; width: 890px; position: absolute; top: 40px;\">
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(128, 0, 128);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Anh &ndash; Scotland&nbsp;</strong></span><br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời Gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hằng tuần<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp;Tiếng Hoa.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: center;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; position: relative; max-width: 100%; width: 800px;\">
+				<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/pu.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(128, 0, 128);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Mi&ecirc;u Tả:</strong></span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				Tuyến T&iacute;m l&agrave; sự kết hợp giữa sự cổ điển, hiện đại của Vương Quốc Anh với khung cảnh thi&ecirc;n nhi&ecirc;n thanh b&igrave;nh của Scotland.<br />
+				H&agrave;nh tr&igrave;nh Tuyến T&iacute;m sẽ đưa du kh&aacute;ch băng qua eo biển để đến với thủ đ&ocirc; London hiện đại của nước Anh. Du kh&aacute;ch sẽ c&oacute; cơ hội tham quan những cung điện Ho&agrave;ng gia Anh v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh kiến tr&uacute;c nổi tiếng thế giới của nước Anh như cung điện Buckingham, Tu viện Westminster, Đại học Cambridge v&agrave; s&acirc;n vận động Manchester&hellip;<br style=\"margin-bottom: 0px;\" />
+				Đảo quốc Anh &amp; Scotland chắc chắn sẽ d&agrave;nh cho du kh&aacute;ch 07 ng&agrave;y h&agrave;nh tr&igrave;nh đ&aacute;ng nhớ.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 1: Thứ Bảy:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">PARIS &ndash; LONDON (470km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Dover-UK.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3533\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Dover-UK.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				H&agrave;nh tr&igrave;nh đến Bến cảng Ph&aacute;p, xe đưa đo&agrave;n băng qua eo biển Anh để đến Cảng Dover của Anh. Thưởng ngoạn phong cảnh tr&ecirc;n đường về thủ đ&ocirc; London. Nếu c&oacute; nhiều thời gian sẽ dạo 1 v&ograve;ng tr&ecirc;n khu phố China Town.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">LONDON</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Big-Ben-England.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3534\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Big-Ben-England.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Kh&aacute;m ph&aacute; London với c&aacute;c địa điểm hấp dẫn nhất: Th&aacute;p Đồng hồ Big Ben, t&ograve;a nh&agrave; Quốc Hội, tu viện Westminster, sau đ&oacute; từ đường Whitehall, hướng dẫn vi&ecirc;n dẫn đo&agrave;n tản bộ đến khu văn ph&ograve;ng thủ tướng số 10 phố Downing tham quan v&agrave; chụp ảnh b&ecirc;n ngo&agrave;i. Tiếp theo đ&oacute;, thăm c&ocirc;ng vi&ecirc;n Saint James Park, cung điện Buckingham, s&ocirc;ng Thames. Buổi trưa đo&agrave;n gh&eacute; tham quan b&ecirc;n ngo&agrave;i nh&agrave; thờ St Paul&rsquo;s v&agrave; Th&aacute;p London..</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">LONDON &ndash; CAMBRIDGE &ndash; YORK (350km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cambridge-england.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3535\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cambridge-england.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Tham quan Trường Đại học Cambridge cổ k&iacute;nh v&agrave; danh tiếng h&agrave;ng đầu kh&ocirc;ng chỉ của nước Anh m&agrave; c&ograve;n của cả thế giới. Sau đ&oacute; đo&agrave;n di chuyển đến York, th&agrave;nh phố đặc trưng với sự pha trộn giữa kiến tr&uacute;c La M&atilde;, Anglo-Saxon v&agrave; Viking. Tham quan York Minster, ph&aacute;o đ&agrave;i vững chắc của Đế chế La M&atilde; một thời h&ugrave;ng mạnh, mua sắm qu&agrave; lưu niệm đặc trưng.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: York hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">YORK &nbsp;- EDINBURGH &ndash; GLASGOW (400km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Edinburg.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3536\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Edinburg.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Edinburgh l&agrave; điểm đến tiếp theo trong cuộc h&agrave;nh tr&igrave;nh. Tham quan l&acirc;u đ&agrave;i Edinburgh nơi trung b&agrave;y Vương miện ho&agrave;ng gia v&agrave; c&aacute;c m&oacute;n đồ trang sức đắt gi&aacute;, tham quan b&ecirc;n ngo&agrave;i Cung điện Holyrood, ngắm từ b&ecirc;n ngo&agrave;i T&ograve;a thị ch&iacute;nh v&agrave; C&ocirc;ng vi&ecirc;n Holyrook park. Sau đ&oacute; khởi h&agrave;nh đến Glasgow.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Glasgow hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 5: Thứ Tư:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">GLASGOW &ndash; GRETNA GREEN &ndash; LAKE DISTRICT &ndash; MANCHESTER (360km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3537\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Tr&ecirc;n đường đến Lake District, gh&eacute; thăm thị trấn Gretna Green xinh đẹp, c&ocirc;ng vi&ecirc;n quốc gia Lake District, du thuyền tr&ecirc;n Hồ Windermere, bảo t&agrave;ng Red Scarf. Đo&agrave;n khởi h&agrave;nh đến Manchester, th&agrave;nh phố được biết đến với CLB b&oacute;ng đ&aacute; nổi tiếng thế giới, gh&eacute; s&acirc;n vận động Manchester.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Manchester hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MANCHESTER &ndash; STRATFORD &ndash; Upon -Avon &ndash; BICESTER &ndash; LONDON (380km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3538\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Khởi h&agrave;nh đến Stratford-upon-Avon, qu&ecirc; hương của Shakespeare. Tham quan trường học v&agrave; nh&agrave; thờ tại đ&acirc;y. Sau đ&oacute; khởi h&agrave;nh đến London, gh&eacute; thi&ecirc;n đường h&agrave;ng hiệu Bicester Village với c&aacute;c thương hiệu như: Gucci, Armani, Prada, Calvin Klein, Dunhill, DKNY, Burberry, Paul Smith, Bally, Le Creuset, Clarks&hellip;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">LONDON &ndash; PARIS (450km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3539\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đo&agrave;n bắt đầu h&agrave;nh tr&igrave;nh trở về eo biển Anh để quay về Paris, Ph&aacute;p.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận<br />
+				<em style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(153, 51, 102);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">TUYẾN T&Iacute;M&nbsp; &ndash; V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 88.4 Bảng Anh (Khoảng 2.800.000 đ)</b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Đi thuyền k&ecirc;nh Cambridge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;uđ&agrave;i Edinburgh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền hồ Windermere &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.5 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Shakespeare Birthplace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15.9 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thamquan University of Oxford &nbsp; &nbsp;10 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền s&ocirc;ng Thames &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15 GBP</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Ph&iacute; v&agrave; thuế đi qua đường hầm dưới biển (Bắt buộc) &nbsp; &nbsp; &nbsp; &nbsp;10 GBP</span></p>
+			<p style=\"margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+		</div>
+		<div class=\"tabcontent hideleft make_transist\" id=\"tabs4\" style=\"margin: 0px 40px 40px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; transition: all 0.3s ease-in-out; transform: translateX(-100%); opacity: 0; width: 890px; position: absolute; top: 40px;\">
+			<h3 style=\"margin: 11px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 28px; vertical-align: baseline; background: transparent; font-weight: normal; line-height: 28px;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 215, 0);\">TUYẾN V&Agrave;NG&nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+			<hr style=\"border-right: none; border-bottom: none; border-left: none; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-image: initial; clear: both; margin: 25px 0px; height: 1px;\" />
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">T&acirc;y Ban Nha &ndash; Bồ Đ&agrave;o Nha</strong></span><br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời Gian: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>07 ng&agrave;y 06 đ&ecirc;m<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 18/4; 16/5; 13/6; 11/7; 15/8; 12/9<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu/VND. Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* v&agrave; ăn s&aacute;ng.<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: từ 10 kh&aacute;ch)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: center;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; position: relative; max-width: 100%; width: 800px;\">
+				<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/yellow.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Mi&ecirc;u Tả:</strong></span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				H&agrave;nh tr&igrave;nh Tuyến V&agrave;ng sẽ đưa bạn đến những th&agrave;nh phố h&agrave;o hứng Madrid, Barcelona, Lisbon&hellip;. Trong suốt 07 ng&agrave;y h&agrave;nh tr&igrave;nh, du kh&aacute;ch sẽ c&oacute; những kh&aacute;m ph&aacute; th&uacute; vị về văn ho&aacute;, kiến tr&uacute;c, ẩm thực v&agrave; phong cảnh mang đậm chất Địa Trung Hải của 2 quốc gia n&agrave;y. Đối với những ai th&iacute;ch biển xanh th&igrave; đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh đ&aacute;ng để trải nghiệm. .</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Trước Tour:</strong>&nbsp;Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br style=\"margin-bottom: 0px;\" />
+				(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại(Quảng trường Trung t&acirc;m, Barcelona)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">Ng&agrave;y 1: Thứ Hai</span>:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">BARCELONA &ndash; VALECIA &nbsp;- ALICANTE (525km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Buổi s&aacute;ng đo&agrave;n rời khỏi Barcelona để đến Valencia, th&agrave;nh phố lớn thứ 3 của T&acirc;y Ban Nha. Tham quan Quảng trường cổ, C&aacute;nh cửa cổ dẫn v&agrave;o th&agrave;nh phố v&agrave; Nh&agrave; thờ Valencia. Tiến đến b&atilde;i biển c&aacute;t trắng nghỉ ngơi.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Alicante hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">ALICANTE &nbsp;- GRANADA &ndash; MALAGA (485km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3527\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Buổi s&aacute;ng khởi h&agrave;nh đi Granada. Tham quan L&acirc;u đ&agrave;i đỏ Alhambra, b&atilde;i biển Costa del Sol đầy &aacute;nh nắng mặt trời trước khi đến th&agrave;nh phố lớn nhất v&ugrave;ng duy&ecirc;n hải l&agrave; Malaga. Đ&acirc;y cũng l&agrave; qu&ecirc; hương của họa sĩ lừng danh Picasso.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Malaga hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MALAGA &ndash; SEVILLE (210km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3528\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Buổi s&aacute;ng, đo&agrave;n h&agrave;nh tr&igrave;nh về phương bắc đến khu vực trung t&acirc;m Andalusia của Seville. Tham quan Lăng mộ ho&agrave;ng gia nơi ch&ocirc;n cất c&aacute;c vị Ho&agrave;ng đế trong hơn một thế kỷ;&nbsp;L&acirc;u đ&agrave;i Alcazar&nbsp;được Unesco c&ocirc;ng nhận l&agrave; Di sản văn h&oacute;a thế giới;&nbsp;Nh&agrave; thờ được x&acirc;y dựng v&agrave;o thế kỷ 16.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Seville hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">SEVILLE &ndash; LISBON (460km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3529\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Buổi s&aacute;ng khởi h&agrave;nh đi Lisbon thủ đ&ocirc; Bồ Đ&agrave;o Nha, dự kiến sẽ đến Cabo da Roca. Tại đ&acirc;y Qu&yacute; kh&aacute;ch c&oacute; cơ hội thưởng thức phong cảnh đẹp của th&agrave;nh phố cực T&acirc;y của đại lục ch&acirc;u &Acirc;u. Tham quan đ&agrave;i tưởng niệm, tu viện Jeronimos, sau đ&oacute; đến quảng trường Marques de Pombal qu&yacute; kh&aacute;ch tự do mua sắm.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Lisbon hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">LISBON &ndash; TOLEDO &ndash; MADRID (675km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3530\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Xe khởi h&agrave;nh hướng về Madrid, thủ đ&ocirc; của T&acirc;y Ban Nha. Tr&ecirc;n đường đi, đo&agrave;n gh&eacute; tham quan th&agrave;nh phố cổ Toledo, l&acirc;u đ&agrave;i, kiến tr&uacute;c vĩ đại của nh&agrave; thờ lớn tại đ&acirc;y. Sau đ&oacute; đến Madrid.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Madrid hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">MADRID &ndash; ZARAGOZA (320km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3531\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Tham quan Madrid, thủ đ&ocirc; T&acirc;y Ban Nha: Đ&agrave;i phun nước Tbilisi, Đ&agrave;i tưởng niệm Christopher Columbus, Trường Đại Học v&agrave; Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha. Đến Puerta, đo&agrave;n dừng ch&acirc;n mua sắm mặc h&agrave;ng da, quần &aacute;o v&agrave; đồ lưu niệm. Đầu giờ chiều, đo&agrave;n chia tay Madrid để h&agrave;nh tr&igrave;nh hướng về Zaragoza.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Zaragoza hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 0, 255);\">ZARAGOZA &ndash; BARCELONA (300km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3532\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Buổi s&aacute;ng bắt đầu h&agrave;nh tr&igrave;nh đến Barcelona, tham quan Đ&agrave;i tưởng niệm Columbus, Nh&agrave; thờ Holy Family, s&acirc;n vận động Nou Camp, nơi tổ chức Thế vận hội Barcelona 1992. Thời gian c&ograve;n lại d&agrave;nh cho shopping tại Plaza Catalonia.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Sau Tour:</strong><br />
+				H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i><br style=\"margin-bottom: 0px;\" />
+				(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				*** Ăn s&aacute;ng: theo ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, tr&agrave;, c&agrave; ph&ecirc;, sữa.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 204, 0);\">V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute;&nbsp; c&oacute; thể thay đổi)</span></b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 186.9 Euro (Khoảng 4.700.000 đ)</b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha, Madrid &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;8</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Nh&agrave; thờ Sagrada Familia, Barcelona (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;14.8</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Alhambra, Granada (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;14</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Gibraltar, Malaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;2.1&nbsp;</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Alcazar, Segovia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">S&acirc;n vận động Camp Nou, Barcelona &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;23</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;55</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn đến thị trấn Mijas, Malaga &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15&nbsp;</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn bờ biển Alicante ban đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10&nbsp;</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn th&agrave;nh phố v&aacute;ch n&uacute;i Ronda &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;20</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người) &nbsp; &nbsp; &nbsp;&euro; 20&nbsp;</span></p>
+			<hr style=\"border-right: none; border-bottom: none; border-left: none; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-image: initial; clear: both; margin: 25px 0px 0px; height: 1px;\" />
+		</div>
+		<div class=\"tabcontent hideleft make_transist\" id=\"tabs6\" style=\"margin: 0px 40px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; transition: all 0.3s ease-in-out; transform: translateX(-100%); opacity: 0; position: absolute; top: 40px;\">
+			<h3 style=\"margin: 11px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 28px; vertical-align: baseline; background: transparent; font-weight: normal; line-height: 28px;\">
+				<a href=\"http://www.goeugo.vn/daily\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\" target=\"_blank\" title=\"How to Book\">BOOK NOW!</a></h3>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				TUYẾN CAM&nbsp;&nbsp;<a href=\"http://www.goeugo.vn/daily\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\">Book Now!</a></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></p>
+		</div>
+	</div>
+</div>
+',positon='5' where id=5;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN CAM',name_tab='Orange Line',color='#ffa500',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">PH&Aacute;P &ndash; ANDORRA &ndash; BỒ Đ&Agrave;O NHA</b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời gian:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>07 ng&agrave;y<br />
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi h&agrave;nh:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b>&nbsp;Tiếng Hoa: Thứ 05 Hằng tuần tại Paris./ Tiếng Việt: 28/4; 26/5; 23/6; 21/7; 17/8; 22/9</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>&euro;631 (Khoảng: 16 Triệu VND). Gồm: Xem tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng dẫn vi&ecirc;n:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Tiếng Hoa (Hằng tuần); Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: Từ 10 kh&aacute;ch)</p>
+<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box; position: relative; max-width: 100%; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 810px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 810px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	(MAP: ATTACHED FILE)<br />
+	LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh</b></span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 1: Thứ 05:&nbsp;</b></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">PARIS&rarr; AVIGNON (690km)</b></span></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside1.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3520\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside1.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Đo&agrave;n rời Paris v&agrave;o buổi s&aacute;ng v&agrave; đến thủ phủ v&ugrave;ng Provence, th&agrave;nh phố Avignon v&agrave;o chiều muộn. Ngay khi đến&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Avignon</b>, du kh&aacute;ch c&oacute; thể cảm nhận sự kh&aacute;c biệt của v&ugrave;ng&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Provence</b>&nbsp;m&agrave; kh&ocirc;ng nơi n&agrave;o kh&aacute;c c&oacute; được. Provence rất thu h&uacute;t với kh&ocirc;ng kh&iacute; m&aacute;t mẻ với gi&oacute; biển v&ugrave;ng Địa Trung Hải. Bầu kh&ocirc;ng kh&iacute; Avignon thoang thoảng m&ugrave;i hương quyến rũ của hoa Oải hương, h&uacute;ng T&acirc;y, hương gỗ th&ocirc;ng v&agrave; hương thơm của c&aacute;c loại nước hoa tại xứ sở sản xuất hương liệu trứ danh của Ph&aacute;p.&nbsp;Du kh&aacute;ch ăn tối, nghỉ ngơi, tận hưởng bầu kh&ocirc;ng kh&iacute; tươi m&aacute;t v&ugrave;ng Provence, chuẩn bị h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; th&agrave;nh phố Avignon v&agrave;o s&aacute;ng h&ocirc;m sau.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Avignon hay khu vực l&acirc;n cận.</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;</i><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Thứ 06:&nbsp;</b></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">AVIGNON&rarr;GORDES&rarr; ABBEY SENAQUE&nbsp;&rarr;AVIGNON (200km)</b></span></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3521\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Du kh&aacute;ch bắt đầu ng&agrave;y mới với h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; Avignon. Avignon l&agrave; một th&agrave;nh phố cổ rất nghệ thuật, bao quanh bởi những bức tường cổ xưa. Điểm tham quan kh&ocirc;ng thể bỏ qua l&agrave;&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Cung điện Papal</b>&nbsp;v&agrave;&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">cầu Saint &ndash; Benezet (C&ograve;n gọi l&agrave; Cầu d&rsquo;Avignon).</b>&nbsp;Cung điện được x&acirc;y dựng từ Thế kỷ 14, v&agrave; l&agrave; một trong những c&ocirc;ng tr&igrave;nh kiến tr&uacute;c theo phong c&aacute;ch Gothic quan trọng nhất Ch&acirc;u &Acirc;u. Đi theo hướng tường th&agrave;nh sẽ gặp&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">cầu Saint &ndash; Benezet</b>, di sản văn h&oacute;a thế giới. Buổi chiều, đến với&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Th&agrave;nh Gordes</b>&nbsp;l&agrave; một trong những ng&ocirc;i l&agrave;ng đẹp nhất nước Ph&aacute;p, cũng l&agrave; nơi ở của nhiều ng&ocirc;i sao v&agrave; nghệ sĩ nổi tiếng. Ng&ocirc;i l&agrave;ng n&agrave;y c&ograve;n được gọi &ldquo;L&agrave;ng Treo&rdquo; bởi nằm nghi&ecirc;ng m&igrave;nh b&ecirc;n bờ Nam của cao nguy&ecirc;n Vaucluse. Sự h&igrave;nh th&agrave;nh đ&aacute; v&ocirc;i tr&ecirc;n nền đ&aacute; v&agrave; sỏi của khu vực n&agrave;y đ&atilde; tạo n&ecirc;n những m&agrave;u đ&aacute; m&agrave;u hồng nhạt, &oacute;ng &aacute;nh khi c&oacute; nắng chiếu v&agrave;o rất độc đ&aacute;o.&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Sau đ&oacute; tới tu viện&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Abbaye de S&eacute;nanque</b>, một trong những địa điểm tốt nhất để thăm&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">vườn hoa Oải Hương</b>. Tu viện được th&agrave;nh lập v&agrave;o năm 1148, hằng năm tu viện b&igrave;nh y&ecirc;n n&agrave;y ch&agrave;o đ&oacute;n rất nhiều du kh&aacute;ch đến thưởng ngoạn Hoa oải hương v&agrave;o vụ nở rộ.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	(Lưu &yacute;: Thăm vườn hoa oải hương theo m&ugrave;a vụ. Hoa oải hương nở rộ từ giữa th&aacute;ng 06 đến đầu th&aacute;ng 08.)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Avignon hoặc khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ 07:&nbsp;</b></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">AVIGNON&rarr;ARLES&rarr;BARCELONA (500km)</b></span></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3522\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng đặt ch&acirc;n đến th&agrave;nh phố&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Arles,</b>&nbsp;gắn liền với t&ecirc;n tuổi của hoạ sĩ lừng danh Van Gogh. Ailes từ l&acirc;u đ&atilde; l&agrave; một th&agrave;nh phố lớn với nhiều di t&iacute;ch La M&atilde; cổ v&agrave; l&agrave; th&agrave;nh phố được Van Gogh lựa chọn nghỉ dưỡng. Mặc du chỉ sống 1 năm tại đ&acirc;y (1888 &ndash; 1889) nhưng đ&acirc;y l&agrave; khoảng thời gian đỉnh cao trong sự nghiệp s&aacute;ng tạo của m&igrave;nh, &ocirc;ng đ&atilde; vẽ n&ecirc;n khoảng hai trăm bức tranh sơn dầu, trong đ&oacute; c&oacute; thể kế đến c&aacute;c t&aacute;c phẩm trứ danh như: Bedrooms in Arles, Starry Night Over the Rhone, Still Life: Vase with Twelve Sunflowers&hellip;Sau đ&oacute;, đo&agrave;n dọc theo biển Địa Trung Hải, qua bi&ecirc;n giới T&acirc;y Ban Nha v&agrave; đến Barcelona v&agrave;o buổi tối.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</em></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Chủ Nhật:&nbsp;</b></span><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">BARCELONA</b></span></em></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh tham quan quốc gia nồng nhiệt Barcelona bao gồm&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">đ&agrave;i tưởng niệm Columbus&nbsp;</b>v&agrave;&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Đại lộ Las Ramblas</b>, tham quan&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">nh&agrave; thờ Sagrada Familia</b>&nbsp;mang t&iacute;nh đặc trưng của Barcelona. Sau đ&oacute; gh&eacute; thăm&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Nou Camp</b>, nơi tổ chức Thế Vận Hội Barcelona năm 1992. Từ s&acirc;n vận động c&oacute; thể tận hưởng vẻ đẹp to&agrave;n cảnh của th&agrave;nh phố. Thời gian c&ograve;n lại đến&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Quảng trường Catalunya</b>&nbsp;n&aacute;o nhiệt, tự do tham quan, mua sắm. Dừng ch&acirc;n nghỉ quanh c&aacute;c đ&agrave;i phun nước, du kh&aacute;ch sẽ c&oacute; cơ hội kh&aacute;m ph&aacute; văn ho&aacute; địa phương rất th&uacute; vị của th&agrave;nh phố xinh đẹp v&agrave;o ban ng&agrave;y v&agrave; lộng lẫy v&agrave;o ban đ&ecirc;m n&agrave;y.&nbsp;</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	(Lưu &yacute;: Do c&oacute; sự kiểm so&aacute;t số lượng người v&agrave;o nh&agrave; thờ Sagrada Familia, những h&agrave;nh kh&aacute;ch muốn thăm nh&agrave; thờ, cần đặt v&eacute; tr&ecirc;n mạng v&agrave; ước t&iacute;nh thời gian thăm quan v&agrave;o khoảng từ 10-10:30am. Website đặt v&eacute;:&nbsp;<a href=\"http://www.sagradafamilia.org/en/tickets/\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\">http://www.sagradafamilia.org/en/tickets/</a>) (HDV sẽ hỗ trợ du kh&aacute;ch)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 5: Thứ 2</b></em></span><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">BARCELONA &rarr; ANDORRA&rarr; LOURDES (480km)</b></span></em></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3524\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh đến&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">C&ocirc;ng Quốc Andorra</b>. C&ocirc;ng quốc n&agrave;y nằm giữa Ph&aacute;p v&agrave; T&acirc;y Ban Nha, b&ecirc;n d&atilde;y n&uacute;i Pyrenees, tổng diện t&iacute;ch 468 km2, bao bọc bởi c&aacute;c d&atilde;y n&uacute;i cao, địa h&igrave;nh hiểm trở, độ cao trung b&igrave;nh so với mực nước biển l&agrave; 1996 m&eacute;t, thủ đ&ocirc; Andorra được mệnh danh l&agrave; thủ đ&ocirc; c&oacute; độ cao so với mực nước biển cao nhất Ch&acirc;u &Acirc;u. Một quốc gia nơi c&oacute; phong cảnh tuyệt đẹp như tranh vẽ v&agrave; cũng l&agrave; nơi trượt tuyết được y&ecirc;u th&iacute;ch của người d&acirc;n Ch&acirc;u &Acirc;u.&nbsp; Tại Quảng trường Nh&acirc;n D&acirc;n, du kh&aacute;ch c&oacute; thể chi&ecirc;m ngưỡng vẻ đẹp tr&aacute;ng lệ của đồi n&uacute;i, thung lũng xung quanh. Andorra l&agrave; nơi mua sắm miễn thuế, rất th&iacute;ch hợp cho những du kh&aacute;ch th&iacute;ch shopping.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Sau buổi chiều dọc theo d&atilde;y n&uacute;i Pyrenees đến Ph&aacute;p, h&agrave;nh tr&igrave;nh hướng đến thị trấn&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Th&aacute;nh Địa Lourdes</b>&nbsp;nổi tiếng, nơi h&agrave;nh hương lớn của c&aacute;c t&iacute;n đồ C&ocirc;ng gi&aacute;o.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Lourdes hoặc khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ 3:&nbsp;</b></span><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">LOURDES &rarr; BORDEAUX (250km)</b></span></em></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bordeaux.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3525\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bordeaux.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh đến thị trấn Lourdes nổi tiếng, truyền rằng c&aacute;ch đ&acirc;y 150 năm trước Đức Mẹ Maria từng hiển linh tại đ&acirc;y. Mỗi năm Lourdes thu h&uacute;t hơn 5 triệu người h&agrave;nh hương. Hơn nữa, thị trấn miền n&uacute;i n&agrave;y c&ograve;n sở hữu cảnh đẹp thi&ecirc;n nhi&ecirc;n tuyệt mĩ.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Sau khi rời Lourdes, đo&agrave;n khởi h&agrave;nh đến trung t&acirc;m rượu vang của thế giới &ndash; Bordeaux, tham quan Di sản văn h&oacute;a thế giới &ndash;&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Nh&agrave; thờ Saint Andr&eacute; v&agrave; quảng trường &ndash; The Quinconces</b>&nbsp;&ndash; Quảng trường lớn thứ 2 của Ch&acirc;u &Acirc;u. Đến qu&ecirc; hương của rượu vang tham quan nơi sản xuất rượu l&agrave; một trải nghiệm kh&ocirc;ng n&ecirc;n bỏ lỡ, h&agrave;nh tr&igrave;nh sẽ gh&eacute; thăm c&aacute;c nh&agrave; l&agrave;m rượu nổi tiếng. Du kh&aacute;ch c&oacute; thể tận mắt trải nghiệm qu&aacute; tr&igrave;nh ủ rượu, những du kh&aacute;ch s&agrave;nh rượu c&oacute; thể thử v&agrave; mua rượu tại đ&acirc;y.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn: Bordeaux hoặc khu vực l&acirc;n cận.</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">(Lưu &yacute;: Hầu hết c&aacute;c nh&agrave; m&aacute;y rượu vang ở Bordeaux sẽ tạm đ&oacute;ng cửa v&agrave;o th&aacute;ng 8 hoặc trong c&aacute;c m&ugrave;a lễ, h&agrave;nh tr&igrave;nh sẽ hủy thăm nh&agrave; l&agrave;m rượu. Thay v&agrave;o đ&oacute;, du kh&aacute;ch c&oacute; thể thưởng thức thử rượu vang v&agrave; mua sắm c&aacute;c loại rượu tại c&aacute;c shop rượu ở Bordeaux.) </i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Thứ 4:&nbsp;</b></span><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">BORDEAUX &rarr; CHAMBORD &rarr; PARIS (590km)</b></span></em></p>
+<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif; width: 150px;\">
+	<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0); border-bottom-width: 1px; border-bottom-style: dotted;\"><img alt=\"\" class=\"wp-image-3526\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Buổi s&aacute;ng khởi h&agrave;nh theo hướng Bắc đến&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">thung lũng S&ocirc;ng Loire</b>&nbsp;nổi tiếng thế giới. S&ocirc;ng Loire l&agrave; con s&ocirc;ng d&agrave;i nhất nước Ph&aacute;p. Dọc b&ecirc;n bờ s&ocirc;ng Loire c&oacute; tới h&agrave;ng chục l&acirc;u đ&agrave;i nguy nga, tr&aacute;ng lệ được x&acirc;y dựng từ thế kỷ 16 dưới thời vua Fran&ccedil;ois Đệ Nhất. &Ocirc;ng đ&atilde; cho mời đến đ&acirc;y những nghệ sĩ t&agrave;i hoa từ &Yacute; như Leonardo da Vinci để kiến thiết c&aacute;c to&agrave; l&acirc;u đ&agrave;i n&agrave;y, tạo nền tảng cho nền nghệ thuật Phục Hưng Ph&aacute;p. Nơi đ&acirc;y từng l&agrave; chốn nghỉ dưỡng c&oacute; giới qu&yacute; tộc gi&agrave;u c&oacute;.&nbsp; Trong số đ&oacute;,&nbsp;<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">l&acirc;u đ&agrave;i Chambord</b>&nbsp;được người d&acirc;n Ph&aacute;p xem l&agrave; Quốc Bảo. V&agrave;o năm 1981, Chambord được liệt v&agrave;o danh s&aacute;ch di sản văn h&oacute;a thế giới.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	Sau đ&oacute;, h&agrave;nh tr&igrave;nh hướng về Paris v&agrave; đến kinh đ&ocirc; hoa lệ v&agrave;o khoảng buổi tối.</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">*** Kết th&uacute;c h&agrave;nh tr&igrave;nh.</i><em id=\"__mceDel\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;</em></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 102, 0);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave;o cửa v&agrave; c&aacute;c hoạt động thao quan: 146.5 Euro (Khoảng 3.650.000 đ)</b></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">C&acirc;y cầu Pont du Gard&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;15</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Tu viện Monestir de Montserat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;20</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Chateau de Chambord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&euro;11.5</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Sagrada Fam&iacute;lia Church&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;14.8</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	(Orange line during 10 to 10.30 AM. HDV hỗ trợ book online.<a href=\"http://visit.sagradafamilia.cat/\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\">http://visit.sagradafamilia.cat</a>.)</p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;55</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">&nbsp;Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro; 20&nbsp;</span></p>
+<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa ăn chung c&ugrave;ng đo&agrave;n (Từ 10 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;10 &ndash; 15&nbsp;</span></p>
+',positon='6' where id=6;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH',name_tab='Green Line',color='green',content='<div id=\"tabs2\" style=\"margin: 0px 40px 40px 0px; padding: 0px 40px 0px 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background: rgb(251, 251, 251); width: 890px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<div id=\"tabs_container\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: white; overflow: hidden; position: relative; height: 2224px;\">
+		<div class=\"tabcontent\" id=\"tabs1\" style=\"margin: 0px 40px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; position: absolute; top: 40px;\">
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">PH&Aacute;P &ndash; THUỴ SỸ &ndash; &Yacute; &ndash; VATICAN &ndash; MONACO</strong></span><br style=\"margin-bottom: 0px;\" />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời gian:</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>07 ng&agrave;y 06 đ&ecirc;m&nbsp;<br style=\"margin-bottom: 0px;\" />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi h&agrave;nh:</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Thứ 7 Hằng tuần tại Paris&nbsp;&nbsp;<br style=\"margin-bottom: 0px;\" />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;:</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>&euro;631 (Khoảng: 16 Triệu VND) Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng, hương dẫn vi&ecirc;n<br style=\"margin-bottom: 0px;\" />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng dẫn vi&ecirc;n:</strong><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>Tuỳ chọn&nbsp;Tiếng Việt/Anh/Hoa</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: center;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 806px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3841\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 806px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Mi&ecirc;u Tả:</strong></span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				Tuyến Xanh đưa du kh&aacute;ch đến trung t&acirc;m những th&agrave;nh phố tuyệt đẹp bậc nhất Ch&acirc;u &Acirc;u của Ph&aacute;p, Thuỵ Sĩ v&agrave; &Yacute;. Từ Paris, GoEuGo sẽ c&ugrave;ng du kh&aacute;ch qua v&ugrave;ng n&uacute;i An Pơ, Thuỵ Sĩ tuyệt đẹp, quanh năm phủ đầy tuyết trắng trước khi đi v&agrave;o v&ugrave;ng trung t&acirc;m nước &Yacute;, miền đất của kiến tr&uacute;c v&agrave; nghệ thuật.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				Kh&aacute;m ph&aacute; th&agrave;nh phố nổi độc đ&aacute;o nhất thế giới Venice, tản bộ qua khu th&agrave;nh cổ Verona v&agrave; ngắm nh&igrave;n c&aacute;i n&ocirc;i của nghệ thuật Phục Hưng Florence v&agrave; trải nghiệm 1 ng&agrave;y đ&aacute;ng nhớ tại Thủ đ&ocirc; Vĩnh Hằng &ndash; Rome với Đấu Trường Coliseum v&agrave; th&agrave;nh phố linh thi&ecirc;ng Vatican. V&agrave; sau c&ugrave;ng, qu&yacute; kh&aacute;ch sẽ được tận hưởng kh&ocirc;ng kh&iacute; m&aacute;t mẻ, nắng v&agrave;ng, trời gian xanh v&ugrave;ng Địa Trung Hải v&agrave; đồng qu&ecirc; miền Nam nước Ph&aacute;p trước khi trở về Paris để kết th&uacute;c chuyến đi. Một h&agrave;nh tr&igrave;nh tuyệt vời!</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Trước Tour:</strong>&nbsp;Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br style=\"margin-bottom: 0px;\" />
+				(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour.)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 1: Thứ Bảy:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(51, 153, 102);\">PARIS &ndash; LUCERNE(650km)</span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3546\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;Xe rời&nbsp;Paris hướng đến th&agrave;nh phố Lucerne xinh đẹp của Thụy Sĩ. Tr&ecirc;n đường đi qu&yacute; kh&aacute;ch c&oacute; cơ hội ngắm nh&igrave;n phong cảnh miền qu&ecirc; thơ mộng của nước Ph&aacute;p v&agrave; d&atilde;y n&uacute;i Alps của Thụy Sĩ. Đo&agrave;n đi ngang Basel &ndash; nơi gặp nhau của bi&ecirc;n giới ba nước Ph&aacute;p, Đức, Thụy Sĩ. Đến Lucerne thanh b&igrave;nh, tham quan cầu gỗ cổ Chapel v&agrave; tự do mua sắm đồ lưu niệm hay đồng hồ Thụy Sĩ.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">LUCERNE&ndash; MILAN &ndash; VENICE(480km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6608733_150433624000_2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3409\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6608733_150433624000_2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;Đến kinh đ&ocirc; thời trang Milan, du kh&aacute;ch c&oacute; thời gian tham quan nh&agrave; thờ lớn nhất Milan, Duomo với kiến tr&uacute;c bằng đ&aacute; khối độc đ&aacute;o, tinh xảo đến từng chi tiết. B&ecirc;n cạnh nh&agrave; thờ l&agrave; khu trung t&acirc;m mua sắm Emmanuel II, khu trung t&acirc;m thương mại cổ nhất ch&acirc;u &Acirc;u với rất nhiều c&aacute;c mặt hằng thời gian.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Venice hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">VENICE &ndash; ROME(550km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/1-Venice-Italy.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3411\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/1-Venice-Italy.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;Kh&aacute;m ph&aacute; th&agrave;nh phố tr&ecirc;n s&ocirc;ng Venice c&ugrave;ng với một hướng dẫn vi&ecirc;n địa phương: quảng trường San Marco, Cầu Than Thở, xem biểu diễn chế t&aacute;c thủy tinh Murano. Kh&aacute;ch c&oacute; thể lựa chọn đi thuyền Gondola dọc k&ecirc;nh Venice v&agrave; thưởng thức bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n m&igrave; Spaghetti đặc sản. Khởi h&agrave;nh xuống th&agrave;nh phố vĩnh hằng Rome.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Rome hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">ROME &ndash; VATICAN &ndash; ARREZZO (280km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4d086e061d950a7b97b7f0290bd162d9f3d3c959.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3412\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4d086e061d950a7b97b7f0290bd162d9f3d3c959.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến Vatican &ndash; quốc gia nhỏ nhất thế giới với Nh&agrave; thờ Th&aacute;nh Peter&rsquo;s Basilica tuyệt mỹ. Sau đ&oacute; tham quan Đ&agrave;i phun nước Trevi, tản bộ khu vực xung quanh Quảng trường T&acirc;y Ban Nha. Đến Đấu trường La M&atilde; Coliseum, du kh&aacute;ch c&oacute; thể v&agrave;o b&ecirc;n trong Đấu trường hoặc đi bộ đến Khải Ho&agrave;n M&ocirc;n Constantine gần đ&oacute;. Sau đ&oacute;, du kh&aacute;ch c&oacute; thể lựa chọn viếng thăm nh&agrave; thờ Basilique Santa Maria degli Angeli e dei Martiri hoặc mua sắm tự do ở trung t&acirc;m thương mại Mitsukoshi trước khi khởi h&agrave;nh đến Arrezzo l&uacute;c xế chiều.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Arrezzo hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">Ng&agrave;y 5: Thứ Tư:&nbsp;</i><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">ARREZZO &nbsp;&rarr; PISA &rarr; GENOA(250km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2531170_171930103000_2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3505\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2531170_171930103000_2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Kh&aacute;m ph&aacute; Florence, th&agrave;nh phố được mệnh danh l&agrave; c&aacute;i n&ocirc;i văn h&oacute;a nghệ thuật Phục hưng, Quảng trường Michel-Angelo, cầu Vecchio, nh&agrave; thờ Đức Mẹ Duomo, th&aacute;p Campanile, bảo t&agrave;ng nghệ thuật Uffizi, mua sắm mặc h&agrave;ng da thuộc nổi tiếng của Florence. Tham quan Th&aacute;p nghi&ecirc;ng Pisa nổi tiếng thế giới.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Genoa hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">GENOA &rarr; NICE &rarr; CANNES &rarr; AVIGNON (450km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cannes.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3506\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cannes.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến v&ugrave;ng Cote D&rsquo;Azur xinh đẹp b&ecirc;n bờ Địa Trung hải. Tham quan c&ocirc;ng quốc Monaco nhỏ b&eacute; nhưng gi&agrave;u đẹp v&agrave; thịnh vượng, l&acirc;u đ&agrave;i Grand Place, đi ngang qua s&ograve;ng bạc Monte-Carlo nổi tiếng tr&ecirc;n đường v&agrave;o th&agrave;nh phố. Gh&eacute; thăm thủ phủ Nice của V&ugrave;ng Cote D&rsquo;Azur, nh&agrave; m&aacute;y sản xuất nước hoa Fragonard. Th&agrave;nh phố điện ảnh Cannes &ndash; chụp ảnh tại nơi tổ chức li&ecirc;n hoan phim Cannes lừng danh. Tận hưởng cảm gi&aacute;c thư gi&atilde;n c&ugrave;ng cảnh biển tuyệt đẹp tại Cannes.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Avignon hay khu vực l&acirc;n cận</i><br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(0, 128, 0);\">AVIGNON &rarr; PARIS (700km)</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3507\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Bắt đầu h&agrave;nh tr&igrave;nh trở lại Paris. Tr&ecirc;n đường đi Qu&yacute; kh&aacute;ch c&oacute; cơ hội dừng ch&acirc;n tại c&aacute;c trạm nghỉ thưởng thức kh&ocirc;ng kh&iacute; m&aacute;t mẻ v&agrave; ngắm nh&igrave;n khung cảnh thơ mộng của miền nam nước Ph&aacute;p. Đến Paris l&uacute;c ho&agrave;ng h&ocirc;n.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Sau Tour:</strong><br />
+				H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br />
+				(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)<br />
+				<em style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">***Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave;, c&agrave; ph&ecirc;.&nbsp;</em><br />
+				<br />
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(51, 153, 102);\"><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*): 130 Euro (Khoảng 1.150.000 đ)</b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Đấu trường Coliseum &ndash; Rome * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;12</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền Gondola tại Venice (1 thuyền &iacute;t nhất 6 người)* &nbsp; &nbsp;&euro;30</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n ăn đặc sản Venice* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;THUẾ V&Agrave; LỆ PH&Iacute; V&Agrave;O TH&Agrave;NH PHỐ CỦA &Yacute; V&Agrave; MONACO (Bắt buộc):&nbsp;</b><b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&euro;45 (Khoảng 1.125.000 đ</b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Venice + thuế ngồi thuyền + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Florence + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Rome + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Pisa &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Thuế v&agrave;o Monaco &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;5</span></p>
+			<p style=\"margin: 10px 0px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">&nbsp;</strong></p>
+		</div>
+		<div class=\"tabcontent hideleft\" id=\"tabs2\" style=\"margin: 0px 40px 40px; padding: 0px 40px 0px 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; transform: translateX(-100%); opacity: 0; width: 890px; position: absolute; top: 40px;\">
+			<h3 style=\"margin: 11px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 28px; vertical-align: baseline; background: transparent; font-weight: normal; line-height: 28px;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(246, 42, 42);\">Tuyến Đỏ &nbsp; &nbsp; &nbsp; &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<hr style=\"border-right: none; border-bottom: none; border-left: none; border-top-style: solid; border-top-color: rgb(221, 221, 221); border-image: initial; clear: both; margin: 25px 0px; height: 1px;\" />
+			<br />
+			<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\"><strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">PH&Aacute;P &ndash; LUXEMBOUG &ndash; ĐỨC &ndash; H&Agrave; LAN &ndash; BỈ&nbsp;</strong></span><br />
+			<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+			<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Khởi h&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thứ 5 hoặc 7 Hằng tuần tại Paris.<br />
+			<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;631 (Khoảng: 16 Triệu VND).&nbsp;Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.<br />
+			<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp;Tiếng Việt/Anh/Hoa
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile \" style=\"margin: 10px auto; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; position: relative; max-width: 100%; width: 800px;\">
+				<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/red.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 800px;\" /></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Giới Thiệu:</strong></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Tham qia v&agrave;o Tuyến Đỏ để tham quan những th&agrave;nh phố nổi tiếng v&agrave; quan trọng nhất v&ugrave;ng Bắc &Acirc;u. Tour sẽ đi qua quốc gia nhỏ bẻ nhưng rất phồn thịnh Luxembourg, c&aacute;c th&agrave;nh phố lịch sử l&acirc;u đời của nước Đức như Cologne, Frankfurt v&agrave; Bonn, Amsterdam y&ecirc;n b&igrave;nh với hệ thống k&ecirc;nh rạch hiền ho&agrave; uốn quanh th&agrave;nh phố hay trung t&acirc;m ch&iacute;nh trị của nước Bỉ.<br />
+				LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br style=\"margin-bottom: 0px;\" />
+				Với khung cảnh tuyệt đẹp v&agrave; nhiều trải nghiệm th&uacute; vị, Tuyến Đỏ ho&agrave;n to&agrave;n xứng đ&aacute;ng để bạn d&agrave;nh một tuần tham quan c&ugrave;ng GoEuGo.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Trước Tour:</strong>&nbsp;Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br style=\"margin-bottom: 0px;\" />
+				(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">Ng&agrave;y 1: Thứ Năm</span>:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">PARIS &rarr; VERSAILLES &rarr; PARIS (50km) </span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/08/Eiffel-Tower-20.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3465\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/08/Eiffel-Tower-20.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Kh&aacute;m ph&aacute; kinh đ&ocirc; &aacute;nh s&aacute;ng Paris: Đại lộ thi&ecirc;n đ&agrave;ng Champs Elysees, Quảng trường Concorde, Khải Ho&agrave;n M&ocirc;n, ng&ocirc;i mộ của Napoleon, th&aacute;p Eiffel, du thuyền tr&ecirc;n s&ocirc;ng Seine v&agrave; ngắm nh&igrave;n những thắng cảnh nằm dọc hai b&ecirc;n bờ s&ocirc;ng như: Nh&agrave; thờ Đức b&agrave;, Cầu Alexander III. Sau đ&oacute; đi tham quan l&acirc;u đ&agrave;i Versailles trước khi quay trở lại</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Paris. Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 2: Thứ s&aacute;u:</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">PARIS</span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3508\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Kh&aacute;m ph&aacute; Bảo t&agrave;ng Le Louvre, nơi chứa h&agrave;ng trăm ng&agrave;n t&aacute;c phẩm nghệ thuật c&oacute; gi&aacute; trị của nh&acirc;n loại, trong đ&oacute; đ&aacute;ng ch&uacute; &yacute; nhất l&agrave;: bức tranh nổi tiếng vẽ n&agrave;ng Mona Lisa với nụ cười b&iacute; ẩn của Leonardo da Vinci, Tượng nữ thần sắc đẹp Venus, hay Nữ thần săn bắn&hellip;Tự do tham quan, đến cửa h&agrave;ng miễn thuế hoặc mua sắm tại c&aacute;c trung t&acirc;m thương mại nổi tiếng như: Galeries Lafayette v&agrave; Printemps.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">Ng&agrave;y 3: Thứ Bảy:&nbsp;</i><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">PARIS &rarr; REIMS &rarr; LUXEMBOURG (420km) </span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3509\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến Reims &ndash; Thủ phủ rượu Champagne nổi tiếng thế giới của nước Ph&aacute;p. Đ&acirc;y cũng l&agrave; nơi c&aacute;c vị Vua của Ph&aacute;p đăng quang v&agrave;o thế kỷ 11. Tham quan Nh&agrave; thờ Đức mẹ Reims &ndash; biểu tượng quan trọng của di sản văn h&oacute;a Ph&aacute;p. Đến Luxembourg, đất nước nhỏ b&eacute; nhưng rất thịnh vượng của ch&acirc;u &Acirc;u. Gh&eacute; thăm Cầu Adolphe v&agrave; Viện lập ph&aacute;p.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Luxembourg hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">Ng&agrave;y 4: Chủ nhật:&nbsp;</i><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">LUXEMBOURG &rarr; TRIER &rarr; KOBLENZ &rarr; FRANKFURT (400km)</span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3510\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến Trier, thị trấn l&acirc;u đời nhất của Đức, gh&eacute; Porta Nigra, th&agrave;nh phố với kiến tr&uacute;c La M&atilde; được bảo tồn h&agrave;ng ng&agrave;n năm qua. Tham quan nh&agrave; v&agrave; l&agrave; bảo t&agrave;ng Karl Marx. Du ngoạn bằng thuyền tr&ecirc;n d&ograve;ng s&ocirc;ng Rhine. Đến Frankfurt, tham quan thị trấn nhỏ Rudesheim nổi tiếng với đặc sản rượu vang v&agrave; Romer platz &ndash; c&ocirc;ng tr&igrave;nh kiến tr&uacute;c v&ocirc; c&ugrave;ng đặc biệt.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">Ng&agrave;y 5: Thứ Hai:&nbsp;</i><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">FRANKFURT &nbsp;&rarr; BONN &rarr; COLOGNE &rarr; AMSTERDAM (350km)</span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3511\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến Bonn, cố đ&ocirc; của T&acirc;y Đức sau chiến tranh thế giới lần 2, tham quan T&ograve;a nh&agrave; Town Hall v&agrave; nh&agrave; của cố nhạc sĩ thi&ecirc;n t&agrave;i Beethoven, nh&agrave; thờ lớn Cologne &ndash; di sản UNESCO, tự do tham quan mua sắm. Buổi chiều đo&agrave;n rời Cologne thẳng tiến đến H&agrave; Lan.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 6: Thứ Ba:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">AMSTERDAM &rarr; ZAANSE SCHANS &rarr; AMSTERDAM (50km) </span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-align: justify;\">
+				&nbsp;</p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3512\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Thăm l&agrave;ng Zannse Schans xinh đẹp, hiền ho&agrave; với những chiếc cối xay gi&oacute;, biểu tưởng của đất nước H&agrave; Lan, thăm xưởng guốc gỗ, xưởng sản xuất ph&ocirc; mai nổi tiếng. (Từ giữa th&aacute;ng 3 đến giữa th&aacute;ng 5, đo&agrave;n sẽ đi vườn Keukenhof). Sau đ&oacute;, v&agrave;o trung t&acirc;m Amsterdam, thăm xưởng chế t&aacute;c kim cương. Du kh&aacute;ch tuỳ chọn du ngoạn bằng thuyền tr&ecirc;n c&aacute;c con k&ecirc;nh dọc Amsterdam. Buổi chiều, &nbsp;gh&eacute; thăm khu đ&egrave;n đỏ n&aacute;o nhiệt của Amsterdam.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\"><i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Ng&agrave;y 7: Thứ Tư:&nbsp;</i></span><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">AMSTERDAM &rarr; BRUSSELS &rarr; PARIS (500km) </span></p>
+			<figure class=\"full-width-mobile alignleft \" style=\"margin: 0px 20px 12px 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; float: left; box-sizing: border-box; position: relative; max-width: 100%; top: 6px; width: 150px;\">
+				<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\" style=\"margin: 0px; padding: 0px; vertical-align: baseline; background: transparent; outline: none; text-decoration: none; border-color: rgb(255, 102, 0); color: rgb(255, 102, 0);\"><img alt=\"\" class=\"wp-image-3513\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\" style=\"margin: 0px; padding: 0px; border: 0px rgb(220, 220, 220); outline: 0px; vertical-align: baseline; background: transparent; box-sizing: border-box; display: block; width: 150px;\" /></a></figure>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				Đến Thủ đ&ocirc; Brussels của Bỉ, nơi đặt trụ sở của Li&ecirc;n Minh Ch&acirc;u &Acirc;u. Tham quan M&ocirc; h&igrave;nh ph&acirc;n tử học Atomium. V&agrave;o trung t&acirc;m thủ đ&ocirc;, tham quan Quảng trường lớn, Bức tượng đồng ch&uacute; b&eacute; đứng t&egrave; nổi tiếng Manneken Pis, tự do mua sắm chocolate v&agrave; b&aacute;nh waffles nổi tiếng của Bỉ. Sau đ&oacute; chia tay Brussels để di chuyển xuống Paris, Ph&aacute;p.</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				&nbsp;</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<strong style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Sau Tour:</strong><br />
+				H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+				<i style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br style=\"margin-bottom: 0px;\" />
+				(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)</p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<em style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\"><span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; color: rgb(255, 0, 0);\">C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</span></b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*): 130 Euro (Khoảng 3.250.000 đ)</b></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&acirc;u đ&agrave;i Versailles (Đ&oacute;ng cửa v&agrave;o thứ 2)* , Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bảo t&agrave;ng Louvre (Đ&oacute;ng cửa v&agrave;o thứ 3)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Th&aacute;p Eiffel (tầng 2)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;11</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Th&aacute;p Eiffel (tầng thượng), Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15.5</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền s&ocirc;ng Seine*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.5</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền s&ocirc;ng Rhine* , Koblenz (Th&aacute;ng 04 &ndash; 10) &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Bữa ăn trưa truyền thống Đức tại Koblenz với đo&agrave;n * &nbsp;&euro;20</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Du thuyền dọc c&aacute;c con k&ecirc;nh Amsterdam* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">L&agrave;ng truyền thống Volendam H&agrave; Lan* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10</span></p>
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<span style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; text-decoration: underline;\">Vườn hoa Keukenhof H&agrave; Lan (th&aacute;ng 3 &ndash; th&aacute;ng 5)* &nbsp; &nbsp; &nbsp; &nbsp;&euro;16</span></p>
+		</div>
+	</div>
+</div>
+',positon='1' where id=1;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH',name_tab='Green Line',color='green',content='<div>
+	<h3>
+		<span style=\"color: #008000;\">TUYẾN XANH L&Aacute; &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"color: #008000;\"><strong>PH&Aacute;P &ndash; THUỴ SỸ &ndash; &Yacute; &ndash; VATICAN &ndash; MONACO</strong></span><br />
+		<strong>Thời gian:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi h&agrave;nh:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Thứ 7 Hằng tuần tại Paris&nbsp;&nbsp;<br />
+		<strong>Gi&aacute;:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>&euro;631 (Khoảng: 16 Triệu VND) Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng, hương dẫn vi&ecirc;n<br />
+		<strong>Hướng dẫn vi&ecirc;n:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>Tuỳ chọn&nbsp;Tiếng Việt/Anh/Hoa</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 806px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\"><img alt=\"\" class=\"wp-image-3841\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến Xanh đưa du kh&aacute;ch đến trung t&acirc;m những th&agrave;nh phố tuyệt đẹp bậc nhất Ch&acirc;u &Acirc;u của Ph&aacute;p, Thuỵ Sĩ v&agrave; &Yacute;. Từ Paris, GoEuGo sẽ c&ugrave;ng du kh&aacute;ch qua v&ugrave;ng n&uacute;i An Pơ, Thuỵ Sĩ tuyệt đẹp, quanh năm phủ đầy tuyết trắng trước khi đi v&agrave;o v&ugrave;ng trung t&acirc;m nước &Yacute;, miền đất của kiến tr&uacute;c v&agrave; nghệ thuật.</p>
+	<p style=\"text-align: justify;\">
+		Kh&aacute;m ph&aacute; th&agrave;nh phố nổi độc đ&aacute;o nhất thế giới Venice, tản bộ qua khu th&agrave;nh cổ Verona v&agrave; ngắm nh&igrave;n c&aacute;i n&ocirc;i của nghệ thuật Phục Hưng Florence v&agrave; trải nghiệm 1 ng&agrave;y đ&aacute;ng nhớ tại Thủ đ&ocirc; Vĩnh Hằng &ndash; Rome với Đấu Trường Coliseum v&agrave; th&agrave;nh phố linh thi&ecirc;ng Vatican. V&agrave; sau c&ugrave;ng, qu&yacute; kh&aacute;ch sẽ được tận hưởng kh&ocirc;ng kh&iacute; m&aacute;t mẻ, nắng v&agrave;ng, trời gian xanh v&ugrave;ng Địa Trung Hải v&agrave; đồng qu&ecirc; miền Nam nước Ph&aacute;p trước khi trở về Paris để kết th&uacute;c chuyến đi. Một h&agrave;nh tr&igrave;nh tuyệt vời!</p>
+	<p>
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour.)</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 1: Thứ Bảy: </i></span><span style=\"color: #339966;\">PARIS &ndash; LUCERNE(650km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\"><img alt=\"\" class=\"wp-image-3546\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\" /></a></figure>
+	<p>
+		&nbsp;Xe rời&nbsp;Paris hướng đến th&agrave;nh phố Lucerne xinh đẹp của Thụy Sĩ. Tr&ecirc;n đường đi qu&yacute; kh&aacute;ch c&oacute; cơ hội ngắm nh&igrave;n phong cảnh miền qu&ecirc; thơ mộng của nước Ph&aacute;p v&agrave; d&atilde;y n&uacute;i Alps của Thụy Sĩ. Đo&agrave;n đi ngang Basel &ndash; nơi gặp nhau của bi&ecirc;n giới ba nước Ph&aacute;p, Đức, Thụy Sĩ. Đến Lucerne thanh b&igrave;nh, tham quan cầu gỗ cổ Chapel v&agrave; tự do mua sắm đồ lưu niệm hay đồng hồ Thụy Sĩ.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"color: #008000;\">LUCERNE&ndash; MILAN &ndash; VENICE(480km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6608733_150433624000_2.jpg\"><img alt=\"\" class=\"wp-image-3409\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6608733_150433624000_2.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;Đến kinh đ&ocirc; thời trang Milan, du kh&aacute;ch c&oacute; thời gian tham quan nh&agrave; thờ lớn nhất Milan, Duomo với kiến tr&uacute;c bằng đ&aacute; khối độc đ&aacute;o, tinh xảo đến từng chi tiết. B&ecirc;n cạnh nh&agrave; thờ l&agrave; khu trung t&acirc;m mua sắm Emmanuel II, khu trung t&acirc;m thương mại cổ nhất ch&acirc;u &Acirc;u với rất nhiều c&aacute;c mặt hằng thời gian.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Venice hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"color: #008000;\">VENICE &ndash; ROME(550km)</span></p>
+	<p>
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/1-Venice-Italy.jpg\"><img alt=\"\" class=\"wp-image-3411\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/1-Venice-Italy.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;Kh&aacute;m ph&aacute; th&agrave;nh phố tr&ecirc;n s&ocirc;ng Venice c&ugrave;ng với một hướng dẫn vi&ecirc;n địa phương: quảng trường San Marco, Cầu Than Thở, xem biểu diễn chế t&aacute;c thủy tinh Murano. Kh&aacute;ch c&oacute; thể lựa chọn đi thuyền Gondola dọc k&ecirc;nh Venice v&agrave; thưởng thức bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n m&igrave; Spaghetti đặc sản. Khởi h&agrave;nh xuống th&agrave;nh phố vĩnh hằng Rome.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Rome hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"color: #008000;\">ROME &ndash; VATICAN &ndash; ARREZZO (280km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4d086e061d950a7b97b7f0290bd162d9f3d3c959.jpg\"><img alt=\"\" class=\"wp-image-3412\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4d086e061d950a7b97b7f0290bd162d9f3d3c959.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến Vatican &ndash; quốc gia nhỏ nhất thế giới với Nh&agrave; thờ Th&aacute;nh Peter&rsquo;s Basilica tuyệt mỹ. Sau đ&oacute; tham quan Đ&agrave;i phun nước Trevi, tản bộ khu vực xung quanh Quảng trường T&acirc;y Ban Nha. Đến Đấu trường La M&atilde; Coliseum, du kh&aacute;ch c&oacute; thể v&agrave;o b&ecirc;n trong Đấu trường hoặc đi bộ đến Khải Ho&agrave;n M&ocirc;n Constantine gần đ&oacute;. Sau đ&oacute;, du kh&aacute;ch c&oacute; thể lựa chọn viếng thăm nh&agrave; thờ Basilique Santa Maria degli Angeli e dei Martiri hoặc mua sắm tự do ở trung t&acirc;m thương mại Mitsukoshi trước khi khởi h&agrave;nh đến Arrezzo l&uacute;c xế chiều.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Arrezzo hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #008000;\">Ng&agrave;y 5: Thứ Tư:&nbsp;</i><span style=\"color: #008000;\">ARREZZO &nbsp;&rarr; PISA &rarr; GENOA(250km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2531170_171930103000_2.jpg\"><img alt=\"\" class=\"wp-image-3505\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2531170_171930103000_2.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Kh&aacute;m ph&aacute; Florence, th&agrave;nh phố được mệnh danh l&agrave; c&aacute;i n&ocirc;i văn h&oacute;a nghệ thuật Phục hưng, Quảng trường Michel-Angelo, cầu Vecchio, nh&agrave; thờ Đức Mẹ Duomo, th&aacute;p Campanile, bảo t&agrave;ng nghệ thuật Uffizi, mua sắm mặc h&agrave;ng da thuộc nổi tiếng của Florence. Tham quan Th&aacute;p nghi&ecirc;ng Pisa nổi tiếng thế giới.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Genoa hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"color: #008000;\">GENOA &rarr; NICE &rarr; CANNES &rarr; AVIGNON (450km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cannes.jpg\"><img alt=\"\" class=\"wp-image-3506\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cannes.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến v&ugrave;ng Cote D&rsquo;Azur xinh đẹp b&ecirc;n bờ Địa Trung hải. Tham quan c&ocirc;ng quốc Monaco nhỏ b&eacute; nhưng gi&agrave;u đẹp v&agrave; thịnh vượng, l&acirc;u đ&agrave;i Grand Place, đi ngang qua s&ograve;ng bạc Monte-Carlo nổi tiếng tr&ecirc;n đường v&agrave;o th&agrave;nh phố. Gh&eacute; thăm thủ phủ Nice của V&ugrave;ng Cote D&rsquo;Azur, nh&agrave; m&aacute;y sản xuất nước hoa Fragonard. Th&agrave;nh phố điện ảnh Cannes &ndash; chụp ảnh tại nơi tổ chức li&ecirc;n hoan phim Cannes lừng danh. Tận hưởng cảm gi&aacute;c thư gi&atilde;n c&ugrave;ng cảnh biển tuyệt đẹp tại Cannes.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Avignon hay khu vực l&acirc;n cận</i><br />
+		<i style=\"color: #008000;\">Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i><span style=\"color: #008000;\">AVIGNON &rarr; PARIS (700km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside.jpg\"><img alt=\"\" class=\"wp-image-3507\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Bắt đầu h&agrave;nh tr&igrave;nh trở lại Paris. Tr&ecirc;n đường đi Qu&yacute; kh&aacute;ch c&oacute; cơ hội dừng ch&acirc;n tại c&aacute;c trạm nghỉ thưởng thức kh&ocirc;ng kh&iacute; m&aacute;t mẻ v&agrave; ngắm nh&igrave;n khung cảnh thơ mộng của miền nam nước Ph&aacute;p. Đến Paris l&uacute;c ho&agrave;ng h&ocirc;n.</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)<br />
+		<em>***Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave;, c&agrave; ph&ecirc;.&nbsp;</em><br />
+		<br />
+		<span style=\"color: #339966;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*): 130 Euro (Khoảng 1.150.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Đấu trường Coliseum &ndash; Rome * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;12</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền Gondola tại Venice (1 thuyền &iacute;t nhất 6 người)* &nbsp; &nbsp;&euro;30</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n ăn đặc sản Venice* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+	<p>
+		<b>&nbsp;THUẾ V&Agrave; LỆ PH&Iacute; V&Agrave;O TH&Agrave;NH PHỐ CỦA &Yacute; V&Agrave; MONACO (Bắt buộc):&nbsp;</b><b>&euro;45 (Khoảng 1.125.000 đ</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Venice + thuế ngồi thuyền + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Florence + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Rome + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Pisa &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Monaco &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;5</span></p>
+	<p>
+		<strong>&nbsp;</strong></p>
+</div>
+',positon='1' where id=1;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN ĐỎ',name_tab='Red Line',color='red',content='<p>
+	<font color=\"#191919\" face=\"Arial, Helvetica, sans-serif\"><span style=\"font-size: 14px;\"><b>&aacute;dfsadfasdfasdfasdfasdfsadfdafs</b></span></font></p>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH DƯƠNG',name_tab='Blue Line',color='blue',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b>sdafsadfsadf</b></p>
+',positon='3' where id=3;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN VÀNG',name_tab='Yellow Line',color='yellow',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b>sadfasdf</b></p>
+',positon='4' where id=4;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN TÍM',name_tab='Purple Line',color='purple',content='<div id=\"tabs2\" style=\"margin: 0px 40px 40px 0px; padding: 0px 40px 0px 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background: rgb(251, 251, 251); width: 890px; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<div class=\"transition\" id=\"tabs_container\" style=\"margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: white; transition: all 0.3s ease-in-out 0.3s; overflow: hidden; position: relative; height: 2526px;\">
+		<div class=\"tabcontent hideleft make_transist showleft\" id=\"tabs5\" style=\"margin: 0px 40px 40px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent; transition: all 0.3s ease-in-out 0.3s; transform: translateX(0px); opacity: 1; width: 890px; position: absolute; top: 40px;\">
+			<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;\">
+				<b>asdfasdfasdf</b></p>
+		</div>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+',positon='5' where id=5;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN CAM',name_tab='Orange Line',color='#ffa500',content='<p style=\"margin: 10px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(25, 25, 25); font-family: Arial, Helvetica, sans-serif;\">
+	<b>sdfgsdgsdfg</b></p>
+',positon='6' where id=6;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN ĐỎ',name_tab='Red Line',color='red',content='<div>
+	<h3>
+		<span style=\"color: #f62a2a;\">Tuyến Đỏ &nbsp; &nbsp; &nbsp; &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<p>
+		&nbsp;</p>
+	<hr />
+	<br />
+	<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"color: #ff0000;\"><strong>PH&Aacute;P &ndash; LUXEMBOUG &ndash; ĐỨC &ndash; H&Agrave; LAN &ndash; BỈ&nbsp;</strong></span><br />
+	<strong>Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+	<strong>Khởi h&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thứ 5 hoặc 7 Hằng tuần tại Paris.<br />
+	<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;631 (Khoảng: 16 Triệu VND).&nbsp;Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.<br />
+	<strong>Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp;Tiếng Việt/Anh/Hoa
+	<p>
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/red.jpg\" /></figure>
+	<p>
+		<strong>Giới Thiệu:</strong></p>
+	<p>
+		Tham qia v&agrave;o Tuyến Đỏ để tham quan những th&agrave;nh phố nổi tiếng v&agrave; quan trọng nhất v&ugrave;ng Bắc &Acirc;u. Tour sẽ đi qua quốc gia nhỏ bẻ nhưng rất phồn thịnh Luxembourg, c&aacute;c th&agrave;nh phố lịch sử l&acirc;u đời của nước Đức như Cologne, Frankfurt v&agrave; Bonn, Amsterdam y&ecirc;n b&igrave;nh với hệ thống k&ecirc;nh rạch hiền ho&agrave; uốn quanh th&agrave;nh phố hay trung t&acirc;m ch&iacute;nh trị của nước Bỉ.<br />
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		Với khung cảnh tuyệt đẹp v&agrave; nhiều trải nghiệm th&uacute; vị, Tuyến Đỏ ho&agrave;n to&agrave;n xứng đ&aacute;ng để bạn d&agrave;nh một tuần tham quan c&ugrave;ng GoEuGo.</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour)</p>
+	<p>
+		<span><i><span style=\"color: #ff0000;\">Ng&agrave;y 1: Thứ Năm</span>:&nbsp;</i></span><span style=\"color: #ff0000;\">PARIS &rarr; VERSAILLES &rarr; PARIS (50km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/08/Eiffel-Tower-20.jpg\"><img alt=\"\" class=\"wp-image-3465\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/08/Eiffel-Tower-20.jpg\" /></a></figure>
+	<p>
+		Kh&aacute;m ph&aacute; kinh đ&ocirc; &aacute;nh s&aacute;ng Paris: Đại lộ thi&ecirc;n đ&agrave;ng Champs Elysees, Quảng trường Concorde, Khải Ho&agrave;n M&ocirc;n, ng&ocirc;i mộ của Napoleon, th&aacute;p Eiffel, du thuyền tr&ecirc;n s&ocirc;ng Seine v&agrave; ngắm nh&igrave;n những thắng cảnh nằm dọc hai b&ecirc;n bờ s&ocirc;ng như: Nh&agrave; thờ Đức b&agrave;, Cầu Alexander III. Sau đ&oacute; đi tham quan l&acirc;u đ&agrave;i Versailles trước khi quay trở lại</p>
+	<p>
+		<i>Paris. Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 2: Thứ s&aacute;u:</i></span><span style=\"color: #ff0000;\">PARIS</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\"><img alt=\"\" class=\"wp-image-3508\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\" /></a></figure>
+	<p>
+		Kh&aacute;m ph&aacute; Bảo t&agrave;ng Le Louvre, nơi chứa h&agrave;ng trăm ng&agrave;n t&aacute;c phẩm nghệ thuật c&oacute; gi&aacute; trị của nh&acirc;n loại, trong đ&oacute; đ&aacute;ng ch&uacute; &yacute; nhất l&agrave;: bức tranh nổi tiếng vẽ n&agrave;ng Mona Lisa với nụ cười b&iacute; ẩn của Leonardo da Vinci, Tượng nữ thần sắc đẹp Venus, hay Nữ thần săn bắn&hellip;Tự do tham quan, đến cửa h&agrave;ng miễn thuế hoặc mua sắm tại c&aacute;c trung t&acirc;m thương mại nổi tiếng như: Galeries Lafayette v&agrave; Printemps.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 3: Thứ Bảy:&nbsp;</i><span style=\"color: #ff0000;\">PARIS &rarr; REIMS &rarr; LUXEMBOURG (420km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\"><img alt=\"\" class=\"wp-image-3509\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\" /></a></figure>
+	<p>
+		Đến Reims &ndash; Thủ phủ rượu Champagne nổi tiếng thế giới của nước Ph&aacute;p. Đ&acirc;y cũng l&agrave; nơi c&aacute;c vị Vua của Ph&aacute;p đăng quang v&agrave;o thế kỷ 11. Tham quan Nh&agrave; thờ Đức mẹ Reims &ndash; biểu tượng quan trọng của di sản văn h&oacute;a Ph&aacute;p. Đến Luxembourg, đất nước nhỏ b&eacute; nhưng rất thịnh vượng của ch&acirc;u &Acirc;u. Gh&eacute; thăm Cầu Adolphe v&agrave; Viện lập ph&aacute;p.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Luxembourg hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 4: Chủ nhật:&nbsp;</i><span style=\"color: #ff0000;\">LUXEMBOURG &rarr; TRIER &rarr; KOBLENZ &rarr; FRANKFURT (400km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\"><img alt=\"\" class=\"wp-image-3510\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\" /></a></figure>
+	<p>
+		Đến Trier, thị trấn l&acirc;u đời nhất của Đức, gh&eacute; Porta Nigra, th&agrave;nh phố với kiến tr&uacute;c La M&atilde; được bảo tồn h&agrave;ng ng&agrave;n năm qua. Tham quan nh&agrave; v&agrave; l&agrave; bảo t&agrave;ng Karl Marx. Du ngoạn bằng thuyền tr&ecirc;n d&ograve;ng s&ocirc;ng Rhine. Đến Frankfurt, tham quan thị trấn nhỏ Rudesheim nổi tiếng với đặc sản rượu vang v&agrave; Romer platz &ndash; c&ocirc;ng tr&igrave;nh kiến tr&uacute;c v&ocirc; c&ugrave;ng đặc biệt.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 5: Thứ Hai:&nbsp;</i><span style=\"color: #ff0000;\">FRANKFURT &nbsp;&rarr; BONN &rarr; COLOGNE &rarr; AMSTERDAM (350km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\"><img alt=\"\" class=\"wp-image-3511\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\" /></a></figure>
+	<p>
+		Đến Bonn, cố đ&ocirc; của T&acirc;y Đức sau chiến tranh thế giới lần 2, tham quan T&ograve;a nh&agrave; Town Hall v&agrave; nh&agrave; của cố nhạc sĩ thi&ecirc;n t&agrave;i Beethoven, nh&agrave; thờ lớn Cologne &ndash; di sản UNESCO, tự do tham quan mua sắm. Buổi chiều đo&agrave;n rời Cologne thẳng tiến đến H&agrave; Lan.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 6: Thứ Ba:&nbsp;</i></span><span style=\"color: #ff0000;\">AMSTERDAM &rarr; ZAANSE SCHANS &rarr; AMSTERDAM (50km) </span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\"><img alt=\"\" class=\"wp-image-3512\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Thăm l&agrave;ng Zannse Schans xinh đẹp, hiền ho&agrave; với những chiếc cối xay gi&oacute;, biểu tưởng của đất nước H&agrave; Lan, thăm xưởng guốc gỗ, xưởng sản xuất ph&ocirc; mai nổi tiếng. (Từ giữa th&aacute;ng 3 đến giữa th&aacute;ng 5, đo&agrave;n sẽ đi vườn Keukenhof). Sau đ&oacute;, v&agrave;o trung t&acirc;m Amsterdam, thăm xưởng chế t&aacute;c kim cương. Du kh&aacute;ch tuỳ chọn du ngoạn bằng thuyền tr&ecirc;n c&aacute;c con k&ecirc;nh dọc Amsterdam. Buổi chiều, &nbsp;gh&eacute; thăm khu đ&egrave;n đỏ n&aacute;o nhiệt của Amsterdam.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 7: Thứ Tư:&nbsp;</i></span><span style=\"color: #ff0000;\">AMSTERDAM &rarr; BRUSSELS &rarr; PARIS (500km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\"><img alt=\"\" class=\"wp-image-3513\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\" /></a></figure>
+	<p>
+		Đến Thủ đ&ocirc; Brussels của Bỉ, nơi đặt trụ sở của Li&ecirc;n Minh Ch&acirc;u &Acirc;u. Tham quan M&ocirc; h&igrave;nh ph&acirc;n tử học Atomium. V&agrave;o trung t&acirc;m thủ đ&ocirc;, tham quan Quảng trường lớn, Bức tượng đồng ch&uacute; b&eacute; đứng t&egrave; nổi tiếng Manneken Pis, tự do mua sắm chocolate v&agrave; b&aacute;nh waffles nổi tiếng của Bỉ. Sau đ&oacute; chia tay Brussels để di chuyển xuống Paris, Ph&aacute;p.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)</p>
+	<p>
+		<em>*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></p>
+	<p>
+		<b><span style=\"color: #ff0000;\">C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</span></b></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*): 130 Euro (Khoảng 3.250.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Versailles (Đ&oacute;ng cửa v&agrave;o thứ 2)* , Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bảo t&agrave;ng Louvre (Đ&oacute;ng cửa v&agrave;o thứ 3)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Th&aacute;p Eiffel (tầng 2)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;11 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Th&aacute;p Eiffel (tầng thượng), Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15.5 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Seine*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.5 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Rhine* , Koblenz (Th&aacute;ng 04 &ndash; 10) &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn trưa truyền thống Đức tại Koblenz với đo&agrave;n * &nbsp;&euro;20 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền dọc c&aacute;c con k&ecirc;nh Amsterdam* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&agrave;ng truyền thống Volendam H&agrave; Lan* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Vườn hoa Keukenhof H&agrave; Lan (th&aacute;ng 3 &ndash; th&aacute;ng 5)* &nbsp; &nbsp; &nbsp; &nbsp;&euro;16 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&aacute;c show nghệ thuật: </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Paris by Night &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&euro;35</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Paris Moulin Rouge Show/ Lido Show &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;140 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Khu Đ&egrave;n Đỏ Amsterdam &amp; Live show &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;50</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>&nbsp;</strong></p>
+</div>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH DƯƠNG',name_tab='Blue Line',color='blue',content='<div>
+	<h3>
+		<span style=\"color: #0000ff;\">TUYẾN XANH DƯƠNG &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><span style=\"color: #3366ff;\">ĐỨC &ndash; CỘNG HO&Agrave; S&Eacute;C &ndash; SLOVAKIA &ndash; HUNGARY &ndash; &Aacute;O &ndash; THUỴ SĨ</span>&nbsp;</strong><br />
+		<strong>Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi h&agrave;nh: &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 11/4; 9/5; 6/6; 4/7; 8/8; 5/9, 3/10; 7/11; 5/12<br />
+		<strong>Gi&aacute;: &nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+		<strong>Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Y&ecirc;u Cầu Khởi H&agrave;nh: Từ 10 kh&aacute;ch)</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/blue.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #3366ff;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến Xanh Biển l&agrave; h&agrave;nh tr&igrave;nh độc đ&aacute;o, mang đến những trải nghiệm mới lạ, những th&agrave;nh phố Trung &Acirc;u đẹp như trong tuyện cổ t&iacute;ch. H&agrave;nh tr&igrave;nh qua 6 quốc gia trong 7 ng&agrave;y. Du kh&aacute;ch chắc chắn sẽ m&ecirc; mẩn với khu phố cổ Praha, tận hưởng khung cảnh Bratislava, s&ocirc;ng Danube mộng mơ, tận hưởng ho&agrave; nhạc Mozart tại &Aacute;o v&agrave; ngắm nh&igrave;n cảnh miền n&uacute;i h&ugrave;ng vĩ, đẹp như tranh vẽ của v&ugrave;ng n&uacute;i Black Forest, Đức v&agrave; v&ugrave;ng n&uacute;i tuyết Titlis, d&atilde;y An Pơ, Thuỵ Sĩ.<br />
+		Đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh l&yacute; tưởng cho những du kh&aacute;ch đam m&ecirc; những ki&ecirc;n tr&uacute;c cổ v&agrave; khung cảnh thi&ecirc;n nhi&ecirc;n.</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Frankfurt. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại Nh&agrave; Ga Trung T&acirc;m, Frankfurt)</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 1: Thứ Hai:&nbsp;</i></span><span style=\"color: #0000ff;\">FRANKFURT &ndash; PRAGUE (530km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\"><img alt=\"\" class=\"wp-image-3547\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh từ Frankfurt đến Prague, thủ đ&ocirc; của CH S&eacute;c v&agrave; l&agrave; một trong những th&agrave;nh phố c&oacute; nền văn h&oacute;a đặc sắc nhất Ch&acirc;u &Acirc;u kể từ Cuộc C&aacute;ch mạng Nhung. Xe sẽ đi qua nhiều đồng qu&ecirc; xinh đẹp của Đức v&agrave; CH S&eacute;c.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Prague hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">PRAGUE &ndash; BRATISLAVA (330km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/8952533_141359760000_2.jpg\"><img alt=\"\" class=\"wp-image-3514\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/8952533_141359760000_2.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Du kh&aacute;ch tản bộ kh&aacute;m ph&aacute; vẻ đẹp l&atilde;ng mạn v&agrave; kiến tr&uacute;c cổ k&iacute;nh của Prague: L&acirc;u đ&agrave;i cổ Prague, nh&agrave; thờ lớn Saint-Vitus, Khu vườn Na Valech v&agrave; Rajska Zahrada, Con đường V&agrave;ng Golden Lane, c&acirc;y cầu đ&aacute; Charles, chiếc đồng hồ thi&ecirc;n văn học với hơn trăm năm lịch sử, bức tượng 12 vị th&aacute;nh. Mua sắm tự do ở Wenceslas. H&agrave;nh tr&igrave;nh đến Bratislava, thủ đ&ocirc; của Slovakia tham quan Hội trường Th&agrave;nh phố v&agrave; nh&agrave; thờ St. Martin&rsquo;s.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Bratislava hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">BRATISLAVA &ndash; BUDAPEST (200km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Danube.jpg\"><img alt=\"\" class=\"wp-image-3515\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Danube.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n rời từ Bratislava đến thủ đ&ocirc; Budapest của Hungary, th&agrave;nh phố được mệnh danh l&agrave; Paris của đ&ocirc;ng &Acirc;u. Ngắm nh&igrave;n c&aacute;c cảnh đẹp dọc hai b&ecirc;n bờ s&ocirc;ng Danube thơ mộng. Tham quan danh lam thắng cảnh: Quảng trường Anh h&ugrave;ng, cầu lớn Elizabeth, L&acirc;u đ&agrave;i Fisherman&rsquo;s, nh&agrave; thờ Matthias. Tản bộ l&ecirc;n đồi Gell&eacute;rt để ngắm to&agrave;n cảnh tuyệt đẹp của th&agrave;nh phố Budapest.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Budapest hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">BUDAPEST &ndash; VIENNA (250km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/schonbrunn_palace_garden_original.jpg\"><img alt=\"\" class=\"wp-image-3516\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/schonbrunn_palace_garden_original.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Khởi h&agrave;nh đến Vienna, thủ đ&ocirc; của nước &Aacute;o. Tham quan cung điện tuyệt đẹp theo phong c&aacute;ch Baroque &ndash; Sch&ouml;nbrunn, c&ocirc;ng vi&ecirc;n trung t&acirc;m c&oacute; bức tượng mạ v&agrave;ng của nh&agrave; soạn nhạc vĩ đại Johann Strauss. T&ograve;a nh&agrave; Quốc hội, Nh&agrave; h&aacute;t lớn Opera, Đ&agrave;i tưởng niệm Người l&iacute;nh Li&ecirc;n X&ocirc;, Nh&agrave; thờ kiến tr&uacute;c Baroque St. Charles Borromeo, Nh&agrave; thờ lớn St. Est&egrave;phe.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Vienna hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">VIENNA &ndash; SALZBURG &ndash; MUNICH (440km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\"><img alt=\"\" class=\"wp-image-3517\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n đến th&agrave;nh phố Salzburg xinh đẹp &ndash; một trong những di sản thắng cảnh của UNESCO. Tản bộ tham quan qu&ecirc; hương của thi&ecirc;n t&agrave;i &acirc;m nhạc Mozart, nổi bật l&agrave; ng&ocirc;i nh&agrave; của Mozart v&agrave; những địa điểm nổi tiếng gắn liền với bộ phim kinh điển &ldquo;The Sound of Music&rdquo;. Sau đ&oacute;, tiếp tục h&agrave;nh tr&igrave;nh hướng tới Munich, Đức.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Munich hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">MUNICH &ndash; MT. TITLIS &ndash; LUCERNE &ndash; ZURICH (480km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\"><img alt=\"\" class=\"wp-image-3518\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n băng qua cung đường tuyệt đẹp của d&atilde;y Alps hướng về đỉnh n&uacute;i tuyết nổi danh Titlis. Tr&ecirc;n đướng đi, đo&agrave;n tuỳ chọn gh&eacute; thăm một trong những c&ocirc;ng quốc nhỏ nhất tr&ecirc;n thế giới. Du kh&aacute;ch kh&ocirc;ng n&ecirc;n bỏ qua trải nghiệm c&aacute;p treo l&ecirc;n đỉnh n&uacute;i tuyết Titlis. Tận hưởng tuyết trắng của d&atilde;y n&uacute;i Alps, từ đỉnh cao ngắm nh&igrave;n to&agrave;n cảnh thi&ecirc;n nhi&ecirc;n y&ecirc;n b&igrave;nh của Thụy Sĩ. Sau đ&oacute; đo&agrave;n đi tham quan thị trấn nhỏ Lucerne với cảnh đẹp như tranh vẽ thuộc miền trung Thụy Sĩ. Đi bộ tham quan c&acirc;y cầu gỗ Chapel, hồ Lucerne v&agrave; Tượng sư tử đ&aacute; biểu tượng của tinh thần dũng cảm v&agrave; trung th&agrave;nh của người Thụy Sĩ. Dạo phố mua sắm đồ mỹ nghệ tinh xảo hoặc c&aacute;c thương hiệu đồng hồ Thụy Sĩ trứ danh.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">ZURICH &ndash; RHINE FALLS &ndash; TITISEE &ndash; FRANKFURT (400km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/black-forest.jpg\"><img alt=\"\" class=\"wp-image-3519\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/black-forest.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến với Zurich, th&agrave;nh phố lớn nhất v&agrave; l&agrave; trung t&acirc;m t&agrave;i ch&iacute;nh của Thụy Sĩ. Sau khi nghỉ ch&acirc;n b&ecirc;n hồ Zurich, đo&agrave;n đến th&aacute;c Rhine Falls, th&aacute;c nước lớn nhất ch&acirc;u &Acirc;u. Điểm đến hấp dẫn tiếp theo l&agrave; Khu Rừng Đen &ndash; Black Forest của Đức, qu&ecirc;n hương của những chiếc đồng hồ C&uacute;c Cu nổi tiếng. Tại đ&acirc;y, du kh&aacute;ch sẽ được giới thiệu quy tr&igrave;nh sản xuất đồng hồ, nghỉ ngơi b&ecirc;n hờ Black Forest v&agrave; thưởng thức m&oacute;n tr&aacute;ng miệng Black Forest. Khởi h&agrave;nh đi Frankfurt.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfut hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+	<p>
+		*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.</p>
+	<p>
+		<span style=\"color: #0000ff;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*):&nbsp; 183.4 Euro (Khoảng 4.600.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Con đường V&agrave;ng Golden Lane, Praha, CH S&eacute;c* &nbsp; &nbsp; &nbsp; &euro;13</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ph&aacute;o đ&agrave;i Fisherman&rsquo;s Bastion, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;2.50</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Nh&agrave; thờ Matthias, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;7</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Danube, Budapest, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn tối k&egrave;m biểu diễn nhạc truyền thống Hungary* &nbsp; &nbsp;&euro;50</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Cung điện m&ugrave;a h&egrave; Schonbrunn, Vienna, &Aacute;o* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.3</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&aacute;p treo n&uacute;i Titlis, Thuỵ Sĩ* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;80</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Liechtenstein, một trong những quốc gia nhỏ nhất thế giới * &euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn với sườn nướng đặc sản Vienna, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ho&agrave; nhac Vinnea, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Từ &euro;50</span></p>
+	<p>
+		<b>THUẾ V&Agrave;O TH&Agrave;NH PHỐ CH S&Eacute;C &amp; VIENNA (Bắt buộc).&nbsp;</b><b>Tổng cộng</b><b>: 10 Euro (Khoảng 250.000)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o CH S&eacute;c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Vienna, &Aacute;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+</div>
+',positon='3' where id=3;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN VÀNG',name_tab='Yellow Line',color='yellow',content='<div>
+<h3><span style=\"color: #ffd700;\">TUYẾN VÀNG </span><a title=\"How to Book\" href=\"http://www.goeugo.vn/daily\" target=\"_blank\">Book Now!</a></h3>
+<hr>
+<p><strong>Hành Trình: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style=\"color: #ffcc00;\"><strong>Tây Ban Nha – Bồ Đào Nha</strong></span><br>
+<strong>Thời Gian: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>07 ngày 06 đêm<br>
+<strong>Khởi Hành:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 18/4; 16/5; 13/6; 11/7; 15/8; 12/9<br>
+<strong>Giá:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €631 (Khoảng 16 Triệu/VND. Bao gồm: đưa đón sân bay, xe tham quan, hướng dẫn viên, khách sạn 3* và ăn sáng.<br>
+<strong>Hướng Dẫn Viên:</strong>&nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa (Hằng tuần), Tiếng Việt (Hằng tháng. Điều kiện khởi hành: từ 10 khách)</p>
+<p style=\"text-align: center;\"></p><figure class=\"full-width-mobile \" style=\"width: 800px;\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/yellow.jpg\" class=\"\"></figure><p></p>
+<p><span style=\"color: #ffcc00;\"><strong>Miêu Tả:</strong></span></p>
+<p style=\"text-align: justify;\">Hành trình Tuyến Vàng sẽ đưa bạn đến những thành phố hào hứng Madrid, Barcelona, Lisbon…. Trong suốt 07 ngày hành trình, du khách sẽ có những khám phá thú vị về văn hoá, kiến trúc, ẩm thực và phong cảnh mang đậm chất Địa Trung Hải của 2 quốc gia này. Đối với những ai thích biển xanh thì đây là hành trình đáng để trải nghiệm. .</p>
+<p><strong>Trước Tour:</strong> Khách bay từ Việt Nam đến Paris. Nhân viên GoEuGo đón khách tại sân bay và chở du khách đến khách sạn (Giờ check-in hotel tại châu Âu: sau 2pm). Khách nghi ngơi sau chuyến bay dài để chuẩn bị bắt đầu tour vào sáng hôm sau từ khách sạn.<br>
+<i>Khách sạn 3*: Frankfurt hay khu vực lân cận</i>.<br>
+(Đối với du khách không đặt dịch vụ đưa đón sân bay và hotel trước tour thì sẽ tự túc đến điểm tập trung của tour tại(Quảng trường Trung tâm, Barcelona)</p>
+<p><span><i><span style=\"color: #0000ff;\">Ngày 1: Thứ Hai</span>:&nbsp;</i></span><span style=\"color: #0000ff;\">BARCELONA – VALECIA &nbsp;- ALICANTE (525km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" class=\"wp-image-3523\"></a></figure><p></p>
+<p>Buổi sáng đoàn rời khỏi Barcelona để đến Valencia, thành phố lớn thứ 3 của Tây Ban Nha. Tham quan Quảng trường cổ, Cánh cửa cổ dẫn vào thành phố và Nhà thờ Valencia. Tiến đến bãi biển cát trắng nghỉ ngơi.</p>
+<p><i>Khách sạn 3*: Alicante hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 2: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">ALICANTE &nbsp;- GRANADA – MALAGA (485km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" class=\"wp-image-3527\"></a></figure><p></p>
+<p>Buổi sáng khởi hành đi Granada. Tham quan Lâu đài đỏ Alhambra, bãi biển Costa del Sol đầy ánh nắng mặt trời trước khi đến thành phố lớn nhất vùng duyên hải là Malaga. Đây cũng là quê hương của họa sĩ lừng danh Picasso.</p>
+<p><i>Khách sạn 3*: Malaga hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 3: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">MALAGA – SEVILLE (210km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" class=\"wp-image-3528\"></a></figure><p></p>
+<p>Buổi sáng, đoàn hành trình về phương bắc đến khu vực trung tâm Andalusia của Seville. Tham quan Lăng mộ hoàng gia nơi chôn cất các vị Hoàng đế trong hơn một thế kỷ;&nbsp;Lâu đài Alcazar&nbsp;được Unesco công nhận là Di sản văn hóa thế giới;&nbsp;Nhà thờ được xây dựng vào thế kỷ 16.</p>
+<p style=\"text-align: justify;\"><i>Khách sạn 3*: Seville hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 4: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">SEVILLE – LISBON (460km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" class=\"wp-image-3529\"></a></figure><p></p>
+<p>Buổi sáng khởi hành đi Lisbon thủ đô Bồ Đào Nha, dự kiến sẽ đến Cabo da Roca. Tại đây Quý khách có cơ hội thưởng thức phong cảnh đẹp của thành phố cực Tây của đại lục châu Âu. Tham quan đài tưởng niệm, tu viện Jeronimos, sau đó đến quảng trường Marques de Pombal quý khách tự do mua sắm.</p>
+<p><i>Khách sạn 3*: Lisbon hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 5: Thứ Sáu:&nbsp;</i></span><span style=\"color: #0000ff;\">LISBON – TOLEDO – MADRID (675km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" class=\"wp-image-3530\"></a></figure><p></p>
+<p>Xe khởi hành hướng về Madrid, thủ đô của Tây Ban Nha. Trên đường đi, đoàn ghé tham quan thành phố cổ Toledo, lâu đài, kiến trúc vĩ đại của nhà thờ lớn tại đây. Sau đó đến Madrid.</p>
+<p><i>Khách sạn 3*: Madrid hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 6: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">MADRID – ZARAGOZA (320km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" class=\"wp-image-3531\"></a></figure><p></p>
+<p>Tham quan Madrid, thủ đô Tây Ban Nha: Đài phun nước Tbilisi, Đài tưởng niệm Christopher Columbus, Trường Đại Học và Cung điện Hoàng gia Tây Ban Nha. Đến Puerta, đoàn dừng chân mua sắm mặc hàng da, quần áo và đồ lưu niệm. Đầu giờ chiều, đoàn chia tay Madrid để hành trình hướng về Zaragoza.<br>
+<i>Khách sạn 3*: Zaragoza hay khu vực lân cận</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=\"color: #0000ff;\"><i>Ngày 7: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">ZARAGOZA – BARCELONA (300km)</span></p>
+<p style=\"text-align: justify;\"></p><figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\"><a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" class=\"wp-image-3532\"></a></figure><p></p>
+<p>Buổi sáng bắt đầu hành trình đến Barcelona, tham quan Đài tưởng niệm Columbus, Nhà thờ Holy Family, sân vận động Nou Camp, nơi tổ chức Thế vận hội Barcelona 1992. Thời gian còn lại dành cho shopping tại Plaza Catalonia.</p>
+<p><i>Khách sạn 3*: Barcelona hay khu vực lân cận</i><i></i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Sau Tour:</strong><br>
+Hành trình kết thúc. Xe đưa khách về khách sạn nghỉ ngơi. Ngày hôm sau, nhân viên GoEuGo sẽ đón du khách ra sân bay để trở về Việt Nam.<br>
+<i>Khách sạn 3*: Barcelona hay khu vực lân cận</i><br>
+(Đối với những du khách không đặt dịch vụ khách sạn sau khi kết thúc tour và xe tiễn ra sân bay thì sẽ trả khách tại địa điểm thuận tiện cho khách.)</p>
+<p>*** Ăn sáng: theo tiêu chuẩn 3* châu Âu: Bánh mỳ, phô mai, trà, cà phê, sữa.</p>
+<p><b></b><b>&nbsp;<span style=\"color: #ffcc00;\">VÉ VÀO CỬA VÀ CÁC HOẠT ĐỘNG THAM QUAN (Giá&nbsp; có thể thay đổi) </span></b></p>
+<p><b>Tổng chi phí vé và hoạt động tham quan cần thiết trong hành trình (*):&nbsp; 186.9 Euro (Khoảng 4.700.000 đ)</b></p>
+<p><span style=\"text-decoration: underline;\">Cung điện Hoàng gia Tây Ban Nha, Madrid &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€8 </span></p>
+<p><span style=\"text-decoration: underline;\">Nhà thờ Sagrada Familia, Barcelona (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€14.8 </span></p>
+<p><span style=\"text-decoration: underline;\">Lâu đài Alhambra, Granada (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €14 </span></p>
+<p><span style=\"text-decoration: underline;\">Lâu đài Gibraltar, Malaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; €2.1&nbsp;</span></p>
+<p><span style=\"text-decoration: underline;\">Lâu đài Alcazar, Segovia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€5</span></p>
+<p><span style=\"text-decoration: underline;\">Sân vận động Camp Nou, Barcelona &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€23 </span></p>
+<p><span style=\"text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €55 </span></p>
+<p><span style=\"text-decoration: underline;\">Du ngoạn đến thị trấn Mijas, Malaga &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€15&nbsp; </span></p>
+<p><span style=\"text-decoration: underline;\">Du ngoạn bờ biển Alicante ban đêm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €10&nbsp; </span></p>
+<p><span style=\"text-decoration: underline;\">Du ngoạn thành phố vách núi Ronda &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€20 </span></p>
+<p><span style=\"text-decoration: underline;\">Du ngoạn thành phố Barcelona về đêm (Từ 25 người) &nbsp; &nbsp; &nbsp;€ 20&nbsp; </span></p>
+<hr>
+</div>',positon='4' where id=4;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN TÍM',name_tab='Purple Line',color='purple',content='<div>
+	<h3>
+		<span style=\"color: #ffd700;\">TUYẾN V&Agrave;NG </span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style=\"color: #ffcc00;\"><strong>T&acirc;y Ban Nha &ndash; Bồ Đ&agrave;o Nha</strong></span><br />
+		<strong>Thời Gian: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 18/4; 16/5; 13/6; 11/7; 15/8; 12/9<br />
+		<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu/VND. Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* v&agrave; ăn s&aacute;ng.<br />
+		<strong>Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: từ 10 kh&aacute;ch)</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/yellow.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ffcc00;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		H&agrave;nh tr&igrave;nh Tuyến V&agrave;ng sẽ đưa bạn đến những th&agrave;nh phố h&agrave;o hứng Madrid, Barcelona, Lisbon&hellip;. Trong suốt 07 ng&agrave;y h&agrave;nh tr&igrave;nh, du kh&aacute;ch sẽ c&oacute; những kh&aacute;m ph&aacute; th&uacute; vị về văn ho&aacute;, kiến tr&uacute;c, ẩm thực v&agrave; phong cảnh mang đậm chất Địa Trung Hải của 2 quốc gia n&agrave;y. Đối với những ai th&iacute;ch biển xanh th&igrave; đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh đ&aacute;ng để trải nghiệm. .</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại(Quảng trường Trung t&acirc;m, Barcelona)</p>
+	<p>
+		<span><i><span style=\"color: #0000ff;\">Ng&agrave;y 1: Thứ Hai</span>:&nbsp;</i></span><span style=\"color: #0000ff;\">BARCELONA &ndash; VALECIA &nbsp;- ALICANTE (525km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng đo&agrave;n rời khỏi Barcelona để đến Valencia, th&agrave;nh phố lớn thứ 3 của T&acirc;y Ban Nha. Tham quan Quảng trường cổ, C&aacute;nh cửa cổ dẫn v&agrave;o th&agrave;nh phố v&agrave; Nh&agrave; thờ Valencia. Tiến đến b&atilde;i biển c&aacute;t trắng nghỉ ngơi.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Alicante hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">ALICANTE &nbsp;- GRANADA &ndash; MALAGA (485km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\"><img alt=\"\" class=\"wp-image-3527\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/granada-alhambra.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đi Granada. Tham quan L&acirc;u đ&agrave;i đỏ Alhambra, b&atilde;i biển Costa del Sol đầy &aacute;nh nắng mặt trời trước khi đến th&agrave;nh phố lớn nhất v&ugrave;ng duy&ecirc;n hải l&agrave; Malaga. Đ&acirc;y cũng l&agrave; qu&ecirc; hương của họa sĩ lừng danh Picasso.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Malaga hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">MALAGA &ndash; SEVILLE (210km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\"><img alt=\"\" class=\"wp-image-3528\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/alcazar-sevilla.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng, đo&agrave;n h&agrave;nh tr&igrave;nh về phương bắc đến khu vực trung t&acirc;m Andalusia của Seville. Tham quan Lăng mộ ho&agrave;ng gia nơi ch&ocirc;n cất c&aacute;c vị Ho&agrave;ng đế trong hơn một thế kỷ;&nbsp;L&acirc;u đ&agrave;i Alcazar&nbsp;được Unesco c&ocirc;ng nhận l&agrave; Di sản văn h&oacute;a thế giới;&nbsp;Nh&agrave; thờ được x&acirc;y dựng v&agrave;o thế kỷ 16.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Seville hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">SEVILLE &ndash; LISBON (460km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\"><img alt=\"\" class=\"wp-image-3529\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Lisbon-Portugal.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đi Lisbon thủ đ&ocirc; Bồ Đ&agrave;o Nha, dự kiến sẽ đến Cabo da Roca. Tại đ&acirc;y Qu&yacute; kh&aacute;ch c&oacute; cơ hội thưởng thức phong cảnh đẹp của th&agrave;nh phố cực T&acirc;y của đại lục ch&acirc;u &Acirc;u. Tham quan đ&agrave;i tưởng niệm, tu viện Jeronimos, sau đ&oacute; đến quảng trường Marques de Pombal qu&yacute; kh&aacute;ch tự do mua sắm.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Lisbon hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">LISBON &ndash; TOLEDO &ndash; MADRID (675km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\"><img alt=\"\" class=\"wp-image-3530\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Xe khởi h&agrave;nh hướng về Madrid, thủ đ&ocirc; của T&acirc;y Ban Nha. Tr&ecirc;n đường đi, đo&agrave;n gh&eacute; tham quan th&agrave;nh phố cổ Toledo, l&acirc;u đ&agrave;i, kiến tr&uacute;c vĩ đại của nh&agrave; thờ lớn tại đ&acirc;y. Sau đ&oacute; đến Madrid.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Madrid hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">MADRID &ndash; ZARAGOZA (320km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\"><img alt=\"\" class=\"wp-image-3531\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Madrid.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tham quan Madrid, thủ đ&ocirc; T&acirc;y Ban Nha: Đ&agrave;i phun nước Tbilisi, Đ&agrave;i tưởng niệm Christopher Columbus, Trường Đại Học v&agrave; Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha. Đến Puerta, đo&agrave;n dừng ch&acirc;n mua sắm mặc h&agrave;ng da, quần &aacute;o v&agrave; đồ lưu niệm. Đầu giờ chiều, đo&agrave;n chia tay Madrid để h&agrave;nh tr&igrave;nh hướng về Zaragoza.<br />
+		<i>Kh&aacute;ch sạn 3*: Zaragoza hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">ZARAGOZA &ndash; BARCELONA (300km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\"><img alt=\"\" class=\"wp-image-3532\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/camp-nou-stadium-wallpaper.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng bắt đầu h&agrave;nh tr&igrave;nh đến Barcelona, tham quan Đ&agrave;i tưởng niệm Columbus, Nh&agrave; thờ Holy Family, s&acirc;n vận động Nou Camp, nơi tổ chức Thế vận hội Barcelona 1992. Thời gian c&ograve;n lại d&agrave;nh cho shopping tại Plaza Catalonia.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+	<p>
+		*** Ăn s&aacute;ng: theo ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, tr&agrave;, c&agrave; ph&ecirc;, sữa.</p>
+	<p>
+		<b>&nbsp;<span style=\"color: #ffcc00;\">V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute;&nbsp; c&oacute; thể thay đổi) </span></b></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 186.9 Euro (Khoảng 4.700.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha, Madrid &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;8 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Nh&agrave; thờ Sagrada Familia, Barcelona (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;14.8 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Alhambra, Granada (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;14 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Gibraltar, Malaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;2.1&nbsp;</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Alcazar, Segovia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">S&acirc;n vận động Camp Nou, Barcelona &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;23 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;55 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn đến thị trấn Mijas, Malaga &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn bờ biển Alicante ban đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn th&agrave;nh phố v&aacute;ch n&uacute;i Ronda &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;20 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người) &nbsp; &nbsp; &nbsp;&euro; 20&nbsp; </span></p>
+	<hr />
+</div>
+',positon='5' where id=5;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN TÍM',name_tab='Purple Line',color='purple',content='<div>
+	<p>
+		<span style=\"color: #800080;\"><strong>TUYẾN T&Iacute;M</strong> &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></p>
+	<h3>
+		<span style=\"color: #800080;\">Tuyến T&iacute;m </span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"color: #800080;\"><strong>Anh &ndash; Scotland&nbsp;</strong></span><br />
+		<strong>Thời Gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hằng tuần<br />
+		<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+		<strong>Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp;Tiếng Hoa.</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/pu.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #800080;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến T&iacute;m l&agrave; sự kết hợp giữa sự cổ điển, hiện đại của Vương Quốc Anh với khung cảnh thi&ecirc;n nhi&ecirc;n thanh b&igrave;nh của Scotland.<br />
+		H&agrave;nh tr&igrave;nh Tuyến T&iacute;m sẽ đưa du kh&aacute;ch băng qua eo biển để đến với thủ đ&ocirc; London hiện đại của nước Anh. Du kh&aacute;ch sẽ c&oacute; cơ hội tham quan những cung điện Ho&agrave;ng gia Anh v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh kiến tr&uacute;c nổi tiếng thế giới của nước Anh như cung điện Buckingham, Tu viện Westminster, Đại học Cambridge v&agrave; s&acirc;n vận động Manchester&hellip;<br />
+		Đảo quốc Anh &amp; Scotland chắc chắn sẽ d&agrave;nh cho du kh&aacute;ch 07 ng&agrave;y h&agrave;nh tr&igrave;nh đ&aacute;ng nhớ.</p>
+	<p>
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 1: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">PARIS &ndash; LONDON (470km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Dover-UK.jpg\"><img alt=\"\" class=\"wp-image-3533\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Dover-UK.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		H&agrave;nh tr&igrave;nh đến Bến cảng Ph&aacute;p, xe đưa đo&agrave;n băng qua eo biển Anh để đến Cảng Dover của Anh. Thưởng ngoạn phong cảnh tr&ecirc;n đường về thủ đ&ocirc; London. Nếu c&oacute; nhiều thời gian sẽ dạo 1 v&ograve;ng tr&ecirc;n khu phố China Town.<br />
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Big-Ben-England.jpg\"><img alt=\"\" class=\"wp-image-3534\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Big-Ben-England.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Kh&aacute;m ph&aacute; London với c&aacute;c địa điểm hấp dẫn nhất: Th&aacute;p Đồng hồ Big Ben, t&ograve;a nh&agrave; Quốc Hội, tu viện Westminster, sau đ&oacute; từ đường Whitehall, hướng dẫn vi&ecirc;n dẫn đo&agrave;n tản bộ đến khu văn ph&ograve;ng thủ tướng số 10 phố Downing tham quan v&agrave; chụp ảnh b&ecirc;n ngo&agrave;i. Tiếp theo đ&oacute;, thăm c&ocirc;ng vi&ecirc;n Saint James Park, cung điện Buckingham, s&ocirc;ng Thames. Buổi trưa đo&agrave;n gh&eacute; tham quan b&ecirc;n ngo&agrave;i nh&agrave; thờ St Paul&rsquo;s v&agrave; Th&aacute;p London..</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON &ndash; CAMBRIDGE &ndash; YORK (350km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cambridge-england.jpg\"><img alt=\"\" class=\"wp-image-3535\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/cambridge-england.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tham quan Trường Đại học Cambridge cổ k&iacute;nh v&agrave; danh tiếng h&agrave;ng đầu kh&ocirc;ng chỉ của nước Anh m&agrave; c&ograve;n của cả thế giới. Sau đ&oacute; đo&agrave;n di chuyển đến York, th&agrave;nh phố đặc trưng với sự pha trộn giữa kiến tr&uacute;c La M&atilde;, Anglo-Saxon v&agrave; Viking. Tham quan York Minster, ph&aacute;o đ&agrave;i vững chắc của Đế chế La M&atilde; một thời h&ugrave;ng mạnh, mua sắm qu&agrave; lưu niệm đặc trưng.<br />
+		<i>Kh&aacute;ch sạn 3*: York hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">YORK &nbsp;- EDINBURGH &ndash; GLASGOW (400km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Edinburg.jpg\"><img alt=\"\" class=\"wp-image-3536\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Edinburg.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Edinburgh l&agrave; điểm đến tiếp theo trong cuộc h&agrave;nh tr&igrave;nh. Tham quan l&acirc;u đ&agrave;i Edinburgh nơi trung b&agrave;y Vương miện ho&agrave;ng gia v&agrave; c&aacute;c m&oacute;n đồ trang sức đắt gi&aacute;, tham quan b&ecirc;n ngo&agrave;i Cung điện Holyrood, ngắm từ b&ecirc;n ngo&agrave;i T&ograve;a thị ch&iacute;nh v&agrave; C&ocirc;ng vi&ecirc;n Holyrook park. Sau đ&oacute; khởi h&agrave;nh đến Glasgow.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Glasgow hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">GLASGOW &ndash; GRETNA GREEN &ndash; LAKE DISTRICT &ndash; MANCHESTER (360km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\"><img alt=\"\" class=\"wp-image-3537\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tr&ecirc;n đường đến Lake District, gh&eacute; thăm thị trấn Gretna Green xinh đẹp, c&ocirc;ng vi&ecirc;n quốc gia Lake District, du thuyền tr&ecirc;n Hồ Windermere, bảo t&agrave;ng Red Scarf. Đo&agrave;n khởi h&agrave;nh đến Manchester, th&agrave;nh phố được biết đến với CLB b&oacute;ng đ&aacute; nổi tiếng thế giới, gh&eacute; s&acirc;n vận động Manchester.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Manchester hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">MANCHESTER &ndash; STRATFORD &ndash; Upon -Avon &ndash; BICESTER &ndash; LONDON (380km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\"><img alt=\"\" class=\"wp-image-3538\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Khởi h&agrave;nh đến Stratford-upon-Avon, qu&ecirc; hương của Shakespeare. Tham quan trường học v&agrave; nh&agrave; thờ tại đ&acirc;y. Sau đ&oacute; khởi h&agrave;nh đến London, gh&eacute; thi&ecirc;n đường h&agrave;ng hiệu Bicester Village với c&aacute;c thương hiệu như: Gucci, Armani, Prada, Calvin Klein, Dunhill, DKNY, Burberry, Paul Smith, Bally, Le Creuset, Clarks&hellip;</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON &ndash; PARIS (450km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\"><img alt=\"\" class=\"wp-image-3539\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n bắt đầu h&agrave;nh tr&igrave;nh trở về eo biển Anh để quay về Paris, Ph&aacute;p.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận<br />
+		<em>*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #993366;\"><b>TUYẾN T&Iacute;M&nbsp; &ndash; V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 88.4 Bảng Anh (Khoảng 2.800.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Đi thuyền k&ecirc;nh Cambridge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;uđ&agrave;i Edinburgh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền hồ Windermere &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.5 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Shakespeare Birthplace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15.9 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thamquan University of Oxford &nbsp; &nbsp;10 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Thames &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ph&iacute; v&agrave; thuế đi qua đường hầm dưới biển (Bắt buộc) &nbsp; &nbsp; &nbsp; &nbsp;10 GBP</span></p>
+	<p>
+		&nbsp;</p>
+</div>
+',positon='5' where id=5;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN CAM',name_tab='Orange Line',color='#ffa500',content='<div>
+	<h3>
+		<a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">BOOK NOW!</a></h3>
+	<p>
+		TUYẾN CAM&nbsp; <a href=\"http://www.goeugo.vn/daily\">Book Now!</a></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<b>H&agrave;nh Tr&igrave;nh:&nbsp; &nbsp; &nbsp; &nbsp; </b><b>PH&Aacute;P &ndash; ANDORRA &ndash; BỒ Đ&Agrave;O NHA</b></p>
+	<p>
+		<b>Thời gian:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>07 ng&agrave;y<br />
+		<b>Khởi h&agrave;nh:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b> Tiếng Hoa: Thứ 05 Hằng tuần tại Paris./ Tiếng Việt: 28/4; 26/5; 23/6; 21/7; 17/8; 22/9</p>
+	<p>
+		<b>Gi&aacute;: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>&euro;631 (Khoảng: 16 Triệu VND). Gồm: Xem tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.</p>
+	<p>
+		<b>Hướng dẫn vi&ecirc;n:&nbsp;&nbsp;&nbsp;&nbsp; </b> Tiếng Hoa (Hằng tuần); Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: Từ 10 kh&aacute;ch)</p>
+	<figure class=\"full-width-mobile \" style=\"width: 100%;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\" /></a></figure>
+	<p>
+		(MAP: ATTACHED FILE)<br />
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<span style=\"color: #ff6600;\"><b>H&agrave;nh Tr&igrave;nh </b></span></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 1: Thứ 05:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>PARIS&rarr; AVIGNON (690km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside1.jpg\"><img alt=\"\" class=\"wp-image-3520\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/French-Countryside1.jpg\" /></a></figure>
+	<p>
+		Đo&agrave;n rời Paris v&agrave;o buổi s&aacute;ng v&agrave; đến thủ phủ v&ugrave;ng Provence, th&agrave;nh phố Avignon v&agrave;o chiều muộn. Ngay khi đến <b>Avignon</b>, du kh&aacute;ch c&oacute; thể cảm nhận sự kh&aacute;c biệt của v&ugrave;ng <b>Provence</b> m&agrave; kh&ocirc;ng nơi n&agrave;o kh&aacute;c c&oacute; được. Provence rất thu h&uacute;t với kh&ocirc;ng kh&iacute; m&aacute;t mẻ với gi&oacute; biển v&ugrave;ng Địa Trung Hải. Bầu kh&ocirc;ng kh&iacute; Avignon thoang thoảng m&ugrave;i hương quyến rũ của hoa Oải hương, h&uacute;ng T&acirc;y, hương gỗ th&ocirc;ng v&agrave; hương thơm của c&aacute;c loại nước hoa tại xứ sở sản xuất hương liệu trứ danh của Ph&aacute;p.&nbsp;Du kh&aacute;ch ăn tối, nghỉ ngơi, tận hưởng bầu kh&ocirc;ng kh&iacute; tươi m&aacute;t v&ugrave;ng Provence, chuẩn bị h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; th&agrave;nh phố Avignon v&agrave;o s&aacute;ng h&ocirc;m sau.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Avignon hay khu vực l&acirc;n cận.</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><i>&nbsp;</i><b>Ng&agrave;y 2: Thứ 06:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>AVIGNON&rarr;GORDES&rarr; ABBEY SENAQUE&nbsp;&rarr;AVIGNON (200km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\"><img alt=\"\" class=\"wp-image-3521\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\" /></a></figure>
+	<p>
+		Du kh&aacute;ch bắt đầu ng&agrave;y mới với h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; Avignon. Avignon l&agrave; một th&agrave;nh phố cổ rất nghệ thuật, bao quanh bởi những bức tường cổ xưa. Điểm tham quan kh&ocirc;ng thể bỏ qua l&agrave; <b>Cung điện Papal</b> v&agrave; <b>cầu Saint &ndash; Benezet (C&ograve;n gọi l&agrave; Cầu d&rsquo;Avignon).</b> Cung điện được x&acirc;y dựng từ Thế kỷ 14, v&agrave; l&agrave; một trong những c&ocirc;ng tr&igrave;nh kiến tr&uacute;c theo phong c&aacute;ch Gothic quan trọng nhất Ch&acirc;u &Acirc;u. Đi theo hướng tường th&agrave;nh sẽ gặp <b>cầu Saint &ndash; Benezet</b>, di sản văn h&oacute;a thế giới. Buổi chiều, đến với <b>Th&agrave;nh Gordes</b> l&agrave; một trong những ng&ocirc;i l&agrave;ng đẹp nhất nước Ph&aacute;p, cũng l&agrave; nơi ở của nhiều ng&ocirc;i sao v&agrave; nghệ sĩ nổi tiếng. Ng&ocirc;i l&agrave;ng n&agrave;y c&ograve;n được gọi &ldquo;L&agrave;ng Treo&rdquo; bởi nằm nghi&ecirc;ng m&igrave;nh b&ecirc;n bờ Nam của cao nguy&ecirc;n Vaucluse. Sự h&igrave;nh th&agrave;nh đ&aacute; v&ocirc;i tr&ecirc;n nền đ&aacute; v&agrave; sỏi của khu vực n&agrave;y đ&atilde; tạo n&ecirc;n những m&agrave;u đ&aacute; m&agrave;u hồng nhạt, &oacute;ng &aacute;nh khi c&oacute; nắng chiếu v&agrave;o rất độc đ&aacute;o.</p>
+	<p>
+		Sau đ&oacute; tới tu viện <b>Abbaye de S&eacute;nanque</b>, một trong những địa điểm tốt nhất để thăm <b>vườn hoa Oải Hương</b>. Tu viện được th&agrave;nh lập v&agrave;o năm 1148, hằng năm tu viện b&igrave;nh y&ecirc;n n&agrave;y ch&agrave;o đ&oacute;n rất nhiều du kh&aacute;ch đến thưởng ngoạn Hoa oải hương v&agrave;o vụ nở rộ.</p>
+	<p>
+		(Lưu &yacute;: Thăm vườn hoa oải hương theo m&ugrave;a vụ. Hoa oải hương nở rộ từ giữa th&aacute;ng 06 đến đầu th&aacute;ng 08.)</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Avignon hoặc khu vực l&acirc;n cận</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 3: Thứ 07:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>AVIGNON&rarr;ARLES&rarr;BARCELONA (500km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\"><img alt=\"\" class=\"wp-image-3522\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng đặt ch&acirc;n đến th&agrave;nh phố <b>Arles,</b> gắn liền với t&ecirc;n tuổi của hoạ sĩ lừng danh Van Gogh. Ailes từ l&acirc;u đ&atilde; l&agrave; một th&agrave;nh phố lớn với nhiều di t&iacute;ch La M&atilde; cổ v&agrave; l&agrave; th&agrave;nh phố được Van Gogh lựa chọn nghỉ dưỡng. Mặc du chỉ sống 1 năm tại đ&acirc;y (1888 &ndash; 1889) nhưng đ&acirc;y l&agrave; khoảng thời gian đỉnh cao trong sự nghiệp s&aacute;ng tạo của m&igrave;nh, &ocirc;ng đ&atilde; vẽ n&ecirc;n khoảng hai trăm bức tranh sơn dầu, trong đ&oacute; c&oacute; thể kế đến c&aacute;c t&aacute;c phẩm trứ danh như: Bedrooms in Arles, Starry Night Over the Rhone, Still Life: Vase with Twelve Sunflowers&hellip;Sau đ&oacute;, đo&agrave;n dọc theo biển Địa Trung Hải, qua bi&ecirc;n giới T&acirc;y Ban Nha v&agrave; đến Barcelona v&agrave;o buổi tối.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i><em id=\"__mceDel\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</em></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 4: Chủ Nhật:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BARCELONA</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh tham quan quốc gia nồng nhiệt Barcelona bao gồm <b>đ&agrave;i tưởng niệm Columbus </b>v&agrave; <b>Đại lộ Las Ramblas</b>, tham quan <b>nh&agrave; thờ Sagrada Familia</b> mang t&iacute;nh đặc trưng của Barcelona. Sau đ&oacute; gh&eacute; thăm <b>Nou Camp</b>, nơi tổ chức Thế Vận Hội Barcelona năm 1992. Từ s&acirc;n vận động c&oacute; thể tận hưởng vẻ đẹp to&agrave;n cảnh của th&agrave;nh phố. Thời gian c&ograve;n lại đến <b>Quảng trường Catalunya</b> n&aacute;o nhiệt, tự do tham quan, mua sắm. Dừng ch&acirc;n nghỉ quanh c&aacute;c đ&agrave;i phun nước, du kh&aacute;ch sẽ c&oacute; cơ hội kh&aacute;m ph&aacute; văn ho&aacute; địa phương rất th&uacute; vị của th&agrave;nh phố xinh đẹp v&agrave;o ban ng&agrave;y v&agrave; lộng lẫy v&agrave;o ban đ&ecirc;m n&agrave;y.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i></p>
+	<p>
+		(Lưu &yacute;: Do c&oacute; sự kiểm so&aacute;t số lượng người v&agrave;o nh&agrave; thờ Sagrada Familia, những h&agrave;nh kh&aacute;ch muốn thăm nh&agrave; thờ, cần đặt v&eacute; tr&ecirc;n mạng v&agrave; ước t&iacute;nh thời gian thăm quan v&agrave;o khoảng từ 10-10:30am. Website đặt v&eacute;: <a href=\"http://www.sagradafamilia.org/en/tickets/\">http://www.sagradafamilia.org/en/tickets/</a>) (HDV sẽ hỗ trợ du kh&aacute;ch)</p>
+	<p>
+		<span style=\"color: #ff6600;\"><em id=\"__mceDel\"><b>Ng&agrave;y 5: Thứ 2</b></em></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BARCELONA &rarr; ANDORRA&rarr; LOURDES (480km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\"><img alt=\"\" class=\"wp-image-3524\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đến <b>C&ocirc;ng Quốc Andorra</b>. C&ocirc;ng quốc n&agrave;y nằm giữa Ph&aacute;p v&agrave; T&acirc;y Ban Nha, b&ecirc;n d&atilde;y n&uacute;i Pyrenees, tổng diện t&iacute;ch 468 km2, bao bọc bởi c&aacute;c d&atilde;y n&uacute;i cao, địa h&igrave;nh hiểm trở, độ cao trung b&igrave;nh so với mực nước biển l&agrave; 1996 m&eacute;t, thủ đ&ocirc; Andorra được mệnh danh l&agrave; thủ đ&ocirc; c&oacute; độ cao so với mực nước biển cao nhất Ch&acirc;u &Acirc;u. Một quốc gia nơi c&oacute; phong cảnh tuyệt đẹp như tranh vẽ v&agrave; cũng l&agrave; nơi trượt tuyết được y&ecirc;u th&iacute;ch của người d&acirc;n Ch&acirc;u &Acirc;u.&nbsp; Tại Quảng trường Nh&acirc;n D&acirc;n, du kh&aacute;ch c&oacute; thể chi&ecirc;m ngưỡng vẻ đẹp tr&aacute;ng lệ của đồi n&uacute;i, thung lũng xung quanh. Andorra l&agrave; nơi mua sắm miễn thuế, rất th&iacute;ch hợp cho những du kh&aacute;ch th&iacute;ch shopping.</p>
+	<p>
+		Sau buổi chiều dọc theo d&atilde;y n&uacute;i Pyrenees đến Ph&aacute;p, h&agrave;nh tr&igrave;nh hướng đến thị trấn <b>Th&aacute;nh Địa Lourdes</b> nổi tiếng, nơi h&agrave;nh hương lớn của c&aacute;c t&iacute;n đồ C&ocirc;ng gi&aacute;o.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Lourdes hoặc khu vực l&acirc;n cận</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 6: Thứ 3:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>LOURDES &rarr; BORDEAUX (250km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bordeaux.jpg\"><img alt=\"\" class=\"wp-image-3525\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bordeaux.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đến thị trấn Lourdes nổi tiếng, truyền rằng c&aacute;ch đ&acirc;y 150 năm trước Đức Mẹ Maria từng hiển linh tại đ&acirc;y. Mỗi năm Lourdes thu h&uacute;t hơn 5 triệu người h&agrave;nh hương. Hơn nữa, thị trấn miền n&uacute;i n&agrave;y c&ograve;n sở hữu cảnh đẹp thi&ecirc;n nhi&ecirc;n tuyệt mĩ.</p>
+	<p>
+		Sau khi rời Lourdes, đo&agrave;n khởi h&agrave;nh đến trung t&acirc;m rượu vang của thế giới &ndash; Bordeaux, tham quan Di sản văn h&oacute;a thế giới &ndash; <b>Nh&agrave; thờ Saint Andr&eacute; v&agrave; quảng trường &ndash; The Quinconces</b> &ndash; Quảng trường lớn thứ 2 của Ch&acirc;u &Acirc;u. Đến qu&ecirc; hương của rượu vang tham quan nơi sản xuất rượu l&agrave; một trải nghiệm kh&ocirc;ng n&ecirc;n bỏ lỡ, h&agrave;nh tr&igrave;nh sẽ gh&eacute; thăm c&aacute;c nh&agrave; l&agrave;m rượu nổi tiếng. Du kh&aacute;ch c&oacute; thể tận mắt trải nghiệm qu&aacute; tr&igrave;nh ủ rượu, những du kh&aacute;ch s&agrave;nh rượu c&oacute; thể thử v&agrave; mua rượu tại đ&acirc;y.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Bordeaux hoặc khu vực l&acirc;n cận.</i></p>
+	<p>
+		<i>(Lưu &yacute;: Hầu hết c&aacute;c nh&agrave; m&aacute;y rượu vang ở Bordeaux sẽ tạm đ&oacute;ng cửa v&agrave;o th&aacute;ng 8 hoặc trong c&aacute;c m&ugrave;a lễ, h&agrave;nh tr&igrave;nh sẽ hủy thăm nh&agrave; l&agrave;m rượu. Thay v&agrave;o đ&oacute;, du kh&aacute;ch c&oacute; thể thưởng thức thử rượu vang v&agrave; mua sắm c&aacute;c loại rượu tại c&aacute;c shop rượu ở Bordeaux.) </i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 7: Thứ 4:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BORDEAUX &rarr; CHAMBORD &rarr; PARIS (590km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange.jpg\"><img alt=\"\" class=\"wp-image-3526\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh theo hướng Bắc đến <b>thung lũng S&ocirc;ng Loire</b> nổi tiếng thế giới. S&ocirc;ng Loire l&agrave; con s&ocirc;ng d&agrave;i nhất nước Ph&aacute;p. Dọc b&ecirc;n bờ s&ocirc;ng Loire c&oacute; tới h&agrave;ng chục l&acirc;u đ&agrave;i nguy nga, tr&aacute;ng lệ được x&acirc;y dựng từ thế kỷ 16 dưới thời vua Fran&ccedil;ois Đệ Nhất. &Ocirc;ng đ&atilde; cho mời đến đ&acirc;y những nghệ sĩ t&agrave;i hoa từ &Yacute; như Leonardo da Vinci để kiến thiết c&aacute;c to&agrave; l&acirc;u đ&agrave;i n&agrave;y, tạo nền tảng cho nền nghệ thuật Phục Hưng Ph&aacute;p. Nơi đ&acirc;y từng l&agrave; chốn nghỉ dưỡng c&oacute; giới qu&yacute; tộc gi&agrave;u c&oacute;.&nbsp; Trong số đ&oacute;, <b>l&acirc;u đ&agrave;i Chambord</b> được người d&acirc;n Ph&aacute;p xem l&agrave; Quốc Bảo. V&agrave;o năm 1981, Chambord được liệt v&agrave;o danh s&aacute;ch di sản văn h&oacute;a thế giới.<b><i> </i></b></p>
+	<p>
+		Sau đ&oacute;, h&agrave;nh tr&igrave;nh hướng về Paris v&agrave; đến kinh đ&ocirc; hoa lệ v&agrave;o khoảng buổi tối.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		<i>*** Kết th&uacute;c h&agrave;nh tr&igrave;nh.</i><em id=\"__mceDel\"><i>&nbsp;</i></em></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi) </b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave;o cửa v&agrave; c&aacute;c hoạt động thao quan: 146.5 Euro (Khoảng 3.650.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&acirc;y cầu Pont du Gard&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Tu viện Monestir de Montserat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;20</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Chateau de Chambord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&euro;11.5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Sagrada Fam&iacute;lia Church&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;14.8</span></p>
+	<p>
+		(Orange line during 10 to 10.30 AM. HDV hỗ trợ book online.<a href=\"http://visit.sagradafamilia.cat\">http://visit.sagradafamilia.cat</a>.)</p>
+	<p>
+		<span style=\"text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;55 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">&nbsp;Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro; 20&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn chung c&ugrave;ng đo&agrave;n (Từ 10 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;10 &ndash; 15&nbsp;</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+</div>
+',positon='6' where id=6;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH',name_tab='Green Line',color='green',content='<div>
+	<h3>
+		<span style=\"color: #008000;\">TUYẾN XANH L&Aacute; &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"color: #008000;\"><strong>PH&Aacute;P &ndash; THUỴ SỸ &ndash; &Yacute; &ndash; VATICAN &ndash; MONACO</strong></span><br />
+		<strong>Thời gian:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi h&agrave;nh:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>Thứ 7 Hằng tuần tại Paris&nbsp;&nbsp;<br />
+		<strong>Gi&aacute;:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>&euro;631 (Khoảng: 16 Triệu VND) Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng, hương dẫn vi&ecirc;n<br />
+		<strong>Hướng dẫn vi&ecirc;n:</strong><span style=\"font-weight: bold;\">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>Tuỳ chọn&nbsp;Tiếng Việt/Anh/Hoa</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 806px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\"><img alt=\"\" class=\"wp-image-3841\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/green1.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến Xanh đưa du kh&aacute;ch đến trung t&acirc;m những th&agrave;nh phố tuyệt đẹp bậc nhất Ch&acirc;u &Acirc;u của Ph&aacute;p, Thuỵ Sĩ v&agrave; &Yacute;. Từ Paris, GoEuGo sẽ c&ugrave;ng du kh&aacute;ch qua v&ugrave;ng n&uacute;i An Pơ, Thuỵ Sĩ tuyệt đẹp, quanh năm phủ đầy tuyết trắng trước khi đi v&agrave;o v&ugrave;ng trung t&acirc;m nước &Yacute;, miền đất của kiến tr&uacute;c v&agrave; nghệ thuật.</p>
+	<p style=\"text-align: justify;\">
+		Kh&aacute;m ph&aacute; th&agrave;nh phố nổi độc đ&aacute;o nhất thế giới Venice, tản bộ qua khu th&agrave;nh cổ Verona v&agrave; ngắm nh&igrave;n c&aacute;i n&ocirc;i của nghệ thuật Phục Hưng Florence v&agrave; trải nghiệm 1 ng&agrave;y đ&aacute;ng nhớ tại Thủ đ&ocirc; Vĩnh Hằng &ndash; Rome với Đấu Trường Coliseum v&agrave; th&agrave;nh phố linh thi&ecirc;ng Vatican. V&agrave; sau c&ugrave;ng, qu&yacute; kh&aacute;ch sẽ được tận hưởng kh&ocirc;ng kh&iacute; m&aacute;t mẻ, nắng v&agrave;ng, trời gian xanh v&ugrave;ng Địa Trung Hải v&agrave; đồng qu&ecirc; miền Nam nước Ph&aacute;p trước khi trở về Paris để kết th&uacute;c chuyến đi. Một h&agrave;nh tr&igrave;nh tuyệt vời!</p>
+	<p>
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour.)</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 1: Thứ Bảy: </i></span><span style=\"color: #339966;\">PARIS &ndash; LUCERNE(650km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\"><img alt=\"\" class=\"wp-image-3546\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/images.jpg\" /></a></figure>
+	<p>
+		&nbsp;Xe rời&nbsp;Paris hướng đến th&agrave;nh phố Lucerne xinh đẹp của Thụy Sĩ. Tr&ecirc;n đường đi qu&yacute; kh&aacute;ch c&oacute; cơ hội ngắm nh&igrave;n phong cảnh miền qu&ecirc; thơ mộng của nước Ph&aacute;p v&agrave; d&atilde;y n&uacute;i Alps của Thụy Sĩ. Đo&agrave;n đi ngang Basel &ndash; nơi gặp nhau của bi&ecirc;n giới ba nước Ph&aacute;p, Đức, Thụy Sĩ. Đến Lucerne thanh b&igrave;nh, tham quan cầu gỗ cổ Chapel v&agrave; tự do mua sắm đồ lưu niệm hay đồng hồ Thụy Sĩ.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"color: #008000;\">LUCERNE&ndash; MILAN &ndash; VENICE(480km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;Đến kinh đ&ocirc; thời trang Milan, du kh&aacute;ch c&oacute; thời gian tham quan nh&agrave; thờ lớn nhất Milan, Duomo với kiến tr&uacute;c bằng đ&aacute; khối độc đ&aacute;o, tinh xảo đến từng chi tiết. B&ecirc;n cạnh nh&agrave; thờ l&agrave; khu trung t&acirc;m mua sắm Emmanuel II, khu trung t&acirc;m thương mại cổ nhất ch&acirc;u &Acirc;u với rất nhiều c&aacute;c mặt hằng thời gian.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Venice hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"color: #008000;\">VENICE &ndash; ROME(550km)</span></p>
+	<p>
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;Kh&aacute;m ph&aacute; th&agrave;nh phố tr&ecirc;n s&ocirc;ng Venice c&ugrave;ng với một hướng dẫn vi&ecirc;n địa phương: quảng trường San Marco, Cầu Than Thở, xem biểu diễn chế t&aacute;c thủy tinh Murano. Kh&aacute;ch c&oacute; thể lựa chọn đi thuyền Gondola dọc k&ecirc;nh Venice v&agrave; thưởng thức bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n m&igrave; Spaghetti đặc sản. Khởi h&agrave;nh xuống th&agrave;nh phố vĩnh hằng Rome.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Rome hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"color: #008000;\">ROME &ndash; VATICAN &ndash; ARREZZO (280km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến Vatican &ndash; quốc gia nhỏ nhất thế giới với Nh&agrave; thờ Th&aacute;nh Peter&rsquo;s Basilica tuyệt mỹ. Sau đ&oacute; tham quan Đ&agrave;i phun nước Trevi, tản bộ khu vực xung quanh Quảng trường T&acirc;y Ban Nha. Đến Đấu trường La M&atilde; Coliseum, du kh&aacute;ch c&oacute; thể v&agrave;o b&ecirc;n trong Đấu trường hoặc đi bộ đến Khải Ho&agrave;n M&ocirc;n Constantine gần đ&oacute;. Sau đ&oacute;, du kh&aacute;ch c&oacute; thể lựa chọn viếng thăm nh&agrave; thờ Basilique Santa Maria degli Angeli e dei Martiri hoặc mua sắm tự do ở trung t&acirc;m thương mại Mitsukoshi trước khi khởi h&agrave;nh đến Arrezzo l&uacute;c xế chiều.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Arrezzo hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #008000;\">Ng&agrave;y 5: Thứ Tư:&nbsp;</i><span style=\"color: #008000;\">ARREZZO &nbsp;&rarr; PISA &rarr; GENOA(250km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Kh&aacute;m ph&aacute; Florence, th&agrave;nh phố được mệnh danh l&agrave; c&aacute;i n&ocirc;i văn h&oacute;a nghệ thuật Phục hưng, Quảng trường Michel-Angelo, cầu Vecchio, nh&agrave; thờ Đức Mẹ Duomo, th&aacute;p Campanile, bảo t&agrave;ng nghệ thuật Uffizi, mua sắm mặc h&agrave;ng da thuộc nổi tiếng của Florence. Tham quan Th&aacute;p nghi&ecirc;ng Pisa nổi tiếng thế giới.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Genoa hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #008000;\"><i>Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"color: #008000;\">GENOA &rarr; NICE &rarr; CANNES &rarr; AVIGNON (450km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến v&ugrave;ng Cote D&rsquo;Azur xinh đẹp b&ecirc;n bờ Địa Trung hải. Tham quan c&ocirc;ng quốc Monaco nhỏ b&eacute; nhưng gi&agrave;u đẹp v&agrave; thịnh vượng, l&acirc;u đ&agrave;i Grand Place, đi ngang qua s&ograve;ng bạc Monte-Carlo nổi tiếng tr&ecirc;n đường v&agrave;o th&agrave;nh phố. Gh&eacute; thăm thủ phủ Nice của V&ugrave;ng Cote D&rsquo;Azur, nh&agrave; m&aacute;y sản xuất nước hoa Fragonard. Th&agrave;nh phố điện ảnh Cannes &ndash; chụp ảnh tại nơi tổ chức li&ecirc;n hoan phim Cannes lừng danh. Tận hưởng cảm gi&aacute;c thư gi&atilde;n c&ugrave;ng cảnh biển tuyệt đẹp tại Cannes.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Avignon hay khu vực l&acirc;n cận</i><br />
+		<i style=\"color: #008000;\">Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i><span style=\"color: #008000;\">AVIGNON &rarr; PARIS (700km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Bắt đầu h&agrave;nh tr&igrave;nh trở lại Paris. Tr&ecirc;n đường đi Qu&yacute; kh&aacute;ch c&oacute; cơ hội dừng ch&acirc;n tại c&aacute;c trạm nghỉ thưởng thức kh&ocirc;ng kh&iacute; m&aacute;t mẻ v&agrave; ngắm nh&igrave;n khung cảnh thơ mộng của miền nam nước Ph&aacute;p. Đến Paris l&uacute;c ho&agrave;ng h&ocirc;n.</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)<br />
+		<em>***Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave;, c&agrave; ph&ecirc;.&nbsp;</em><br />
+		<br />
+		<span style=\"color: #339966;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*): 130 Euro (Khoảng 1.150.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Đấu trường Coliseum &ndash; Rome * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;12</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền Gondola tại Venice (1 thuyền &iacute;t nhất 6 người)* &nbsp; &nbsp;&euro;30</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa trưa c&ugrave;ng đo&agrave;n với m&oacute;n ăn đặc sản Venice* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+	<p>
+		<b>&nbsp;THUẾ V&Agrave; LỆ PH&Iacute; V&Agrave;O TH&Agrave;NH PHỐ CỦA &Yacute; V&Agrave; MONACO (Bắt buộc):&nbsp;</b><b>&euro;45 (Khoảng 1.125.000 đ</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Venice + thuế ngồi thuyền + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Florence + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Rome + thuế qua đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Pisa &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Monaco &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;5</span></p>
+	<p>
+		<strong>&nbsp;</strong></p>
+</div>
+<p>
+	&nbsp;</p>
+',positon='1' where id=1;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN ĐỎ',name_tab='Red Line',color='red',content='<div>
+	<h3>
+		<span style=\"color: #f62a2a;\">Tuyến Đỏ &nbsp; &nbsp; &nbsp; &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<p>
+		&nbsp;</p>
+	<hr />
+	<br />
+	<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"color: #ff0000;\"><strong>PH&Aacute;P &ndash; LUXEMBOUG &ndash; ĐỨC &ndash; H&Agrave; LAN &ndash; BỈ&nbsp;</strong></span><br />
+	<strong>Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+	<strong>Khởi h&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thứ 5 hoặc 7 Hằng tuần tại Paris.<br />
+	<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;631 (Khoảng: 16 Triệu VND).&nbsp;Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.<br />
+	<strong>Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp;Tiếng Việt/Anh/Hoa
+	<p>
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/red.jpg\" /></figure>
+	<p>
+		<strong>Giới Thiệu:</strong></p>
+	<p>
+		Tham qia v&agrave;o Tuyến Đỏ để tham quan những th&agrave;nh phố nổi tiếng v&agrave; quan trọng nhất v&ugrave;ng Bắc &Acirc;u. Tour sẽ đi qua quốc gia nhỏ bẻ nhưng rất phồn thịnh Luxembourg, c&aacute;c th&agrave;nh phố lịch sử l&acirc;u đời của nước Đức như Cologne, Frankfurt v&agrave; Bonn, Amsterdam y&ecirc;n b&igrave;nh với hệ thống k&ecirc;nh rạch hiền ho&agrave; uốn quanh th&agrave;nh phố hay trung t&acirc;m ch&iacute;nh trị của nước Bỉ.<br />
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		Với khung cảnh tuyệt đẹp v&agrave; nhiều trải nghiệm th&uacute; vị, Tuyến Đỏ ho&agrave;n to&agrave;n xứng đ&aacute;ng để bạn d&agrave;nh một tuần tham quan c&ugrave;ng GoEuGo.</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour)</p>
+	<p>
+		<span><i><span style=\"color: #ff0000;\">Ng&agrave;y 1: Thứ Năm</span>:&nbsp;</i></span><span style=\"color: #ff0000;\">PARIS &rarr; VERSAILLES &rarr; PARIS (50km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		Kh&aacute;m ph&aacute; kinh đ&ocirc; &aacute;nh s&aacute;ng Paris: Đại lộ thi&ecirc;n đ&agrave;ng Champs Elysees, Quảng trường Concorde, Khải Ho&agrave;n M&ocirc;n, ng&ocirc;i mộ của Napoleon, th&aacute;p Eiffel, du thuyền tr&ecirc;n s&ocirc;ng Seine v&agrave; ngắm nh&igrave;n những thắng cảnh nằm dọc hai b&ecirc;n bờ s&ocirc;ng như: Nh&agrave; thờ Đức b&agrave;, Cầu Alexander III. Sau đ&oacute; đi tham quan l&acirc;u đ&agrave;i Versailles trước khi quay trở lại</p>
+	<p>
+		<i>Paris. Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 2: Thứ s&aacute;u:</i></span><span style=\"color: #ff0000;\">PARIS</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\"><img alt=\"\" class=\"wp-image-3508\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/louvre-museum-876.jpg\" /></a></figure>
+	<p>
+		Kh&aacute;m ph&aacute; Bảo t&agrave;ng Le Louvre, nơi chứa h&agrave;ng trăm ng&agrave;n t&aacute;c phẩm nghệ thuật c&oacute; gi&aacute; trị của nh&acirc;n loại, trong đ&oacute; đ&aacute;ng ch&uacute; &yacute; nhất l&agrave;: bức tranh nổi tiếng vẽ n&agrave;ng Mona Lisa với nụ cười b&iacute; ẩn của Leonardo da Vinci, Tượng nữ thần sắc đẹp Venus, hay Nữ thần săn bắn&hellip;Tự do tham quan, đến cửa h&agrave;ng miễn thuế hoặc mua sắm tại c&aacute;c trung t&acirc;m thương mại nổi tiếng như: Galeries Lafayette v&agrave; Printemps.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 3: Thứ Bảy:&nbsp;</i><span style=\"color: #ff0000;\">PARIS &rarr; REIMS &rarr; LUXEMBOURG (420km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\"><img alt=\"\" class=\"wp-image-3509\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/reims-cathedral-2.jpg\" /></a></figure>
+	<p>
+		Đến Reims &ndash; Thủ phủ rượu Champagne nổi tiếng thế giới của nước Ph&aacute;p. Đ&acirc;y cũng l&agrave; nơi c&aacute;c vị Vua của Ph&aacute;p đăng quang v&agrave;o thế kỷ 11. Tham quan Nh&agrave; thờ Đức mẹ Reims &ndash; biểu tượng quan trọng của di sản văn h&oacute;a Ph&aacute;p. Đến Luxembourg, đất nước nhỏ b&eacute; nhưng rất thịnh vượng của ch&acirc;u &Acirc;u. Gh&eacute; thăm Cầu Adolphe v&agrave; Viện lập ph&aacute;p.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Luxembourg hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 4: Chủ nhật:&nbsp;</i><span style=\"color: #ff0000;\">LUXEMBOURG &rarr; TRIER &rarr; KOBLENZ &rarr; FRANKFURT (400km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\"><img alt=\"\" class=\"wp-image-3510\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Rhine.jpg\" /></a></figure>
+	<p>
+		Đến Trier, thị trấn l&acirc;u đời nhất của Đức, gh&eacute; Porta Nigra, th&agrave;nh phố với kiến tr&uacute;c La M&atilde; được bảo tồn h&agrave;ng ng&agrave;n năm qua. Tham quan nh&agrave; v&agrave; l&agrave; bảo t&agrave;ng Karl Marx. Du ngoạn bằng thuyền tr&ecirc;n d&ograve;ng s&ocirc;ng Rhine. Đến Frankfurt, tham quan thị trấn nhỏ Rudesheim nổi tiếng với đặc sản rượu vang v&agrave; Romer platz &ndash; c&ocirc;ng tr&igrave;nh kiến tr&uacute;c v&ocirc; c&ugrave;ng đặc biệt.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<i style=\"color: #ff0000;\">Ng&agrave;y 5: Thứ Hai:&nbsp;</i><span style=\"color: #ff0000;\">FRANKFURT &nbsp;&rarr; BONN &rarr; COLOGNE &rarr; AMSTERDAM (350km)</span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\"><img alt=\"\" class=\"wp-image-3511\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/6.jpg\" /></a></figure>
+	<p>
+		Đến Bonn, cố đ&ocirc; của T&acirc;y Đức sau chiến tranh thế giới lần 2, tham quan T&ograve;a nh&agrave; Town Hall v&agrave; nh&agrave; của cố nhạc sĩ thi&ecirc;n t&agrave;i Beethoven, nh&agrave; thờ lớn Cologne &ndash; di sản UNESCO, tự do tham quan mua sắm. Buổi chiều đo&agrave;n rời Cologne thẳng tiến đến H&agrave; Lan.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 6: Thứ Ba:&nbsp;</i></span><span style=\"color: #ff0000;\">AMSTERDAM &rarr; ZAANSE SCHANS &rarr; AMSTERDAM (50km) </span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\"><img alt=\"\" class=\"wp-image-3512\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Amsterdam-canals.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Thăm l&agrave;ng Zannse Schans xinh đẹp, hiền ho&agrave; với những chiếc cối xay gi&oacute;, biểu tưởng của đất nước H&agrave; Lan, thăm xưởng guốc gỗ, xưởng sản xuất ph&ocirc; mai nổi tiếng. (Từ giữa th&aacute;ng 3 đến giữa th&aacute;ng 5, đo&agrave;n sẽ đi vườn Keukenhof). Sau đ&oacute;, v&agrave;o trung t&acirc;m Amsterdam, thăm xưởng chế t&aacute;c kim cương. Du kh&aacute;ch tuỳ chọn du ngoạn bằng thuyền tr&ecirc;n c&aacute;c con k&ecirc;nh dọc Amsterdam. Buổi chiều, &nbsp;gh&eacute; thăm khu đ&egrave;n đỏ n&aacute;o nhiệt của Amsterdam.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Amsterdam hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ff0000;\"><i>Ng&agrave;y 7: Thứ Tư:&nbsp;</i></span><span style=\"color: #ff0000;\">AMSTERDAM &rarr; BRUSSELS &rarr; PARIS (500km) </span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\"><img alt=\"\" class=\"wp-image-3513\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Belgium.jpg\" /></a></figure>
+	<p>
+		Đến Thủ đ&ocirc; Brussels của Bỉ, nơi đặt trụ sở của Li&ecirc;n Minh Ch&acirc;u &Acirc;u. Tham quan M&ocirc; h&igrave;nh ph&acirc;n tử học Atomium. V&agrave;o trung t&acirc;m thủ đ&ocirc;, tham quan Quảng trường lớn, Bức tượng đồng ch&uacute; b&eacute; đứng t&egrave; nổi tiếng Manneken Pis, tự do mua sắm chocolate v&agrave; b&aacute;nh waffles nổi tiếng của Bỉ. Sau đ&oacute; chia tay Brussels để di chuyển xuống Paris, Ph&aacute;p.</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả về điểm tập trung ban đầu.)</p>
+	<p>
+		<em>*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></p>
+	<p>
+		<b><span style=\"color: #ff0000;\">C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</span></b></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*): 130 Euro (Khoảng 3.250.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Versailles (Đ&oacute;ng cửa v&agrave;o thứ 2)* , Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bảo t&agrave;ng Louvre (Đ&oacute;ng cửa v&agrave;o thứ 3)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Th&aacute;p Eiffel (tầng 2)*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;11 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Th&aacute;p Eiffel (tầng thượng), Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15.5 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Seine*, Paris &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.5 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Rhine* , Koblenz (Th&aacute;ng 04 &ndash; 10) &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn trưa truyền thống Đức tại Koblenz với đo&agrave;n * &nbsp;&euro;20 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền dọc c&aacute;c con k&ecirc;nh Amsterdam* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&agrave;ng truyền thống Volendam H&agrave; Lan* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;10 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Vườn hoa Keukenhof H&agrave; Lan (th&aacute;ng 3 &ndash; th&aacute;ng 5)* &nbsp; &nbsp; &nbsp; &nbsp;&euro;16 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&aacute;c show nghệ thuật: </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Paris by Night &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&euro;35</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Paris Moulin Rouge Show/ Lido Show &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;140 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Khu Đ&egrave;n Đỏ Amsterdam &amp; Live show &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;50</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>&nbsp;</strong></p>
+</div>
+<p>
+	&nbsp;</p>
+',positon='2' where id=2;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN XANH DƯƠNG',name_tab='Blue Line',color='blue',content='<div>
+	<h3>
+		<span style=\"color: #0000ff;\">TUYẾN XANH DƯƠNG &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><span style=\"color: #3366ff;\">ĐỨC &ndash; CỘNG HO&Agrave; S&Eacute;C &ndash; SLOVAKIA &ndash; HUNGARY &ndash; &Aacute;O &ndash; THUỴ SĨ</span>&nbsp;</strong><br />
+		<strong>Thời gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi h&agrave;nh: &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 11/4; 9/5; 6/6; 4/7; 8/8; 5/9, 3/10; 7/11; 5/12<br />
+		<strong>Gi&aacute;: &nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+		<strong>Hướng dẫn vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; Tiếng Anh/Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Y&ecirc;u Cầu Khởi H&agrave;nh: Từ 10 kh&aacute;ch)</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/blue.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #3366ff;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến Xanh Biển l&agrave; h&agrave;nh tr&igrave;nh độc đ&aacute;o, mang đến những trải nghiệm mới lạ, những th&agrave;nh phố Trung &Acirc;u đẹp như trong tuyện cổ t&iacute;ch. H&agrave;nh tr&igrave;nh qua 6 quốc gia trong 7 ng&agrave;y. Du kh&aacute;ch chắc chắn sẽ m&ecirc; mẩn với khu phố cổ Praha, tận hưởng khung cảnh Bratislava, s&ocirc;ng Danube mộng mơ, tận hưởng ho&agrave; nhạc Mozart tại &Aacute;o v&agrave; ngắm nh&igrave;n cảnh miền n&uacute;i h&ugrave;ng vĩ, đẹp như tranh vẽ của v&ugrave;ng n&uacute;i Black Forest, Đức v&agrave; v&ugrave;ng n&uacute;i tuyết Titlis, d&atilde;y An Pơ, Thuỵ Sĩ.<br />
+		Đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh l&yacute; tưởng cho những du kh&aacute;ch đam m&ecirc; những ki&ecirc;n tr&uacute;c cổ v&agrave; khung cảnh thi&ecirc;n nhi&ecirc;n.</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Frankfurt. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại Nh&agrave; Ga Trung T&acirc;m, Frankfurt)</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 1: Thứ Hai:&nbsp;</i></span><span style=\"color: #0000ff;\">FRANKFURT &ndash; PRAGUE (530km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\"><img alt=\"\" class=\"wp-image-3547\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Frankfurt-stantion.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh từ Frankfurt đến Prague, thủ đ&ocirc; của CH S&eacute;c v&agrave; l&agrave; một trong những th&agrave;nh phố c&oacute; nền văn h&oacute;a đặc sắc nhất Ch&acirc;u &Acirc;u kể từ Cuộc C&aacute;ch mạng Nhung. Xe sẽ đi qua nhiều đồng qu&ecirc; xinh đẹp của Đức v&agrave; CH S&eacute;c.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Prague hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">PRAGUE &ndash; BRATISLAVA (330km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Du kh&aacute;ch tản bộ kh&aacute;m ph&aacute; vẻ đẹp l&atilde;ng mạn v&agrave; kiến tr&uacute;c cổ k&iacute;nh của Prague: L&acirc;u đ&agrave;i cổ Prague, nh&agrave; thờ lớn Saint-Vitus, Khu vườn Na Valech v&agrave; Rajska Zahrada, Con đường V&agrave;ng Golden Lane, c&acirc;y cầu đ&aacute; Charles, chiếc đồng hồ thi&ecirc;n văn học với hơn trăm năm lịch sử, bức tượng 12 vị th&aacute;nh. Mua sắm tự do ở Wenceslas. H&agrave;nh tr&igrave;nh đến Bratislava, thủ đ&ocirc; của Slovakia tham quan Hội trường Th&agrave;nh phố v&agrave; nh&agrave; thờ St. Martin&rsquo;s.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Bratislava hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">BRATISLAVA &ndash; BUDAPEST (200km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n rời từ Bratislava đến thủ đ&ocirc; Budapest của Hungary, th&agrave;nh phố được mệnh danh l&agrave; Paris của đ&ocirc;ng &Acirc;u. Ngắm nh&igrave;n c&aacute;c cảnh đẹp dọc hai b&ecirc;n bờ s&ocirc;ng Danube thơ mộng. Tham quan danh lam thắng cảnh: Quảng trường Anh h&ugrave;ng, cầu lớn Elizabeth, L&acirc;u đ&agrave;i Fisherman&rsquo;s, nh&agrave; thờ Matthias. Tản bộ l&ecirc;n đồi Gell&eacute;rt để ngắm to&agrave;n cảnh tuyệt đẹp của th&agrave;nh phố Budapest.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Budapest hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">BUDAPEST &ndash; VIENNA (250km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Khởi h&agrave;nh đến Vienna, thủ đ&ocirc; của nước &Aacute;o. Tham quan cung điện tuyệt đẹp theo phong c&aacute;ch Baroque &ndash; Sch&ouml;nbrunn, c&ocirc;ng vi&ecirc;n trung t&acirc;m c&oacute; bức tượng mạ v&agrave;ng của nh&agrave; soạn nhạc vĩ đại Johann Strauss. T&ograve;a nh&agrave; Quốc hội, Nh&agrave; h&aacute;t lớn Opera, Đ&agrave;i tưởng niệm Người l&iacute;nh Li&ecirc;n X&ocirc;, Nh&agrave; thờ kiến tr&uacute;c Baroque St. Charles Borromeo, Nh&agrave; thờ lớn St. Est&egrave;phe.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Vienna hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">VIENNA &ndash; SALZBURG &ndash; MUNICH (440km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\"><img alt=\"\" class=\"wp-image-3517\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Salburg.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n đến th&agrave;nh phố Salzburg xinh đẹp &ndash; một trong những di sản thắng cảnh của UNESCO. Tản bộ tham quan qu&ecirc; hương của thi&ecirc;n t&agrave;i &acirc;m nhạc Mozart, nổi bật l&agrave; ng&ocirc;i nh&agrave; của Mozart v&agrave; những địa điểm nổi tiếng gắn liền với bộ phim kinh điển &ldquo;The Sound of Music&rdquo;. Sau đ&oacute;, tiếp tục h&agrave;nh tr&igrave;nh hướng tới Munich, Đức.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Munich hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">MUNICH &ndash; MT. TITLIS &ndash; LUCERNE &ndash; ZURICH (480km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\"><img alt=\"\" class=\"wp-image-3518\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/2.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n băng qua cung đường tuyệt đẹp của d&atilde;y Alps hướng về đỉnh n&uacute;i tuyết nổi danh Titlis. Tr&ecirc;n đướng đi, đo&agrave;n tuỳ chọn gh&eacute; thăm một trong những c&ocirc;ng quốc nhỏ nhất tr&ecirc;n thế giới. Du kh&aacute;ch kh&ocirc;ng n&ecirc;n bỏ qua trải nghiệm c&aacute;p treo l&ecirc;n đỉnh n&uacute;i tuyết Titlis. Tận hưởng tuyết trắng của d&atilde;y n&uacute;i Alps, từ đỉnh cao ngắm nh&igrave;n to&agrave;n cảnh thi&ecirc;n nhi&ecirc;n y&ecirc;n b&igrave;nh của Thụy Sĩ. Sau đ&oacute; đo&agrave;n đi tham quan thị trấn nhỏ Lucerne với cảnh đẹp như tranh vẽ thuộc miền trung Thụy Sĩ. Đi bộ tham quan c&acirc;y cầu gỗ Chapel, hồ Lucerne v&agrave; Tượng sư tử đ&aacute; biểu tượng của tinh thần dũng cảm v&agrave; trung th&agrave;nh của người Thụy Sĩ. Dạo phố mua sắm đồ mỹ nghệ tinh xảo hoặc c&aacute;c thương hiệu đồng hồ Thụy Sĩ trứ danh.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Lucerne hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">ZURICH &ndash; RHINE FALLS &ndash; TITISEE &ndash; FRANKFURT (400km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đến với Zurich, th&agrave;nh phố lớn nhất v&agrave; l&agrave; trung t&acirc;m t&agrave;i ch&iacute;nh của Thụy Sĩ. Sau khi nghỉ ch&acirc;n b&ecirc;n hồ Zurich, đo&agrave;n đến th&aacute;c Rhine Falls, th&aacute;c nước lớn nhất ch&acirc;u &Acirc;u. Điểm đến hấp dẫn tiếp theo l&agrave; Khu Rừng Đen &ndash; Black Forest của Đức, qu&ecirc;n hương của những chiếc đồng hồ C&uacute;c Cu nổi tiếng. Tại đ&acirc;y, du kh&aacute;ch sẽ được giới thiệu quy tr&igrave;nh sản xuất đồng hồ, nghỉ ngơi b&ecirc;n hờ Black Forest v&agrave; thưởng thức m&oacute;n tr&aacute;ng miệng Black Forest. Khởi h&agrave;nh đi Frankfurt.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfut hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+	<p>
+		*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.</p>
+	<p>
+		<span style=\"color: #0000ff;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết (*):&nbsp; 183.4 Euro (Khoảng 4.600.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Con đường V&agrave;ng Golden Lane, Praha, CH S&eacute;c* &nbsp; &nbsp; &nbsp; &euro;13</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ph&aacute;o đ&agrave;i Fisherman&rsquo;s Bastion, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;2.50</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Nh&agrave; thờ Matthias, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;7</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Danube, Budapest, Hungary* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn tối k&egrave;m biểu diễn nhạc truyền thống Hungary* &nbsp; &nbsp;&euro;50</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Cung điện m&ugrave;a h&egrave; Schonbrunn, Vienna, &Aacute;o* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;13.3</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&aacute;p treo n&uacute;i Titlis, Thuỵ Sĩ* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;80</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Liechtenstein, một trong những quốc gia nhỏ nhất thế giới * &euro;10</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn với sườn nướng đặc sản Vienna, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;20</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ho&agrave; nhac Vinnea, &Aacute;o &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Từ &euro;50</span></p>
+	<p>
+		<b>THUẾ V&Agrave;O TH&Agrave;NH PHỐ CH S&Eacute;C &amp; VIENNA (Bắt buộc).&nbsp;</b><b>Tổng cộng</b><b>: 10 Euro (Khoảng 250.000)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o CH S&eacute;c&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thuế v&agrave;o Vienna, &Aacute;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+',positon='3' where id=3;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN VÀNG',name_tab='Yellow Line',color='yellow',content='<div>
+	<h3>
+		<span style=\"color: #ffd700;\">TUYẾN V&Agrave;NG </span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><span style=\"color: #ffcc00;\"><strong>T&acirc;y Ban Nha &ndash; Bồ Đ&agrave;o Nha</strong></span><br />
+		<strong>Thời Gian: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa: Thứ 2 Hằng tuần./ Tiếng Việt: 18/4; 16/5; 13/6; 11/7; 15/8; 12/9<br />
+		<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu/VND. Bao gồm: đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, kh&aacute;ch sạn 3* v&agrave; ăn s&aacute;ng.<br />
+		<strong>Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp; &nbsp; &nbsp; Tiếng Hoa (Hằng tuần), Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: từ 10 kh&aacute;ch)</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/yellow.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #ffcc00;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		H&agrave;nh tr&igrave;nh Tuyến V&agrave;ng sẽ đưa bạn đến những th&agrave;nh phố h&agrave;o hứng Madrid, Barcelona, Lisbon&hellip;. Trong suốt 07 ng&agrave;y h&agrave;nh tr&igrave;nh, du kh&aacute;ch sẽ c&oacute; những kh&aacute;m ph&aacute; th&uacute; vị về văn ho&aacute;, kiến tr&uacute;c, ẩm thực v&agrave; phong cảnh mang đậm chất Địa Trung Hải của 2 quốc gia n&agrave;y. Đối với những ai th&iacute;ch biển xanh th&igrave; đ&acirc;y l&agrave; h&agrave;nh tr&igrave;nh đ&aacute;ng để trải nghiệm. .</p>
+	<p>
+		<strong>Trước Tour:</strong> Kh&aacute;ch bay từ Việt Nam đến Paris. Nh&acirc;n vi&ecirc;n GoEuGo đ&oacute;n kh&aacute;ch tại s&acirc;n bay v&agrave; chở du kh&aacute;ch đến kh&aacute;ch sạn (Giờ check-in hotel tại ch&acirc;u &Acirc;u: sau 2pm). Kh&aacute;ch nghi ngơi sau chuyến bay d&agrave;i để chuẩn bị bắt đầu tour v&agrave;o s&aacute;ng h&ocirc;m sau từ kh&aacute;ch sạn.<br />
+		<i>Kh&aacute;ch sạn 3*: Frankfurt hay khu vực l&acirc;n cận</i>.<br />
+		(Đối với du kh&aacute;ch kh&ocirc;ng đặt dịch vụ đưa đ&oacute;n s&acirc;n bay v&agrave; hotel trước tour th&igrave; sẽ tự t&uacute;c đến điểm tập trung của tour tại(Quảng trường Trung t&acirc;m, Barcelona)</p>
+	<p>
+		<span><i><span style=\"color: #0000ff;\">Ng&agrave;y 1: Thứ Hai</span>:&nbsp;</i></span><span style=\"color: #0000ff;\">BARCELONA &ndash; VALECIA &nbsp;- ALICANTE (525km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng đo&agrave;n rời khỏi Barcelona để đến Valencia, th&agrave;nh phố lớn thứ 3 của T&acirc;y Ban Nha. Tham quan Quảng trường cổ, C&aacute;nh cửa cổ dẫn v&agrave;o th&agrave;nh phố v&agrave; Nh&agrave; thờ Valencia. Tiến đến b&atilde;i biển c&aacute;t trắng nghỉ ngơi.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Alicante hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">ALICANTE &nbsp;- GRANADA &ndash; MALAGA (485km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đi Granada. Tham quan L&acirc;u đ&agrave;i đỏ Alhambra, b&atilde;i biển Costa del Sol đầy &aacute;nh nắng mặt trời trước khi đến th&agrave;nh phố lớn nhất v&ugrave;ng duy&ecirc;n hải l&agrave; Malaga. Đ&acirc;y cũng l&agrave; qu&ecirc; hương của họa sĩ lừng danh Picasso.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Malaga hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">MALAGA &ndash; SEVILLE (210km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng, đo&agrave;n h&agrave;nh tr&igrave;nh về phương bắc đến khu vực trung t&acirc;m Andalusia của Seville. Tham quan Lăng mộ ho&agrave;ng gia nơi ch&ocirc;n cất c&aacute;c vị Ho&agrave;ng đế trong hơn một thế kỷ;&nbsp;L&acirc;u đ&agrave;i Alcazar&nbsp;được Unesco c&ocirc;ng nhận l&agrave; Di sản văn h&oacute;a thế giới;&nbsp;Nh&agrave; thờ được x&acirc;y dựng v&agrave;o thế kỷ 16.</p>
+	<p style=\"text-align: justify;\">
+		<i>Kh&aacute;ch sạn 3*: Seville hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">SEVILLE &ndash; LISBON (460km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đi Lisbon thủ đ&ocirc; Bồ Đ&agrave;o Nha, dự kiến sẽ đến Cabo da Roca. Tại đ&acirc;y Qu&yacute; kh&aacute;ch c&oacute; cơ hội thưởng thức phong cảnh đẹp của th&agrave;nh phố cực T&acirc;y của đại lục ch&acirc;u &Acirc;u. Tham quan đ&agrave;i tưởng niệm, tu viện Jeronimos, sau đ&oacute; đến quảng trường Marques de Pombal qu&yacute; kh&aacute;ch tự do mua sắm.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Lisbon hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">LISBON &ndash; TOLEDO &ndash; MADRID (675km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\"><img alt=\"\" class=\"wp-image-3530\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/toledo.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Xe khởi h&agrave;nh hướng về Madrid, thủ đ&ocirc; của T&acirc;y Ban Nha. Tr&ecirc;n đường đi, đo&agrave;n gh&eacute; tham quan th&agrave;nh phố cổ Toledo, l&acirc;u đ&agrave;i, kiến tr&uacute;c vĩ đại của nh&agrave; thờ lớn tại đ&acirc;y. Sau đ&oacute; đến Madrid.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Madrid hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">MADRID &ndash; ZARAGOZA (320km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tham quan Madrid, thủ đ&ocirc; T&acirc;y Ban Nha: Đ&agrave;i phun nước Tbilisi, Đ&agrave;i tưởng niệm Christopher Columbus, Trường Đại Học v&agrave; Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha. Đến Puerta, đo&agrave;n dừng ch&acirc;n mua sắm mặc h&agrave;ng da, quần &aacute;o v&agrave; đồ lưu niệm. Đầu giờ chiều, đo&agrave;n chia tay Madrid để h&agrave;nh tr&igrave;nh hướng về Zaragoza.<br />
+		<i>Kh&aacute;ch sạn 3*: Zaragoza hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">ZARAGOZA &ndash; BARCELONA (300km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Buổi s&aacute;ng bắt đầu h&agrave;nh tr&igrave;nh đến Barcelona, tham quan Đ&agrave;i tưởng niệm Columbus, Nh&agrave; thờ Holy Family, s&acirc;n vận động Nou Camp, nơi tổ chức Thế vận hội Barcelona 1992. Thời gian c&ograve;n lại d&agrave;nh cho shopping tại Plaza Catalonia.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<strong>Sau Tour:</strong><br />
+		H&agrave;nh tr&igrave;nh kết th&uacute;c. Xe đưa kh&aacute;ch về kh&aacute;ch sạn nghỉ ngơi. Ng&agrave;y h&ocirc;m sau, nh&acirc;n vi&ecirc;n GoEuGo sẽ đ&oacute;n du kh&aacute;ch ra s&acirc;n bay để trở về Việt Nam.<br />
+		<i>Kh&aacute;ch sạn 3*: Barcelona hay khu vực l&acirc;n cận</i><br />
+		(Đối với những du kh&aacute;ch kh&ocirc;ng đặt dịch vụ kh&aacute;ch sạn sau khi kết th&uacute;c tour v&agrave; xe tiễn ra s&acirc;n bay th&igrave; sẽ trả kh&aacute;ch tại địa điểm thuận tiện cho kh&aacute;ch.)</p>
+	<p>
+		*** Ăn s&aacute;ng: theo ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, tr&agrave;, c&agrave; ph&ecirc;, sữa.</p>
+	<p>
+		<b>&nbsp;<span style=\"color: #ffcc00;\">V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute;&nbsp; c&oacute; thể thay đổi) </span></b></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 186.9 Euro (Khoảng 4.700.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Cung điện Ho&agrave;ng gia T&acirc;y Ban Nha, Madrid &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;8 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Nh&agrave; thờ Sagrada Familia, Barcelona (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;14.8 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Alhambra, Granada (Book online) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;14 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Gibraltar, Malaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;2.1&nbsp;</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;u đ&agrave;i Alcazar, Segovia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">S&acirc;n vận động Camp Nou, Barcelona &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;23 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;55 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn đến thị trấn Mijas, Malaga &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;15&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn bờ biển Alicante ban đ&ecirc;m &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;10&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn th&agrave;nh phố v&aacute;ch n&uacute;i Ronda &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&euro;20 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người) &nbsp; &nbsp; &nbsp;&euro; 20&nbsp; </span></p>
+	<hr />
+</div>
+<p>
+	&nbsp;</p>
+',positon='4' where id=4;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN TÍM',name_tab='Purple Line',color='purple',content='<div>
+	<p>
+		<span style=\"color: #800080;\"><strong>TUYẾN T&Iacute;M</strong> &nbsp;</span><a href=\"http://www.goeugo.vn/daily\" style=\"font-size: 1.17em;\" target=\"_blank\" title=\"How to Book\">Book Now!</a></p>
+	<h3>
+		<span style=\"color: #800080;\">Tuyến T&iacute;m </span><a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">Book Now!</a></h3>
+	<hr />
+	<p>
+		<strong>H&agrave;nh Tr&igrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"color: #800080;\"><strong>Anh &ndash; Scotland&nbsp;</strong></span><br />
+		<strong>Thời Gian:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;07 ng&agrave;y 06 đ&ecirc;m<br />
+		<strong>Khởi H&agrave;nh:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hằng tuần<br />
+		<strong>Gi&aacute;:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &euro;631 (Khoảng 16 Triệu VND). Bao gồm: Đưa đ&oacute;n s&acirc;n bay, xe tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p kh&aacute;ch sạn 3* k&egrave;m ăn s&aacute;ng.<br />
+		<strong>Hướng Dẫn Vi&ecirc;n:</strong>&nbsp; &nbsp;Tiếng Hoa.</p>
+	<p style=\"text-align: center;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile \" style=\"width: 800px;\">
+		<img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/10/pu.jpg\" /></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #800080;\"><strong>Mi&ecirc;u Tả:</strong></span></p>
+	<p style=\"text-align: justify;\">
+		Tuyến T&iacute;m l&agrave; sự kết hợp giữa sự cổ điển, hiện đại của Vương Quốc Anh với khung cảnh thi&ecirc;n nhi&ecirc;n thanh b&igrave;nh của Scotland.<br />
+		H&agrave;nh tr&igrave;nh Tuyến T&iacute;m sẽ đưa du kh&aacute;ch băng qua eo biển để đến với thủ đ&ocirc; London hiện đại của nước Anh. Du kh&aacute;ch sẽ c&oacute; cơ hội tham quan những cung điện Ho&agrave;ng gia Anh v&agrave; c&aacute;c c&ocirc;ng tr&igrave;nh kiến tr&uacute;c nổi tiếng thế giới của nước Anh như cung điện Buckingham, Tu viện Westminster, Đại học Cambridge v&agrave; s&acirc;n vận động Manchester&hellip;<br />
+		Đảo quốc Anh &amp; Scotland chắc chắn sẽ d&agrave;nh cho du kh&aacute;ch 07 ng&agrave;y h&agrave;nh tr&igrave;nh đ&aacute;ng nhớ.</p>
+	<p>
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 1: Thứ Bảy:&nbsp;</i></span><span style=\"color: #0000ff;\">PARIS &ndash; LONDON (470km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		H&agrave;nh tr&igrave;nh đến Bến cảng Ph&aacute;p, xe đưa đo&agrave;n băng qua eo biển Anh để đến Cảng Dover của Anh. Thưởng ngoạn phong cảnh tr&ecirc;n đường về thủ đ&ocirc; London. Nếu c&oacute; nhiều thời gian sẽ dạo 1 v&ograve;ng tr&ecirc;n khu phố China Town.<br />
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 2: Chủ Nhật:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Kh&aacute;m ph&aacute; London với c&aacute;c địa điểm hấp dẫn nhất: Th&aacute;p Đồng hồ Big Ben, t&ograve;a nh&agrave; Quốc Hội, tu viện Westminster, sau đ&oacute; từ đường Whitehall, hướng dẫn vi&ecirc;n dẫn đo&agrave;n tản bộ đến khu văn ph&ograve;ng thủ tướng số 10 phố Downing tham quan v&agrave; chụp ảnh b&ecirc;n ngo&agrave;i. Tiếp theo đ&oacute;, thăm c&ocirc;ng vi&ecirc;n Saint James Park, cung điện Buckingham, s&ocirc;ng Thames. Buổi trưa đo&agrave;n gh&eacute; tham quan b&ecirc;n ngo&agrave;i nh&agrave; thờ St Paul&rsquo;s v&agrave; Th&aacute;p London..</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 3: Thứ Hai:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON &ndash; CAMBRIDGE &ndash; YORK (350km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tham quan Trường Đại học Cambridge cổ k&iacute;nh v&agrave; danh tiếng h&agrave;ng đầu kh&ocirc;ng chỉ của nước Anh m&agrave; c&ograve;n của cả thế giới. Sau đ&oacute; đo&agrave;n di chuyển đến York, th&agrave;nh phố đặc trưng với sự pha trộn giữa kiến tr&uacute;c La M&atilde;, Anglo-Saxon v&agrave; Viking. Tham quan York Minster, ph&aacute;o đ&agrave;i vững chắc của Đế chế La M&atilde; một thời h&ugrave;ng mạnh, mua sắm qu&agrave; lưu niệm đặc trưng.<br />
+		<i>Kh&aacute;ch sạn 3*: York hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 4: Thứ Ba:&nbsp;</i></span><span style=\"color: #0000ff;\">YORK &nbsp;- EDINBURGH &ndash; GLASGOW (400km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Edinburgh l&agrave; điểm đến tiếp theo trong cuộc h&agrave;nh tr&igrave;nh. Tham quan l&acirc;u đ&agrave;i Edinburgh nơi trung b&agrave;y Vương miện ho&agrave;ng gia v&agrave; c&aacute;c m&oacute;n đồ trang sức đắt gi&aacute;, tham quan b&ecirc;n ngo&agrave;i Cung điện Holyrood, ngắm từ b&ecirc;n ngo&agrave;i T&ograve;a thị ch&iacute;nh v&agrave; C&ocirc;ng vi&ecirc;n Holyrook park. Sau đ&oacute; khởi h&agrave;nh đến Glasgow.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Glasgow hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 5: Thứ Tư:&nbsp;</i></span><span style=\"color: #0000ff;\">GLASGOW &ndash; GRETNA GREEN &ndash; LAKE DISTRICT &ndash; MANCHESTER (360km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\"><img alt=\"\" class=\"wp-image-3537\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Windermere-Uk.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Tr&ecirc;n đường đến Lake District, gh&eacute; thăm thị trấn Gretna Green xinh đẹp, c&ocirc;ng vi&ecirc;n quốc gia Lake District, du thuyền tr&ecirc;n Hồ Windermere, bảo t&agrave;ng Red Scarf. Đo&agrave;n khởi h&agrave;nh đến Manchester, th&agrave;nh phố được biết đến với CLB b&oacute;ng đ&aacute; nổi tiếng thế giới, gh&eacute; s&acirc;n vận động Manchester.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Manchester hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 6: Thứ Năm:&nbsp;</i></span><span style=\"color: #0000ff;\">MANCHESTER &ndash; STRATFORD &ndash; Upon -Avon &ndash; BICESTER &ndash; LONDON (380km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\"><img alt=\"\" class=\"wp-image-3538\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Bicester_Village_Outlet_Shopping_Bicester_picture_1_p6_529x400.png\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Khởi h&agrave;nh đến Stratford-upon-Avon, qu&ecirc; hương của Shakespeare. Tham quan trường học v&agrave; nh&agrave; thờ tại đ&acirc;y. Sau đ&oacute; khởi h&agrave;nh đến London, gh&eacute; thi&ecirc;n đường h&agrave;ng hiệu Bicester Village với c&aacute;c thương hiệu như: Gucci, Armani, Prada, Calvin Klein, Dunhill, DKNY, Burberry, Paul Smith, Bally, Le Creuset, Clarks&hellip;</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: London hay khu vực l&acirc;n cận</i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #0000ff;\"><i>Ng&agrave;y 7: Thứ S&aacute;u:&nbsp;</i></span><span style=\"color: #0000ff;\">LONDON &ndash; PARIS (450km)</span></p>
+	<p style=\"text-align: justify;\">
+		&nbsp;</p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\"><img alt=\"\" class=\"wp-image-3539\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Harrods_UK.jpg\" /></a></figure>
+	<p>
+		&nbsp;</p>
+	<p>
+		Đo&agrave;n bắt đầu h&agrave;nh tr&igrave;nh trở về eo biển Anh để quay về Paris, Ph&aacute;p.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận<br />
+		<em>*** Ăn s&aacute;ng: ti&ecirc;u chuẩn 3* ch&acirc;u &Acirc;u: B&aacute;nh mỳ, ph&ocirc; mai, sữa, tr&agrave; c&agrave; ph&ecirc;.&nbsp;</em></i></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style=\"color: #993366;\"><b>TUYẾN T&Iacute;M&nbsp; &ndash; V&Eacute; V&Agrave;O CỬA V&Agrave; C&Aacute;C HOẠT ĐỘNG THAM QUAN (Gi&aacute; c&oacute; thể thay đổi)</b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave; hoạt động tham quan cần thiết trong h&agrave;nh tr&igrave;nh (*):&nbsp; 88.4 Bảng Anh (Khoảng 2.800.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Đi thuyền k&ecirc;nh Cambridge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 14 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">L&acirc;uđ&agrave;i Edinburgh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 16 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền hồ Windermere &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.5 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Shakespeare Birthplace &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15.9 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Thamquan University of Oxford &nbsp; &nbsp;10 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Du thuyền s&ocirc;ng Thames &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15 GBP</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Ph&iacute; v&agrave; thuế đi qua đường hầm dưới biển (Bắt buộc) &nbsp; &nbsp; &nbsp; &nbsp;10 GBP</span></p>
+	<p>
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+',positon='5' where id=5;
+update hanhtrinh_color set hanhtrinh_id='1',name='TUYẾN CAM',name_tab='Orange Line',color='#ffa500',content='<div>
+	<h3>
+		<a href=\"http://www.goeugo.vn/daily\" target=\"_blank\" title=\"How to Book\">BOOK NOW!</a></h3>
+	<p>
+		TUYẾN CAM&nbsp; <a href=\"http://www.goeugo.vn/daily\">Book Now!</a></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<b>H&agrave;nh Tr&igrave;nh:&nbsp; &nbsp; &nbsp; &nbsp; </b><b>PH&Aacute;P &ndash; ANDORRA &ndash; BỒ Đ&Agrave;O NHA</b></p>
+	<p>
+		<b>Thời gian:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>07 ng&agrave;y<br />
+		<b>Khởi h&agrave;nh:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b> Tiếng Hoa: Thứ 05 Hằng tuần tại Paris./ Tiếng Việt: 28/4; 26/5; 23/6; 21/7; 17/8; 22/9</p>
+	<p>
+		<b>Gi&aacute;: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>&euro;631 (Khoảng: 16 Triệu VND). Gồm: Xem tham quan, hướng dẫn vi&ecirc;n, ph&ograve;ng gh&eacute;p hotel 3* k&egrave;m ăn s&aacute;ng.</p>
+	<p>
+		<b>Hướng dẫn vi&ecirc;n:&nbsp;&nbsp;&nbsp;&nbsp; </b> Tiếng Hoa (Hằng tuần); Tiếng Việt (Hằng th&aacute;ng. Điều kiện khởi h&agrave;nh: Từ 10 kh&aacute;ch)</p>
+	<figure class=\"full-width-mobile \" style=\"width: 100%;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\"><img alt=\"\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Orange-Map.jpg\" /></a></figure>
+	<p>
+		(MAP: ATTACHED FILE)<br />
+		LƯU &Yacute;: Từ 05/06 &ndash; 15/07/2016: Diễn ra Euro Cup tại Paris. Sẽ c&oacute; phụ thu hotel tại Paris trong suốt thời gian n&agrave;y.<br />
+		<span style=\"color: #ff6600;\"><b>H&agrave;nh Tr&igrave;nh </b></span></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 1: Thứ 05:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>PARIS&rarr; AVIGNON (690km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		Đo&agrave;n rời Paris v&agrave;o buổi s&aacute;ng v&agrave; đến thủ phủ v&ugrave;ng Provence, th&agrave;nh phố Avignon v&agrave;o chiều muộn. Ngay khi đến <b>Avignon</b>, du kh&aacute;ch c&oacute; thể cảm nhận sự kh&aacute;c biệt của v&ugrave;ng <b>Provence</b> m&agrave; kh&ocirc;ng nơi n&agrave;o kh&aacute;c c&oacute; được. Provence rất thu h&uacute;t với kh&ocirc;ng kh&iacute; m&aacute;t mẻ với gi&oacute; biển v&ugrave;ng Địa Trung Hải. Bầu kh&ocirc;ng kh&iacute; Avignon thoang thoảng m&ugrave;i hương quyến rũ của hoa Oải hương, h&uacute;ng T&acirc;y, hương gỗ th&ocirc;ng v&agrave; hương thơm của c&aacute;c loại nước hoa tại xứ sở sản xuất hương liệu trứ danh của Ph&aacute;p.&nbsp;Du kh&aacute;ch ăn tối, nghỉ ngơi, tận hưởng bầu kh&ocirc;ng kh&iacute; tươi m&aacute;t v&ugrave;ng Provence, chuẩn bị h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; th&agrave;nh phố Avignon v&agrave;o s&aacute;ng h&ocirc;m sau.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Avignon hay khu vực l&acirc;n cận.</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><i>&nbsp;</i><b>Ng&agrave;y 2: Thứ 06:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>AVIGNON&rarr;GORDES&rarr; ABBEY SENAQUE&nbsp;&rarr;AVIGNON (200km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\"><img alt=\"\" class=\"wp-image-3521\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/4.jpg\" /></a></figure>
+	<p>
+		Du kh&aacute;ch bắt đầu ng&agrave;y mới với h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; Avignon. Avignon l&agrave; một th&agrave;nh phố cổ rất nghệ thuật, bao quanh bởi những bức tường cổ xưa. Điểm tham quan kh&ocirc;ng thể bỏ qua l&agrave; <b>Cung điện Papal</b> v&agrave; <b>cầu Saint &ndash; Benezet (C&ograve;n gọi l&agrave; Cầu d&rsquo;Avignon).</b> Cung điện được x&acirc;y dựng từ Thế kỷ 14, v&agrave; l&agrave; một trong những c&ocirc;ng tr&igrave;nh kiến tr&uacute;c theo phong c&aacute;ch Gothic quan trọng nhất Ch&acirc;u &Acirc;u. Đi theo hướng tường th&agrave;nh sẽ gặp <b>cầu Saint &ndash; Benezet</b>, di sản văn h&oacute;a thế giới. Buổi chiều, đến với <b>Th&agrave;nh Gordes</b> l&agrave; một trong những ng&ocirc;i l&agrave;ng đẹp nhất nước Ph&aacute;p, cũng l&agrave; nơi ở của nhiều ng&ocirc;i sao v&agrave; nghệ sĩ nổi tiếng. Ng&ocirc;i l&agrave;ng n&agrave;y c&ograve;n được gọi &ldquo;L&agrave;ng Treo&rdquo; bởi nằm nghi&ecirc;ng m&igrave;nh b&ecirc;n bờ Nam của cao nguy&ecirc;n Vaucluse. Sự h&igrave;nh th&agrave;nh đ&aacute; v&ocirc;i tr&ecirc;n nền đ&aacute; v&agrave; sỏi của khu vực n&agrave;y đ&atilde; tạo n&ecirc;n những m&agrave;u đ&aacute; m&agrave;u hồng nhạt, &oacute;ng &aacute;nh khi c&oacute; nắng chiếu v&agrave;o rất độc đ&aacute;o.</p>
+	<p>
+		Sau đ&oacute; tới tu viện <b>Abbaye de S&eacute;nanque</b>, một trong những địa điểm tốt nhất để thăm <b>vườn hoa Oải Hương</b>. Tu viện được th&agrave;nh lập v&agrave;o năm 1148, hằng năm tu viện b&igrave;nh y&ecirc;n n&agrave;y ch&agrave;o đ&oacute;n rất nhiều du kh&aacute;ch đến thưởng ngoạn Hoa oải hương v&agrave;o vụ nở rộ.</p>
+	<p>
+		(Lưu &yacute;: Thăm vườn hoa oải hương theo m&ugrave;a vụ. Hoa oải hương nở rộ từ giữa th&aacute;ng 06 đến đầu th&aacute;ng 08.)</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Avignon hoặc khu vực l&acirc;n cận</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 3: Thứ 07:&nbsp;</b></span><span style=\"color: #ff6600;\"><b>AVIGNON&rarr;ARLES&rarr;BARCELONA (500km)</b></span></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\"><img alt=\"\" class=\"wp-image-3522\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Arles-2.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng đặt ch&acirc;n đến th&agrave;nh phố <b>Arles,</b> gắn liền với t&ecirc;n tuổi của hoạ sĩ lừng danh Van Gogh. Ailes từ l&acirc;u đ&atilde; l&agrave; một th&agrave;nh phố lớn với nhiều di t&iacute;ch La M&atilde; cổ v&agrave; l&agrave; th&agrave;nh phố được Van Gogh lựa chọn nghỉ dưỡng. Mặc du chỉ sống 1 năm tại đ&acirc;y (1888 &ndash; 1889) nhưng đ&acirc;y l&agrave; khoảng thời gian đỉnh cao trong sự nghiệp s&aacute;ng tạo của m&igrave;nh, &ocirc;ng đ&atilde; vẽ n&ecirc;n khoảng hai trăm bức tranh sơn dầu, trong đ&oacute; c&oacute; thể kế đến c&aacute;c t&aacute;c phẩm trứ danh như: Bedrooms in Arles, Starry Night Over the Rhone, Still Life: Vase with Twelve Sunflowers&hellip;Sau đ&oacute;, đo&agrave;n dọc theo biển Địa Trung Hải, qua bi&ecirc;n giới T&acirc;y Ban Nha v&agrave; đến Barcelona v&agrave;o buổi tối.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i><em id=\"__mceDel\"><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</em></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 4: Chủ Nhật:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BARCELONA</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\"><img alt=\"\" class=\"wp-image-3523\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/prestamistas-en-barcelona.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh tham quan quốc gia nồng nhiệt Barcelona bao gồm <b>đ&agrave;i tưởng niệm Columbus </b>v&agrave; <b>Đại lộ Las Ramblas</b>, tham quan <b>nh&agrave; thờ Sagrada Familia</b> mang t&iacute;nh đặc trưng của Barcelona. Sau đ&oacute; gh&eacute; thăm <b>Nou Camp</b>, nơi tổ chức Thế Vận Hội Barcelona năm 1992. Từ s&acirc;n vận động c&oacute; thể tận hưởng vẻ đẹp to&agrave;n cảnh của th&agrave;nh phố. Thời gian c&ograve;n lại đến <b>Quảng trường Catalunya</b> n&aacute;o nhiệt, tự do tham quan, mua sắm. Dừng ch&acirc;n nghỉ quanh c&aacute;c đ&agrave;i phun nước, du kh&aacute;ch sẽ c&oacute; cơ hội kh&aacute;m ph&aacute; văn ho&aacute; địa phương rất th&uacute; vị của th&agrave;nh phố xinh đẹp v&agrave;o ban ng&agrave;y v&agrave; lộng lẫy v&agrave;o ban đ&ecirc;m n&agrave;y.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Barcelona hoặc khu vực l&acirc;n cận.</i></p>
+	<p>
+		(Lưu &yacute;: Do c&oacute; sự kiểm so&aacute;t số lượng người v&agrave;o nh&agrave; thờ Sagrada Familia, những h&agrave;nh kh&aacute;ch muốn thăm nh&agrave; thờ, cần đặt v&eacute; tr&ecirc;n mạng v&agrave; ước t&iacute;nh thời gian thăm quan v&agrave;o khoảng từ 10-10:30am. Website đặt v&eacute;: <a href=\"http://www.sagradafamilia.org/en/tickets/\">http://www.sagradafamilia.org/en/tickets/</a>) (HDV sẽ hỗ trợ du kh&aacute;ch)</p>
+	<p>
+		<span style=\"color: #ff6600;\"><em id=\"__mceDel\"><b>Ng&agrave;y 5: Thứ 2</b></em></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BARCELONA &rarr; ANDORRA&rarr; LOURDES (480km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		<a href=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\"><img alt=\"\" class=\"wp-image-3524\" src=\"http://www.goeugo.vn/wp-content/uploads/2015/01/Andorra.jpg\" /></a></figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đến <b>C&ocirc;ng Quốc Andorra</b>. C&ocirc;ng quốc n&agrave;y nằm giữa Ph&aacute;p v&agrave; T&acirc;y Ban Nha, b&ecirc;n d&atilde;y n&uacute;i Pyrenees, tổng diện t&iacute;ch 468 km2, bao bọc bởi c&aacute;c d&atilde;y n&uacute;i cao, địa h&igrave;nh hiểm trở, độ cao trung b&igrave;nh so với mực nước biển l&agrave; 1996 m&eacute;t, thủ đ&ocirc; Andorra được mệnh danh l&agrave; thủ đ&ocirc; c&oacute; độ cao so với mực nước biển cao nhất Ch&acirc;u &Acirc;u. Một quốc gia nơi c&oacute; phong cảnh tuyệt đẹp như tranh vẽ v&agrave; cũng l&agrave; nơi trượt tuyết được y&ecirc;u th&iacute;ch của người d&acirc;n Ch&acirc;u &Acirc;u.&nbsp; Tại Quảng trường Nh&acirc;n D&acirc;n, du kh&aacute;ch c&oacute; thể chi&ecirc;m ngưỡng vẻ đẹp tr&aacute;ng lệ của đồi n&uacute;i, thung lũng xung quanh. Andorra l&agrave; nơi mua sắm miễn thuế, rất th&iacute;ch hợp cho những du kh&aacute;ch th&iacute;ch shopping.</p>
+	<p>
+		Sau buổi chiều dọc theo d&atilde;y n&uacute;i Pyrenees đến Ph&aacute;p, h&agrave;nh tr&igrave;nh hướng đến thị trấn <b>Th&aacute;nh Địa Lourdes</b> nổi tiếng, nơi h&agrave;nh hương lớn của c&aacute;c t&iacute;n đồ C&ocirc;ng gi&aacute;o.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Lourdes hoặc khu vực l&acirc;n cận</i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 6: Thứ 3:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>LOURDES &rarr; BORDEAUX (250km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh đến thị trấn Lourdes nổi tiếng, truyền rằng c&aacute;ch đ&acirc;y 150 năm trước Đức Mẹ Maria từng hiển linh tại đ&acirc;y. Mỗi năm Lourdes thu h&uacute;t hơn 5 triệu người h&agrave;nh hương. Hơn nữa, thị trấn miền n&uacute;i n&agrave;y c&ograve;n sở hữu cảnh đẹp thi&ecirc;n nhi&ecirc;n tuyệt mĩ.</p>
+	<p>
+		Sau khi rời Lourdes, đo&agrave;n khởi h&agrave;nh đến trung t&acirc;m rượu vang của thế giới &ndash; Bordeaux, tham quan Di sản văn h&oacute;a thế giới &ndash; <b>Nh&agrave; thờ Saint Andr&eacute; v&agrave; quảng trường &ndash; The Quinconces</b> &ndash; Quảng trường lớn thứ 2 của Ch&acirc;u &Acirc;u. Đến qu&ecirc; hương của rượu vang tham quan nơi sản xuất rượu l&agrave; một trải nghiệm kh&ocirc;ng n&ecirc;n bỏ lỡ, h&agrave;nh tr&igrave;nh sẽ gh&eacute; thăm c&aacute;c nh&agrave; l&agrave;m rượu nổi tiếng. Du kh&aacute;ch c&oacute; thể tận mắt trải nghiệm qu&aacute; tr&igrave;nh ủ rượu, những du kh&aacute;ch s&agrave;nh rượu c&oacute; thể thử v&agrave; mua rượu tại đ&acirc;y.</p>
+	<p>
+		<i>Kh&aacute;ch sạn: Bordeaux hoặc khu vực l&acirc;n cận.</i></p>
+	<p>
+		<i>(Lưu &yacute;: Hầu hết c&aacute;c nh&agrave; m&aacute;y rượu vang ở Bordeaux sẽ tạm đ&oacute;ng cửa v&agrave;o th&aacute;ng 8 hoặc trong c&aacute;c m&ugrave;a lễ, h&agrave;nh tr&igrave;nh sẽ hủy thăm nh&agrave; l&agrave;m rượu. Thay v&agrave;o đ&oacute;, du kh&aacute;ch c&oacute; thể thưởng thức thử rượu vang v&agrave; mua sắm c&aacute;c loại rượu tại c&aacute;c shop rượu ở Bordeaux.) </i></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>Ng&agrave;y 7: Thứ 4:&nbsp;</b></span><em id=\"__mceDel\"><span style=\"color: #ff6600;\"><b>BORDEAUX &rarr; CHAMBORD &rarr; PARIS (590km)</b></span></em></p>
+	<figure class=\"full-width-mobile alignleft \" style=\"width: 150px;\">
+		&nbsp;</figure>
+	<p>
+		Buổi s&aacute;ng khởi h&agrave;nh theo hướng Bắc đến <b>thung lũng S&ocirc;ng Loire</b> nổi tiếng thế giới. S&ocirc;ng Loire l&agrave; con s&ocirc;ng d&agrave;i nhất nước Ph&aacute;p. Dọc b&ecirc;n bờ s&ocirc;ng Loire c&oacute; tới h&agrave;ng chục l&acirc;u đ&agrave;i nguy nga, tr&aacute;ng lệ được x&acirc;y dựng từ thế kỷ 16 dưới thời vua Fran&ccedil;ois Đệ Nhất. &Ocirc;ng đ&atilde; cho mời đến đ&acirc;y những nghệ sĩ t&agrave;i hoa từ &Yacute; như Leonardo da Vinci để kiến thiết c&aacute;c to&agrave; l&acirc;u đ&agrave;i n&agrave;y, tạo nền tảng cho nền nghệ thuật Phục Hưng Ph&aacute;p. Nơi đ&acirc;y từng l&agrave; chốn nghỉ dưỡng c&oacute; giới qu&yacute; tộc gi&agrave;u c&oacute;.&nbsp; Trong số đ&oacute;, <b>l&acirc;u đ&agrave;i Chambord</b> được người d&acirc;n Ph&aacute;p xem l&agrave; Quốc Bảo. V&agrave;o năm 1981, Chambord được liệt v&agrave;o danh s&aacute;ch di sản văn h&oacute;a thế giới.<b><i> </i></b></p>
+	<p>
+		Sau đ&oacute;, h&agrave;nh tr&igrave;nh hướng về Paris v&agrave; đến kinh đ&ocirc; hoa lệ v&agrave;o khoảng buổi tối.</p>
+	<p>
+		<i>Kh&aacute;ch sạn 3*: Paris hay khu vực l&acirc;n cận</i></p>
+	<p>
+		<i>*** Kết th&uacute;c h&agrave;nh tr&igrave;nh.</i><em id=\"__mceDel\"><i>&nbsp;</i></em></p>
+	<p>
+		<span style=\"color: #ff6600;\"><b>CHI PH&Iacute; C&Aacute;C HOẠT ĐỘNG &amp; ĐIỂM THAM QUAN (Gi&aacute; c&oacute; thể thay đổi) </b></span></p>
+	<p>
+		<b>Tổng chi ph&iacute; v&eacute; v&agrave;o cửa v&agrave; c&aacute;c hoạt động thao quan: 146.5 Euro (Khoảng 3.650.000 đ)</b></p>
+	<p>
+		<span style=\"text-decoration: underline;\">C&acirc;y cầu Pont du Gard&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;15</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Tu viện Monestir de Montserat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;20</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Chateau de Chambord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&euro;11.5</span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Sagrada Fam&iacute;lia Church&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;14.8</span></p>
+	<p>
+		(Orange line during 10 to 10.30 AM. HDV hỗ trợ book online.<a href=\"http://visit.sagradafamilia.cat\">http://visit.sagradafamilia.cat</a>.)</p>
+	<p>
+		<span style=\"text-decoration: underline;\">Show nhạc kịch Flamenco (Bao gồm đồ uống)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;55 </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">&nbsp;Du ngoạn th&agrave;nh phố Barcelona về đ&ecirc;m (Từ 25 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro; 20&nbsp; </span></p>
+	<p>
+		<span style=\"text-decoration: underline;\">Bữa ăn chung c&ugrave;ng đo&agrave;n (Từ 10 người)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &euro;10 &ndash; 15&nbsp;</span></p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+</div>
+<p>
+	&nbsp;</p>
+',positon='6' where id=6;

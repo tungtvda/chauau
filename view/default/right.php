@@ -18,5 +18,8 @@ function view_right($data=array())
     {
         $asign['video_right'] = print_item('danhmuc_video', $data['video_right']);
     }
+    $asign['list_Durations']=returnSearchDurations();
+    $asign['list_Quocgia']=returnDanhMucTour();
+    $asign['list_romtype']=returnDanhMucRoomType();
     print_template($asign,'right');
 }

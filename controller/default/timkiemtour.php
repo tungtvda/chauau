@@ -69,6 +69,9 @@ if(isset($_GET['gia_timkiem'])&&$_GET['gia_timkiem']!=""){
     }
     $demkt++;
 }
+if($dk==""){
+    redict(SITE_NAME);
+}
 $data_all=tour_getByTop('',$dk,'id desc');
 if(isset($timkiem_check)){
     $arr_push=array();

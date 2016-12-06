@@ -14,3 +14,4 @@ update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctou
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Tìm kiếm tour',title='Tìm kiếm tour',keyword='Tìm kiếm tour',description='Tìm kiếm tour' where id=7;
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Tìm kiếm khách sạn',title='Tìm kiếm khách sạn',keyword='Tìm kiếm khách sạn',description='Tìm kiếm khách sạn' where id=8;
 update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Tìm kiếm tin tức',title='Tìm kiếm tin tức',keyword='Tìm kiếm tin tức',description='Tìm kiếm tin tức' where id=9;
+update menu set img='/chauau/view/admin/Themes/kcfinder/upload/images/danhmuctour/848166.jpg',name='Hành trình',title='Hành trình',keyword='Hành trình',description='Hành trình' where id=10;

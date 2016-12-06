@@ -14,6 +14,7 @@ function view_menu($data = array())
     $asign['dichvu']=$data['menu'][3]->name;
     $asign['lienhe']=$data['menu'][4]->name;
     $asign['thangcanh']=$data['menu'][5]->name;
+    $asign['hanhtrinh']=$data['menu'][9]->name;
 
     // active menu
     $asign['trangchu_mn'] = ($data['active'] == 'trangchu') ? 'active' : '';
@@ -21,6 +22,7 @@ function view_menu($data = array())
     $asign['dichvu_mn'] = ($data['active'] == 'dichvu') ? 'active' : '';
     $asign['lienhe_mn'] = ($data['active'] == 'lienhe') ? 'active' : '';
     $asign['thangcanh_mn'] = ($data['active'] == 'thangcanh') ? 'active' : '';
+    $asign['hanhtrinh_mn'] = ($data['active'] == 'hanhtrinh') ? 'active' : '';
 
     $asign['danhmuc_tour_menu'] ="";
     if(count($data['danhmuc_tour_menu'])>0)

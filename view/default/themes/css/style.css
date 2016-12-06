@@ -178,6 +178,10 @@ a, h1, h2, h3, h4, h5, h6{
     margin-bottom: 10px;
     width: 100%;
 }
+.tab_hanhtrinh_active {
+    background: white !important;
+    color: #655c89 !important;
+}
 @media (max-width: 768px) {
     .short_content{
         height: auto;

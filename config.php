@@ -17,20 +17,22 @@ session_start();
 require_once DIR.'/common/minifi.output.php';
 ob_start("minify_output");
 
-//require_once 'language/en.php';
-//define("SITE_NAME", "http://mixtourist.com");
+//define("SITE_NAME", "http://demo.mixtourist.com");
 //define("DIR", dirname(__FILE__));
 //define('SERVER','localhost');
-//define('DB_USERNAME','dulichado_mixcom');
-//define('DB_PASSWORD','tAZDG1dcl');
-//define('DB_NAME','dulichado_mixcom');
+//define('DB_USERNAME','dulichado_chauau');
+//define('DB_PASSWORD','pFgQgV1F2i');
+//define('DB_NAME','dulichado_chauau');
 //define('CACHE',false);
 //define('DATETIME_FORMAT',"y-m-d H:i:s");
 //define('PRIVATE_KEY','hoidinhnvbk');
-//define('link_chitiet_danhmuc_tour','/tour/');
 //session_start();
 //require_once DIR.'/common/minifi.output.php';
 //ob_start("minify_output");
+
+require_once DIR.'/model/contactService.php';
+require_once DIR.'/model/dangky_emailService.php';
+require_once DIR.'/model/booking_tourService.php';
 
 function returnSearchDurations(){
     $data['data']=tour_getByTop('','','durations asc');
@@ -121,4 +123,12 @@ function contact()
         }
 
     }
+}
+function returnCountData(){
+    $count_contact=contact_count('status=0');
+    $_SESSION['contact']=$count_contact;
+    $count_dangky=dangky_email_count('status=0');
+    $_SESSION['dangky_email']=$count_dangky;
+    $count_booking=booking_tour_count('status=0');
+    $_SESSION['booking']=$count_booking;
 }

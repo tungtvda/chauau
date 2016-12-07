@@ -80,6 +80,7 @@ function  show_right($data1=array())
     $data=array();
     $data['tintuc_right']=news_getByTop('10','','id desc');
     $data['video_right']=video_getByTop('7','','id desc');
+    $data['hotro_right']=subport_getByTop('','','id desc');
     view_right($data);
 }
 function show_menu($data1=array(),$active='trangchu')

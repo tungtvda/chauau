@@ -18,6 +18,11 @@ function view_right($data=array())
     {
         $asign['video_right'] = print_item('danhmuc_video', $data['video_right']);
     }
+    $asign['hotro_right'] ='';
+    if(count($data['hotro_right'])>0)
+    {
+        $asign['hotro_right'] = print_item('hotro_right', $data['hotro_right']);
+    }
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();

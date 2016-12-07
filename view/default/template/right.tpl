@@ -48,6 +48,12 @@
             </div>
         </div>
         <div class="widget widget_meta package-details-content">
+            <h3 class="title">Hỗ trợ trực tuyến</h3>
+            <ul class="tintuc_left">
+               {hotro_right}
+            </ul>
+        </div>
+        <div class="widget widget_meta package-details-content">
             <h3 class="title">Tin tức</h3>
             <ul class="tintuc_left">
                 {tintuc_right}

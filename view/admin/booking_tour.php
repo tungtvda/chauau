@@ -4,6 +4,9 @@ require_once DIR.'/common/cls_fast_template.php';
 function view_booking_tour($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
+    $ft->assign('count_contact',$_SESSION['contact']);
+    $ft->assign('count_dangky',$_SESSION['dangky_email']);
+    $ft->assign('count_booking',$_SESSION['booking']);
     $ft->define('header','header.tpl');
     $ft->define('body','body.tpl');
     $ft->define('footer','footer.tpl');
@@ -20,6 +23,7 @@ function view_booking_tour($data)
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
     $ft->assign('SITE-NAME',isset($data['sitename'])?$data['sitename']:SITE_NAME);
+    $ft->assign('kichhoat_dathang', 'active');
     $ft->assign('FORM',showFrom(isset($data['form'])?$data['form']:'',isset($data['listfkey'])?$data['listfkey']:array()));
     //
     print $ft->parse_and_return('header');
@@ -37,7 +41,14 @@ function showTableBody($data)
     $TableBody='';
     if(count($data)>0) foreach($data as $obj)
     {
-        $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
+        if($obj->status==0){
+            $font='font-weight: bold; background-color: #e6e6e6';
+        }
+        else{
+            $font='';
+        }
+        $TableBody.="<tr style='".$font."'>
+        <td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->name_tour."</td>";
         $TableBody.="<td>".$obj->name_customer."</td>";
         $TableBody.="<td>".$obj->phone."</td>";

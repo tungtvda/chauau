@@ -86,6 +86,7 @@
                 <li class="{kichhoat}"><a href="{SITE-NAME}/admin"><span class="icon-align-justify"></span> Dashboard</a></li>
                 <li class="{kichhoat_admin}" ><a href="{SITE-NAME}/controller/admin/admin.php"><span class="icon-user"></span> Tài khoản quản trị</a></li>
                 <li class="{kichhoat_config}"><a href="{SITE-NAME}/controller/admin/config.php"><span class=" icon-wrench"></span> Cấu hình hệ thống</a></li>
+                <li class="{kichhoat_dangky}"><a href="{SITE-NAME}/controller/admin/dangky_email.php"><span class="icon-envelope"></span> Đăng ký email <span style="color: red; float: right">{count_dangky}</span></a></li>
                 <li class="{kichhoat_dathang}"><a href="{SITE-NAME}/controller/admin/booking_tour.php"><span class="icon-shopping-cart"></span> Đặt tour <span style="color: red; float: right">{count_booking}</span></a></li>
                 <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/contact.php"><span class="icon-envelope"></span> Liên hệ <span style="color: red; float: right">{count_contact}</span></a></li>
                 <li class="dropdown {kichhoat_tour}" ><a href="#"><span class=" icon-plane"></span> Tour du lịch</a>
@@ -93,7 +94,6 @@
                         <li><a href="{SITE-NAME}/controller/admin/danhmuc_tour.php">Danh mục quốc gia</a></li>
                         <li><a href="{SITE-NAME}/controller/admin/tour.php">Danh sách tour</a></li>
                         <li><a href="{SITE-NAME}/controller/admin/news.php">Danh sách tin tức</a></li>
-                        <li><a href="{SITE-NAME}/controller/admin/khachsan.php">Danh sách khách sạn</a></li>
                         <li><a href="{SITE-NAME}/controller/admin/tour_img.php">Danh sách hình ảnh</a></li>
                     </ul>
                 </li>
@@ -109,8 +109,13 @@
                         <li><a href="{SITE-NAME}/controller/admin/dichvu.php">Danh sách</a></li>
                     </ul>
                 </li>
-                <li class="{kichhoat_room}"><a href="{SITE-NAME}/controller/admin/danhmuc_room_type.php"><span class="icon-facetime-video"></span> Danh mục phòng khách sạn</a></li>
-                <li class="{kichhoat_gioithieu}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>
+                <li class="dropdown {kichhoat_khachsan}" ><a href="#"><span class=" icon-plane"></span> Khách sạn</a>
+                    <ul>
+                        <li><a href="{SITE-NAME}/controller/admin/khachsan.php">Danh sách khách sạn</a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/danhmuc_room_type.php">Phòng khách sạn</a></li>
+                    </ul>
+                </li>
+                <!--<li class="{kichhoat_gioithieu}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>-->
                 <li class="{kichhoat_hotro}"><a href="{SITE-NAME}/controller/admin/subport.php"><span class="icon-question-sign"></span> Hỗ trợ trực tuyến</a></li>
 
                 <li class="{kichhoat_video}"><a href="{SITE-NAME}/controller/admin/video.php"><span class="icon-facetime-video"></span> Video</a></li>

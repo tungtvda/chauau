@@ -185,6 +185,9 @@ a, h1, h2, h3, h4, h5, h6{
 .icon_contact i{
     color: #275bab;
 }
+.hotro_right a{
+    font-size: 13px !important;
+}
 @media (max-width: 768px) {
     .short_content{
         height: auto;

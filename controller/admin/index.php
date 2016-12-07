@@ -5,6 +5,7 @@ require_once DIR.'/common/messenger.php';
 require_once DIR.'/model/contactService.php';
 require_once DIR.'/model/booking_tourService.php';
 $data=array();
+returnCountData();
 if(isset($_SESSION["Admin"]))
 {
     $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';

@@ -46,7 +46,7 @@
                                     <ins>{start}</ins>
                                 </p>
                                 <p class="price" style="margin-bottom: 10px"><i class="icon-plane"></i> Phương tiện:
-                                    <ins><span class="parameter"> Car</span></ins>
+                                    <ins><span class="parameter"> {vehicle}</span></ins>
                                 </p>
                             </div>
                             <div itemprop="description"><p></p></div>

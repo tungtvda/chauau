@@ -68,7 +68,7 @@ function show_chitiettour($data = array())
     $asign['inclusion']=$data['detail'][0]->inclusion;
     $asign['exclusion']=$data['detail'][0]->exclusion;
     $asign['price_list']=$data['detail'][0]->price_list;
-
+    $asign['vehicle']=$data['detail'][0]->vehicle;
 
 
     $asign['danhsach_tintuc'] ='';

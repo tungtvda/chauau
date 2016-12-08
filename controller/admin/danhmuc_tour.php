@@ -63,8 +63,8 @@ if(isset($_SESSION["Admin"]))
        $array['id']='0';
        if(!isset($array['name']))
        $array['name']='0';
-        if(!isset($array['name_symbol']))
-            $array['name_symbol']='0';
+       if(!isset($array['name_symbol']))
+       $array['name_symbol']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
         $array['name_url']=LocDau($array['name']);

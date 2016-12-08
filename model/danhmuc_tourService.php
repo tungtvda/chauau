@@ -67,7 +67,7 @@ function danhmuc_tour_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_tour_insert($obj)
 {
-    return exe_query("insert into danhmuc_tour (name,name_symbol,name_url,img, icon,position,title,keyword,description) values ('$obj->name','$obj->name_url','$obj->img','$obj->icon','$obj->position','$obj->title','$obj->keyword','$obj->description')",'danhmuc_tour');
+    return exe_query("insert into danhmuc_tour (name,name_symbol,name_url,img, icon,position,title,keyword,description) values ('$obj->name','$obj->name_symbol','$obj->name_url','$obj->img','$obj->icon','$obj->position','$obj->title','$obj->keyword','$obj->description')",'danhmuc_tour');
 }
 //
 function danhmuc_tour_update($obj)

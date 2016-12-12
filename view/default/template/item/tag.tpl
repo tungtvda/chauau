@@ -1,0 +1,1 @@
+<li><a href="{link}"><i class="fa fa-tag"></i> {name}</a></li>

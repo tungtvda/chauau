@@ -49,14 +49,7 @@
                                         <label hidden>Giá tiền</label>
                                         <select name="gia_timkiem" class="select2">
                                             <option value="">Chọn giá tiền</option>
-                                            <option value="0-1000000">Dưới 01 Triệu</option>
-                                            <option value="1000000-5000000">01 - 05 Triệu</option>
-                                            <option value="5000000-10000000">05 - 10 Triệu</option>
-                                            <option value="10000000-15000000">10 - 15 Triệu</option>
-                                            <option value="15000000-20000000">15 - 20 Triệu</option>
-                                            <option value="20000000-30000000">20 - 30 Triệu</option>
-                                            <option value="30000000-40000000">30 - 40 Triệu</option>
-                                            <option value="40000000-50000000">40 - 50 Triệu</option>
+                                            {price_index}
                                         </select>
                                     </div>
                                     <button class="btn btn-primary thm-tk-search-btn"

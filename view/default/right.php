@@ -23,6 +23,14 @@ function view_right($data=array())
     {
         $asign['hotro_right'] = print_item('hotro_right', $data['hotro_right']);
     }
+    if(count($data['price_right'])>0)
+    {
+        $asign['price_right'] = print_item('price_right', $data['price_right']);
+    }
+    if(count($data['tag_right'])>0)
+    {
+        $asign['tag_right'] = print_item('tag', $data['tag_right']);
+    }
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();

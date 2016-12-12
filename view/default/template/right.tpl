@@ -85,6 +85,21 @@
                         width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
         </div>
+        <div class="tag_right package-details-content">
+            <h3 class="title">Tag</h3>
+            <ul class="tintuc_left">
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+                <li><a href=""><i class="fa fa-tag"></i> test</a></li>
+            </ul>
+        </div>
 
     </aside>
 </div> <!-- #sidebar -->

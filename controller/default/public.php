@@ -81,6 +81,8 @@ function  show_right($data1=array())
     $data['tintuc_right']=news_getByTop('10','','id desc');
     $data['video_right']=video_getByTop('7','','id desc');
     $data['hotro_right']=subport_getByTop('','','id desc');
+    $data['tag_right']=tag_getByTop('','','position asc');
+    $data['price_right']=price_timkiem_getByTop('','','position asc');
     view_right($data);
 }
 function show_menu($data1=array(),$active='trangchu')

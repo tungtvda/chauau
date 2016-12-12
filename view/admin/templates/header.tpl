@@ -95,6 +95,7 @@
                         <li><a href="{SITE-NAME}/controller/admin/tour.php">Danh sách tour</a></li>
                         <li><a href="{SITE-NAME}/controller/admin/news.php">Danh sách tin tức</a></li>
                         <li><a href="{SITE-NAME}/controller/admin/tour_img.php">Danh sách hình ảnh</a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/price_timkiem.php">Gía tìm kiếm</a></li>
                     </ul>
                 </li>
                 <li class="dropdown {kichhoat_hanhtrinh}"><a href="#"><span class=" icon-random"></span> Hành trình</a>
@@ -115,7 +116,7 @@
                         <li><a href="{SITE-NAME}/controller/admin/danhmuc_room_type.php">Phòng khách sạn</a></li>
                     </ul>
                 </li>
-                <!--<li class="{kichhoat_gioithieu}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>-->
+                <li class="{kichhoat_tag}"><a href="{SITE-NAME}/controller/admin/tag.php"><span class="icon-tag"></span> Tag</a></li>
                 <li class="{kichhoat_hotro}"><a href="{SITE-NAME}/controller/admin/subport.php"><span class="icon-question-sign"></span> Hỗ trợ trực tuyến</a></li>
 
                 <li class="{kichhoat_video}"><a href="{SITE-NAME}/controller/admin/video.php"><span class="icon-facetime-video"></span> Video</a></li>

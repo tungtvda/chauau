@@ -30,6 +30,10 @@ function show_index($data = array())
     {
         $asign['hinhanh_index'] = print_item('hinhanh_index', $data['hinhanh_index']);
     }
+    if(count($data['price_index'])>0)
+    {
+        $asign['price_index'] = print_item('price_right', $data['price_index']);
+    }
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();

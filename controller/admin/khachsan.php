@@ -4,6 +4,7 @@ require_once DIR.'/model/khachsanService.php';
 require_once DIR.'/model/danhmuc_tourService.php';
 require_once DIR.'/model/danhmuc_room_typeService.php';
 require_once DIR.'/view/admin/khachsan.php';
+require_once DIR.'/common/locdautiengviet.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
 $insert=true;
@@ -77,6 +78,7 @@ if(isset($_SESSION["Admin"]))
        $array['name']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
+        $array['name_url']=LocDau($array['name']);
        if(!isset($array['start']))
        $array['start']='0';
        if(!isset($array['room_type']))

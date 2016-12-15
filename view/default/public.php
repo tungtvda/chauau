@@ -82,7 +82,15 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             }
             if(get_class($item)=='tour')
             {
-                $ft->assign('price_format',number_format($item->price,0,",","."));
+
+                if($item->price==0||$item->price==''){
+                    $ft->assign('price_format','Liên hệ');
+                    $ft->assign('vnd','');
+                }
+                else{
+                    $ft->assign('price_format',number_format((int)$item->price,0,",","."));
+                    $ft->assign('vnd','vnđ');
+                }
                 $content=$item->summary;
                 if (strlen($content) > 200) {
                     $ten1=strip_tags($content);

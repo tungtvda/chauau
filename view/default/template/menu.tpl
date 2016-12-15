@@ -45,7 +45,7 @@
                                 <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {hanhtrinh_mn}">
                                     <a href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
                                 <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
-                                    <a href="">{vemaybay}</a></li>
+                                    <a target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
                                 <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
                                             href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                 <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
@@ -74,7 +74,7 @@
                                 </li>
                                 <li id="menu-item-1228"
                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1228 active active active">
-                                    <a title="Home" href="{SITE-NAME}">{dichvu}</a>
+                                    <a title="" href="{SITE-NAME}">{dichvu}</a>
                 <span class="menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-1228">
                 <i class="fa fa-angle-right"></i>
                 </span>
@@ -87,7 +87,7 @@
                                             title="Hành trình" href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
                                 <li id="menu-item-1024"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a
-                                            title="" href="">{vemaybay}</a></li>
+                                            title="" target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
                                             title="" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>

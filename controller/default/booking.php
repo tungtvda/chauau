@@ -66,43 +66,11 @@ if (count($data_tour) > 0) {
         $total = $contact;
     } else {
         $total_member = $number_adults + $number_children + $number_children_5;
-        if ($total_member >= 7 || $total_member <= 0) {
+        $total = $total_member* $price;
+        if ($total == 0) {
             $total = $contact;
         } else {
-
-            switch ($total_member) {
-                case 1:
-                    $total_price = $price;
-                    $price_number = $price;
-                    break;
-                case 2:
-                    $total_price = $price_2;
-                    $price_number = $price_2;
-                    break;
-                case 3:
-                    $total_price = $price_3;
-                    $price_number = $price_3;
-                    break;
-                case 4:
-                    $total_price = $price_4;
-                    $price_number = $price_4;
-                    break;
-                case 5:
-                    $total_price = $price_5;
-                    $price_number = $price_5;
-                    break;
-                case 6:
-                    $total_price = $price_6;
-                    $price_number = $price_6;
-                    break;
-
-            }
-            $total = ($number_adults + ($number_children * 0.7)) * $total_price;
-            if ($total == 0) {
-                $total = $contact;
-            } else {
-                $total = $total . 'vnđ';
-            }
+            $total = $total . 'vnđ';
         }
     }
     $new = new booking_tour();

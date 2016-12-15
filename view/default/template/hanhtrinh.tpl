@@ -20,7 +20,6 @@
                         </div>
 
                         <div style="padding: 0px" class="entry-blog package-details-content">
-                            <h3 class="title">Quốc gia</h3>
                             <div style="margin-bottom: 30px" class="entry-summary clearfix">
                                 {content}
                             </div>

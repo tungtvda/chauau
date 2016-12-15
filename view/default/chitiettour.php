@@ -39,12 +39,28 @@ function show_chitiettour($data = array())
     $asign['price_6']= $data['detail'][0]->price_6;
     $asign['link']=link_tourdetail($data['detail'][0],$data['name_url']);
 
-    $asign['price_format']= number_format($data['detail'][0]->price,0,",",".");
+
+    if($data['detail'][0]->price==0||$data['detail'][0]->price==''){
+        $asign['price_format']='Liên hệ';
+        $asign['vnd']='';
+    }
+    else{
+        $asign['price_format']= number_format($data['detail'][0]->price,0,",",".");
+        $asign['vnd']='vnđ';
+    }
     $asign['price_2_format']= number_format($data['detail'][0]->price_2,0,",",".");
     $asign['price_3_format']= number_format($data['detail'][0]->price_3,0,",",".");
     $asign['price_4_format']= number_format($data['detail'][0]->price_4,0,",",".");
     $asign['price_5_format']= number_format($data['detail'][0]->price_5,0,",",".");
     $asign['price_6_format']= number_format($data['detail'][0]->price_6,0,",",".");
+    $asign['date_now'] = date('Y-m-d', strtotime(date(DATETIME_FORMAT)));
+    $asign['date_now_vn'] = date('d-m-Y', strtotime(date(DATETIME_FORMAT)));
+
+    $asign['schedule']=$data['detail'][0]->schedule;
+    $asign['inclusion']=$data['detail'][0]->inclusion;
+    $asign['exclusion']=$data['detail'][0]->exclusion;
+    $asign['price_list']=$data['detail'][0]->price_list;
+    $asign['vehicle']=$data['detail'][0]->vehicle;
 
     $asign['quocgia']='';
     $arr=explode(',',$data['detail'][0]->danhmuc_multi);
@@ -61,14 +77,7 @@ function show_chitiettour($data = array())
         }
         $asign['quocgia'].=' </ul></div>';
     }
-    $asign['date_now'] = date('Y-m-d', strtotime(date(DATETIME_FORMAT)));
-    $asign['date_now_vn'] = date('d-m-Y', strtotime(date(DATETIME_FORMAT)));
 
-    $asign['schedule']=$data['detail'][0]->schedule;
-    $asign['inclusion']=$data['detail'][0]->inclusion;
-    $asign['exclusion']=$data['detail'][0]->exclusion;
-    $asign['price_list']=$data['detail'][0]->price_list;
-    $asign['vehicle']=$data['detail'][0]->vehicle;
 
 
     $asign['danhsach_tintuc'] ='';

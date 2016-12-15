@@ -6,7 +6,7 @@
         <div class="package-list-content"><p
                     class="package-list-duration"><a class="color_name" href="{link}">{name}</a></p>
             <h3 class="package-list-title"><a
-                        href="{link}">{price_format} <span style="font-size: 13px">vnđ</span></a></h3><a class="package-list-button"
+                        href="{link}">{price_format} <span style="font-size: 13px">{vnd}</span></a></h3><a class="package-list-button"
                                     href="{link}#booking">Đặt tour</a></div>
     </div>
 </div>

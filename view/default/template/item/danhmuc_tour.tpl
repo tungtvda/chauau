@@ -8,7 +8,7 @@
                         href="{link}"> {name}</a></h3><span
                     class="meta-date">{durations}</span><span class="latest-post-comments">
                 <a
-                        href="{link}">{price_format} vnđ</a></span>
+                        href="{link}">{price_format} {vnd}</a></span>
 
         </div>
         <p class="short_content">

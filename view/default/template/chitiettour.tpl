@@ -30,7 +30,7 @@
                             <!--<h1 itemprop="name" class="product_title entry-title">Bora Bora</h1>-->
                             <div itemprop="offers" class="detail_font">
                                 <p class="price"><i class="icon-dollar"></i> Giá:
-                                    <ins><span class="amount"> {price_format}</span> vnđ</ins>
+                                    <ins><span class="amount"> {price_format}</span> {vnd}</ins>
                                 </p>
                                 <p class="price"><i class="icon-dollar"></i> Mã tour:
                                     <ins><span class="parameter"> {code}</span></ins>
@@ -322,79 +322,15 @@
 
                                     }
                                     else{
-                                        if(price_adults<price_children_val+price_children_5_val)
-                                        {
+                                        total=(price_adults+price_children_val+price_children_5_val)*price;
+                                        if(total==0){
                                             total="Liên hệ";
-
                                         }
                                         else{
-                                            if(price_adults<1||price_adults==""){
-                                                price_adults=1;
-                                                jQuery('#num_price_adults').val('1');
-                                            }
-                                            if(price_children_val<1||price_children_val==""){
-                                                price_children_val=0;
-                                            }
-                                            if(price_children_5_val<1||price_children_5_val==""){
-                                                price_children_5_val=0;
-                                            }
-                                            price=parseFloat(price);
-                                            price_2=parseFloat(price_2);
-                                            price_3=parseFloat(price_3);
-                                            price_4=parseFloat(price_4);
-                                            price_5=parseFloat(price_5);
-                                            price_6=parseFloat(price_6);
-                                            price_adults=parseInt(price_adults);
-                                            price_children_val=parseInt(price_children_val);
-                                            price_children_5_val=parseInt(price_children_5_val);
-                                            total_member=price_adults+price_children_val+price_children_5_val;
-
-                                            if(total_member>=7||total_member<=0){
-                                                total="Liên hệ";
-                                            }
-                                            else{
-                                                if((price_children_val+price_children_5_val)>price_adults)
-                                                {
-
-                                                }else{
-                                                    total_price=0;
-                                                    switch(total_member){
-                                                        case 1:
-                                                            total_price=price;
-                                                            break;
-                                                        case 2:
-                                                            total_price=price_2;
-                                                            break;
-                                                        case 3:
-                                                            total_price=price_3;
-                                                            break;
-                                                        case 4:
-                                                            total_price=price_4;
-                                                            break;
-                                                        case 5:
-                                                            total_price=price_5;
-                                                            break;
-                                                        case 6:
-                                                            total_price=price_6;
-                                                            break;
-                                                    }
-                                                    total=(price_adults+(price_children_val*0.7))*total_price;
-                                                    if(total==0){
-                                                        total="Liên hệ";
-                                                    }
-                                                    else{
-                                                        var n = parseFloat(total);
+                                            var n = parseFloat(total);
 //                                                        total = Math.round(n * 1000)/1000;
-                                                        total=n.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1.")+" vnđ";
-                                                    }
-
-                                                }
-
-
-                                            }
-
+                                            total=n.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1.")+" vnđ";
                                         }
-
                                     }
                                     jQuery("#amount_total").text(total);
                                     jQuery("#no_adults").text(price_adults);
@@ -512,7 +448,7 @@
                             </div>
                         </div>
                         <div class="col-md-8 unset_padding_left unset_padding_right">
-                            <h3 class="title">Tour Details</h3>
+                            <h3 class="title">Thông tin chi tiết</h3>
                             <ul class="nav nav-tabs package-nav-tab" role="tablist">
                                 <li class="active"><a href="#lichtrinh" role="tab" data-toggle="tab"
                                                       aria-expanded="true">Lịch trình</a></li>

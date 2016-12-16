@@ -429,13 +429,13 @@
                                         </tbody>
                                     </table>
                                     <h3 class=" title left lienquan"></h3>
-                                    <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">{full_name_booking}</p>
+                                    <p style="color: red !important;margin-top: 10px; display: none; float: left;" id="full_name_er">Vui lòng nhập họ tên</p>
                                     <input  class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Họ tên" id="name_booking" style="width:100%">
-                                    <p style="color: red ; display: none" id="email_er">{email_booking}</p>
+                                    <p style="color: red !important; display: none" id="email_er">Vui lòng nhập email</p>
                                     <input style="width:100%" class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Email" id="email_booking">
-                                    <p style="color: red; display: none" id="phone_er">{phone_booking}</p>
+                                    <p style="color: red !important; display: none" id="phone_er">Vui lòng nhập số điện thoại</p>
                                     <input style="width:100%" class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Điện thoại" id="phone_booking">
-                                    <p style="color: red; display: none" id="address_er">{add_booking}</p>
+                                    <p style="color: red !important; display: none" id="address_er">Vui lòng nhập địa chỉ</p>
                                     <input  class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Địa chỉ" id="address_booking">
                                                         <textarea  style="height:90px; width:100%; margin-bottom: 20px"  placeholder="Yêu cầu..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="request_booking">
 

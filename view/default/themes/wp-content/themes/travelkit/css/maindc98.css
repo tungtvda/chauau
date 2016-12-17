@@ -4649,3 +4649,9 @@ ul#all-flights li.active{
 .popup-video:focus{
   outline: none;
 }
+.hidden_name{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  display: block;
+}

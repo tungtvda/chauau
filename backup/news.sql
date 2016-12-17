@@ -2688,3 +2688,5 @@ update news set view='12' where id=4;
 update news set view='13' where id=4;
 update news set view='14' where id=4;
 update news set view='15' where id=4;
+update news set view='8' where id=5;
+update news set view='9' where id=5;

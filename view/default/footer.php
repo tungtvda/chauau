@@ -18,6 +18,12 @@ function view_footer($data = array())
     $asign['Fax_hcm'] = $data['config'][0]->fax_hcm;
     $asign['Email_hcm'] = $data['config'][0]->Email_hcm;
 
+    $asign['Address_eu'] = $data['config'][0]->Address_eu;
+    $asign['Phone_eu'] = $data['config'][0]->Phone_eu;
+    $asign['Hotline_eu'] = $data['config'][0]->Hotline_eu;
+    $asign['Fax_eu'] = $data['config'][0]->fax_eu;
+    $asign['Email_eu'] = $data['config'][0]->Email_eu;
+
     $asign['twitter'] = $data['mangxahoi'][0]->twitter;
     $asign['youtube'] = $data['mangxahoi'][0]->youtube;
     $asign['facebook'] = $data['mangxahoi'][0]->facebook;

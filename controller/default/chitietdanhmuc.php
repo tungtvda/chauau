@@ -120,6 +120,7 @@ switch($id){
             'url'=>'<li><a href="'.SITE_NAME.'" class="breadcrumb_home">Trang chủ</a></li><li><a href="'.SITE_NAME.'/du-lich-chau-au/" class="breadcrumb_home">Du lịch Châu Âu</a></li><li class="active">'.$name.'</li>'
         );
         $data['link_anh']=$danhmuc[0]->img;
+        $data['content_short']=$danhmuc[0]->content_short;
         $img_banner=$danhmuc[0]->img;
         $title=$danhmuc[0]->title;
         $description=$danhmuc[0]->description;

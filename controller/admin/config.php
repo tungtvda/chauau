@@ -5,7 +5,6 @@ require_once DIR.'/view/admin/config.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
 $insert=true;
-returnCountData();
 if(isset($_SESSION["Admin"]))
 {
     if(isset($_GET["action"])&&isset($_GET["Id"]))
@@ -55,7 +54,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/config.php');
         }
     }
-    if(isset($_POST["Logo"])&&isset($_POST["Icon"])&&isset($_POST["Name"])&&isset($_POST["Address"])&&isset($_POST["Phone"])&&isset($_POST["fax"])&&isset($_POST["Hotline"])&&isset($_POST["Email"])&&isset($_POST["Website"])&&isset($_POST["Address_hcm"])&&isset($_POST["Phone_hcm"])&&isset($_POST["fax_hcm"])&&isset($_POST["Hotline_hcm"])&&isset($_POST["Email_hcm"]))
+    if(isset($_POST["Logo"])&&isset($_POST["Icon"])&&isset($_POST["Name"])&&isset($_POST["Address"])&&isset($_POST["Phone"])&&isset($_POST["fax"])&&isset($_POST["Hotline"])&&isset($_POST["Email"])&&isset($_POST["Website"])&&isset($_POST["Address_hcm"])&&isset($_POST["Phone_hcm"])&&isset($_POST["fax_hcm"])&&isset($_POST["Hotline_hcm"])&&isset($_POST["Email_hcm"])&&isset($_POST["Address_eu"])&&isset($_POST["Phone_eu"])&&isset($_POST["fax_eu"])&&isset($_POST["Hotline_eu"])&&isset($_POST["Email_eu"]))
     {
        $array=$_POST;
        if(!isset($array['Id']))
@@ -88,6 +87,16 @@ if(isset($_SESSION["Admin"]))
        $array['Hotline_hcm']='0';
        if(!isset($array['Email_hcm']))
        $array['Email_hcm']='0';
+       if(!isset($array['Address_eu']))
+       $array['Address_eu']='0';
+       if(!isset($array['Phone_eu']))
+       $array['Phone_eu']='0';
+       if(!isset($array['fax_eu']))
+       $array['fax_eu']='0';
+       if(!isset($array['Hotline_eu']))
+       $array['Hotline_eu']='0';
+       if(!isset($array['Email_eu']))
+       $array['Email_eu']='0';
       $new_obj=new config($array);
         if($insert)
         {

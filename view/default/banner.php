@@ -12,5 +12,11 @@ function view_banner($data=array())
     $asign['name_dm']=$data['banner']['name'];
     $asign['banner_img']=$data['banner']['banner_img'];
     $asign['url']=$data['banner']['url'];
+    $asign['content_short']='';
+    $asign['hidden_content']='hidden';
+    if(isset($data['content_short'])){
+        $asign['content_short']=$data['content_short'];
+        $asign['hidden_content']='';
+    }
     print_template($asign,'banner');
 }

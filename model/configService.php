@@ -62,17 +62,17 @@ function config_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function config_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return config_Get("SELECT config.Id, config.Logo, config.Icon, config.Name, config.Address, config.Phone, config.fax, config.Hotline, config.Email, config.Website, config.Address_hcm, config.Phone_hcm, config.fax_hcm, config.Hotline_hcm, config.Email_hcm FROM  config ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return config_Get("SELECT config.Id, config.Logo, config.Icon, config.Name, config.Address, config.Phone, config.fax, config.Hotline, config.Email, config.Website, config.Address_hcm, config.Phone_hcm, config.fax_hcm, config.Hotline_hcm, config.Email_hcm, config.Address_eu, config.Phone_eu, config.fax_eu, config.Hotline_eu, config.Email_eu FROM  config ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function config_insert($obj)
 {
-    return exe_query("insert into config (Logo,Icon,Name,Address,Phone,fax,Hotline,Email,Website,Address_hcm,Phone_hcm,fax_hcm,Hotline_hcm,Email_hcm) values ('$obj->Logo','$obj->Icon','$obj->Name','$obj->Address','$obj->Phone','$obj->fax','$obj->Hotline','$obj->Email','$obj->Website','$obj->Address_hcm','$obj->Phone_hcm','$obj->fax_hcm','$obj->Hotline_hcm','$obj->Email_hcm')",'config');
+    return exe_query("insert into config (Logo,Icon,Name,Address,Phone,fax,Hotline,Email,Website,Address_hcm,Phone_hcm,fax_hcm,Hotline_hcm,Email_hcm,Address_eu,Phone_eu,fax_eu,Hotline_eu,Email_eu) values ('$obj->Logo','$obj->Icon','$obj->Name','$obj->Address','$obj->Phone','$obj->fax','$obj->Hotline','$obj->Email','$obj->Website','$obj->Address_hcm','$obj->Phone_hcm','$obj->fax_hcm','$obj->Hotline_hcm','$obj->Email_hcm','$obj->Address_eu','$obj->Phone_eu','$obj->fax_eu','$obj->Hotline_eu','$obj->Email_eu')",'config');
 }
 //
 function config_update($obj)
 {
-    return exe_query("update config set Logo='$obj->Logo',Icon='$obj->Icon',Name='$obj->Name',Address='$obj->Address',Phone='$obj->Phone',fax='$obj->fax',Hotline='$obj->Hotline',Email='$obj->Email',Website='$obj->Website',Address_hcm='$obj->Address_hcm',Phone_hcm='$obj->Phone_hcm',fax_hcm='$obj->fax_hcm',Hotline_hcm='$obj->Hotline_hcm',Email_hcm='$obj->Email_hcm' where Id=$obj->Id",'config');
+    return exe_query("update config set Logo='$obj->Logo',Icon='$obj->Icon',Name='$obj->Name',Address='$obj->Address',Phone='$obj->Phone',fax='$obj->fax',Hotline='$obj->Hotline',Email='$obj->Email',Website='$obj->Website',Address_hcm='$obj->Address_hcm',Phone_hcm='$obj->Phone_hcm',fax_hcm='$obj->fax_hcm',Hotline_hcm='$obj->Hotline_hcm',Email_hcm='$obj->Email_hcm',Address_eu='$obj->Address_eu',Phone_eu='$obj->Phone_eu',fax_eu='$obj->fax_eu',Hotline_eu='$obj->Hotline_eu',Email_eu='$obj->Email_eu' where Id=$obj->Id",'config');
 }
 //
 function config_delete($obj)

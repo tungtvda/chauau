@@ -1,7 +1,7 @@
 <?php
 class danhmuc_tour
 {
-    public $id,$name,$name_url,$img,$position,$title,$keyword,$description;
+    public $id,$name,$name_symbol,$name_url,$img,$icon,$position,$content_short,$title,$keyword,$description;
     public function danhmuc_tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -11,12 +11,12 @@ class danhmuc_tour
     $this->img=isset($data['img'])?$data['img']:'';
     $this->icon=isset($data['icon'])?$data['icon']:'';
     $this->position=isset($data['position'])?$data['position']:'';
+    $this->content_short=isset($data['content_short'])?$data['content_short']:'';
     $this->title=isset($data['title'])?$data['title']:'';
     $this->keyword=isset($data['keyword'])?$data['keyword']:'';
     $this->description=isset($data['description'])?$data['description']:'';
           $this->encode();
     }
-
     public function encode()
         {
             $this->id=addslashes($this->id);
@@ -26,6 +26,7 @@ class danhmuc_tour
             $this->img=addslashes($this->img);
             $this->icon=addslashes($this->icon);
             $this->position=addslashes($this->position);
+            $this->content_short=addslashes($this->content_short);
             $this->title=addslashes($this->title);
             $this->keyword=addslashes($this->keyword);
             $this->description=addslashes($this->description);
@@ -39,6 +40,7 @@ class danhmuc_tour
             $this->img=stripslashes($this->img);
             $this->icon=stripslashes($this->icon);
             $this->position=stripslashes($this->position);
+            $this->content_short=stripslashes($this->content_short);
             $this->title=stripslashes($this->title);
             $this->keyword=stripslashes($this->keyword);
             $this->description=stripslashes($this->description);

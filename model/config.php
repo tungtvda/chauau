@@ -1,7 +1,7 @@
 <?php
 class config
 {
-    public $Id,$Logo,$Icon,$Name,$Address,$Phone,$fax,$Hotline,$Email,$Website,$Address_hcm,$Phone_hcm,$fax_hcm,$Hotline_hcm,$Email_hcm;
+    public $Id,$Logo,$Icon,$Name,$Address,$Phone,$fax,$Hotline,$Email,$Website,$Address_hcm,$Phone_hcm,$fax_hcm,$Hotline_hcm,$Email_hcm,$Address_eu,$Phone_eu,$fax_eu,$Hotline_eu,$Email_eu;
     public function config($data=array())
     {
     $this->Id=isset($data['Id'])?$data['Id']:'';
@@ -19,6 +19,11 @@ class config
     $this->fax_hcm=isset($data['fax_hcm'])?$data['fax_hcm']:'';
     $this->Hotline_hcm=isset($data['Hotline_hcm'])?$data['Hotline_hcm']:'';
     $this->Email_hcm=isset($data['Email_hcm'])?$data['Email_hcm']:'';
+    $this->Address_eu=isset($data['Address_eu'])?$data['Address_eu']:'';
+    $this->Phone_eu=isset($data['Phone_eu'])?$data['Phone_eu']:'';
+    $this->fax_eu=isset($data['fax_eu'])?$data['fax_eu']:'';
+    $this->Hotline_eu=isset($data['Hotline_eu'])?$data['Hotline_eu']:'';
+    $this->Email_eu=isset($data['Email_eu'])?$data['Email_eu']:'';
           $this->encode();
     }
     public function encode()
@@ -38,6 +43,11 @@ class config
             $this->fax_hcm=addslashes($this->fax_hcm);
             $this->Hotline_hcm=addslashes($this->Hotline_hcm);
             $this->Email_hcm=addslashes($this->Email_hcm);
+            $this->Address_eu=addslashes($this->Address_eu);
+            $this->Phone_eu=addslashes($this->Phone_eu);
+            $this->fax_eu=addslashes($this->fax_eu);
+            $this->Hotline_eu=addslashes($this->Hotline_eu);
+            $this->Email_eu=addslashes($this->Email_eu);
         }
     public function decode()
         {
@@ -56,5 +66,10 @@ class config
             $this->fax_hcm=stripslashes($this->fax_hcm);
             $this->Hotline_hcm=stripslashes($this->Hotline_hcm);
             $this->Email_hcm=stripslashes($this->Email_hcm);
+            $this->Address_eu=stripslashes($this->Address_eu);
+            $this->Phone_eu=stripslashes($this->Phone_eu);
+            $this->fax_eu=stripslashes($this->fax_eu);
+            $this->Hotline_eu=stripslashes($this->Hotline_eu);
+            $this->Email_eu=stripslashes($this->Email_eu);
         }
 }

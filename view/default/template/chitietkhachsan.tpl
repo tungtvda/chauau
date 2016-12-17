@@ -55,7 +55,7 @@
                         <div class="entry-blog">
                             <!-- Single Page content -->
 
-                            <div class="entry-summary clearfix">
+                            <div class="clearfix">
                                 {content}
 
 

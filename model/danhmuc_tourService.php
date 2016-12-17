@@ -62,17 +62,17 @@ function danhmuc_tour_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_tour_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return danhmuc_tour_Get("SELECT danhmuc_tour.id, danhmuc_tour.name, danhmuc_tour.name_symbol, danhmuc_tour.name_url, danhmuc_tour.img,danhmuc_tour.icon, danhmuc_tour.position, danhmuc_tour.title, danhmuc_tour.keyword, danhmuc_tour.description FROM  danhmuc_tour ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return danhmuc_tour_Get("SELECT danhmuc_tour.id, danhmuc_tour.name, danhmuc_tour.name_symbol, danhmuc_tour.name_url, danhmuc_tour.img, danhmuc_tour.icon, danhmuc_tour.position, danhmuc_tour.content_short, danhmuc_tour.title, danhmuc_tour.keyword, danhmuc_tour.description FROM  danhmuc_tour ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function danhmuc_tour_insert($obj)
 {
-    return exe_query("insert into danhmuc_tour (name,name_symbol,name_url,img, icon,position,title,keyword,description) values ('$obj->name','$obj->name_symbol','$obj->name_url','$obj->img','$obj->icon','$obj->position','$obj->title','$obj->keyword','$obj->description')",'danhmuc_tour');
+    return exe_query("insert into danhmuc_tour (name,name_symbol,name_url,img,icon,position,content_short,title,keyword,description) values ('$obj->name','$obj->name_symbol','$obj->name_url','$obj->img','$obj->icon','$obj->position','$obj->content_short','$obj->title','$obj->keyword','$obj->description')",'danhmuc_tour');
 }
 //
 function danhmuc_tour_update($obj)
 {
-    return exe_query("update danhmuc_tour set name='$obj->name',name_symbol='$obj->name_symbol',name_url='$obj->name_url',img='$obj->img',icon='$obj->icon',position='$obj->position',title='$obj->title',keyword='$obj->keyword',description='$obj->description' where id=$obj->id",'danhmuc_tour');
+    return exe_query("update danhmuc_tour set name='$obj->name',name_symbol='$obj->name_symbol',name_url='$obj->name_url',img='$obj->img',icon='$obj->icon',position='$obj->position',content_short='$obj->content_short',title='$obj->title',keyword='$obj->keyword',description='$obj->description' where id=$obj->id",'danhmuc_tour');
 }
 //
 function danhmuc_tour_delete($obj)

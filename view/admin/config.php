@@ -33,7 +33,7 @@ function view_config($data)
 //
 function showTableHeader()
 {
-    return '<th>Id</th><th>Logo</th><th>Icon</th><th>Tên</th><th>Địa chỉ</th><th>Điện Thoại</th><th>fax</th><th>Hotline</th><th>Email</th><th>Website</th>';
+    return '<th>Logo</th><th>Icon</th><th>Tên</th>';
 }
 //
 function showTableBody($data)
@@ -42,16 +42,9 @@ function showTableBody($data)
     if(count($data)>0) foreach($data as $obj)
     {
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->Id."\"/></td>";
-        $TableBody.="<td>".$obj->Id."</td>";
         $TableBody.="<td><img src=\"".$obj->Logo."\" width=\"50px\" height=\"50px\"/> </td>";
         $TableBody.="<td><img src=\"".$obj->Icon."\" width=\"50px\" height=\"50px\"/> </td>";
         $TableBody.="<td>".$obj->Name."</td>";
-        $TableBody.="<td>".$obj->Address."</td>";
-        $TableBody.="<td>".$obj->Phone."</td>";
-        $TableBody.="<td>".$obj->fax."</td>";
-        $TableBody.="<td>".$obj->Hotline."</td>";
-        $TableBody.="<td>".$obj->Email."</td>";
-        $TableBody.="<td>".$obj->Website."</td>";
         $TableBody.="<td><a href=\"?action=edit&Id=".$obj->Id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
 //        $TableBody.="<a href=\"?action=delete&Id=".$obj->Id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -77,5 +70,10 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>fax_hcm</label><input class="text-input small-input" type="text"  name="fax_hcm" value="'.(($form!=false)?$form->fax_hcm:'').'" /></p>';
     $str_from.='<p><label>Hotline_hcm</label><input class="text-input small-input" type="text"  name="Hotline_hcm" value="'.(($form!=false)?$form->Hotline_hcm:'').'" /></p>';
     $str_from.='<p><label>Email_hcm</label><input class="text-input small-input" type="text"  name="Email_hcm" value="'.(($form!=false)?$form->Email_hcm:'').'" /></p>';
+    $str_from.='<p><label>Address_eu</label><input class="text-input small-input" type="text"  name="Address_eu" value="'.(($form!=false)?$form->Address_eu:'').'" /></p>';
+    $str_from.='<p><label>Phone_eu</label><input class="text-input small-input" type="text"  name="Phone_eu" value="'.(($form!=false)?$form->Phone_eu:'').'" /></p>';
+    $str_from.='<p><label>fax_eu</label><input class="text-input small-input" type="text"  name="fax_eu" value="'.(($form!=false)?$form->fax_eu:'').'" /></p>';
+    $str_from.='<p><label>Hotline_eu</label><input class="text-input small-input" type="text"  name="Hotline_eu" value="'.(($form!=false)?$form->Hotline_eu:'').'" /></p>';
+    $str_from.='<p><label>Email_eu</label><input class="text-input small-input" type="text"  name="Email_eu" value="'.(($form!=false)?$form->Email_eu:'').'" /></p>';
     return $str_from;
 }

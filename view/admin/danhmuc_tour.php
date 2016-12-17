@@ -4,9 +4,6 @@ require_once DIR.'/common/cls_fast_template.php';
 function view_danhmuc_tour($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
-    $ft->assign('count_contact',$_SESSION['contact']);
-    $ft->assign('count_dangky',$_SESSION['dangky_email']);
-    $ft->assign('count_booking',$_SESSION['booking']);
     $ft->define('header','header.tpl');
     $ft->define('body','body.tpl');
     $ft->define('footer','footer.tpl');
@@ -23,7 +20,6 @@ function view_danhmuc_tour($data)
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
     $ft->assign('SITE-NAME',isset($data['sitename'])?$data['sitename']:SITE_NAME);
-    $ft->assign('kichhoat_tour', 'active');
     $ft->assign('FORM',showFrom(isset($data['form'])?$data['form']:'',isset($data['listfkey'])?$data['listfkey']:array()));
     //
     print $ft->parse_and_return('header');
@@ -63,8 +59,9 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>name_symbol</label><input class="text-input small-input" type="text"  name="name_symbol" value="'.(($form!=false)?$form->name_symbol:'').'" /></p>';
     $str_from.='<p><label>name_url</label><input class="text-input small-input" type="text"  name="name_url" value="'.(($form!=false)?$form->name_url:'').'" /></p>';
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
-    $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="icon" value="'.(($form!=false)?$form->icon:'').'"/><a class="button" onclick="openKcEditor(\'icon\');">Upload ảnh</a></p>';
+    $str_from.='<p><label>icon</label><input class="text-input small-input" type="text"  name="icon" value="'.(($form!=false)?$form->icon:'').'"/><a class="button" onclick="openKcEditor(\'icon\');">Upload ảnh</a></p>';
     $str_from.='<p><label>position</label><input class="text-input small-input" type="text"  name="position" value="'.(($form!=false)?$form->position:'').'" /></p>';
+    $str_from.='<p><label>content_short</label><textarea name="content_short">'.(($form!=false)?$form->content_short:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'content_short\'); </script></p>';
     $str_from.='<p><label>title</label><input class="text-input small-input" type="text"  name="title" value="'.(($form!=false)?$form->title:'').'" /></p>';
     $str_from.='<p><label>keyword</label><input class="text-input small-input" type="text"  name="keyword" value="'.(($form!=false)?$form->keyword:'').'" /></p>';
     $str_from.='<p><label>description</label><input class="text-input small-input" type="text"  name="description" value="'.(($form!=false)?$form->description:'').'" /></p>';

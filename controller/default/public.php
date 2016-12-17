@@ -100,6 +100,9 @@ function show_banner($data1=array())
 {
     $data=array();
     $data['banner']=$data1['banner'];
+    if(isset($data1['content_short'])){
+        $data['content_short']=$data1['content_short'];
+    }
     view_banner($data);
 }
 

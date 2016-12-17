@@ -373,11 +373,3 @@
     </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
-<div class="vc_row-full-width vc_clearfix"></div>
-</div>
-
-</div>
-
-
-</div> <!--/#content-->
-</div> <!--/container-->

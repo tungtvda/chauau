@@ -1,3 +1,62 @@
+
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="true"
+     class="vc_row wpb_row vc_row-fluid thm-res-padding vc_custom_1476955334093 vc_row-has-fill"
+     style="position: relative; left: -89.5px; box-sizing: border-box; width: 1349px; padding-left: 89.5px; padding-right: 89.5px;margin-top: 20px">
+    <div class="wpb_column vc_column_container vc_col-sm-2">
+        <div class="vc_column-inner ">
+            <div class="wpb_wrapper"></div>
+        </div>
+    </div>
+    <div class="wpb_column vc_column_container vc_col-sm-8">
+        <div class="vc_column-inner ">
+            <div class="wpb_wrapper">
+                <div class="atmosphere-details newsletter-icon">
+                    <article class="atmosphere-content" style="">
+                        <ul>
+                            <li><i style="font-size: 48px; color:#ffffff;" class="fa fa-envelope-o"></i><span
+                                        style="font-size: 16px; ">sad</span>
+                            </li>
+                        </ul>
+                    </article>
+                </div>
+                <div class="addon-themeum-title whitecolor themeum-titlelayout-custom" style="text-align:center;">
+                    <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
+                            Đăng ký email để nhận được khuyến mãi</h2></div>
+                </div>
+                <div class="wpb_text_column wpb_content_element  themeum-newsletter">
+                    <div class="wpb_wrapper">
+                        <!-- MailChimp for WordPress v4.0.7 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+                        <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-139" method="post" data-id="139"
+                              data-name="">
+                            <div class="mc4wp-form-fields"><p><input type="email" name="email_footer"
+                                                                     placeholder="Email của bạn" required><input
+                                            type="submit" value="Đăng ký"></p>
+                            </div>
+                            <div class="mc4wp-response"></div>
+                        </form><!-- / MailChimp for WordPress Plugin -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wpb_column vc_column_container vc_col-sm-2">
+        <div class="vc_column-inner ">
+            <div class="wpb_wrapper"></div>
+        </div>
+    </div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+
+
+</div>
+
+</div>
+
+
+</div> <!--/#content-->
+</div> <!--/container-->
 </section> <!--/#main-->
 
 <!-- start footer -->
@@ -5,7 +64,7 @@
 <div class="bottom borderimage">
     <div class="container">
         <div class="row clearfix">
-            <div class="col-sm-6 col-md-4 bottom-widget">
+            <!--<div class="col-sm-6 col-md-3 bottom-widget">
                 <div id="nav_menu-3" class="widget widget_nav_menu" style="text-align: center">
                     <a href="{SITE-NAME}"><img
                                 src="{Logo}"
@@ -30,7 +89,7 @@
                         </form>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <div class="col-sm-6 col-md-4 bottom-widget">
                 <div id="text-2" class="widget widget_text"><h3 class="widget-title">Văn phòng tại Hà Nội</h3>
                     <div class="textwidget">
@@ -53,9 +112,24 @@
                             <div class="contact-info-share">
                                 <p><i class="fa fa-map-marker"></i> {Address_hcm}</p>
                                 <p><i class="fa fa-phone"></i>Tel: {Phone_hcm}</p>
-                                <p><i class="fa fa-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile: {Hotline_hcm}</p>
+                                <p><i class="fa fa-mobile"></i>&nbsp;&nbsp;Mobile: {Hotline_hcm}</p>
                                 <p><i class="fa fa-hdd-o"></i>Fax: {Fax_hcm}</p>
                                 <p><i class="fa fa-envelope"></i>Email: {Email_hcm}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 bottom-widget">
+                <div id="text-2" class="widget widget_text"><h3 class="widget-title">Văn phòng tại Châu Âu</h3>
+                    <div class="textwidget">
+                        <div class="contact-info">
+                            <div class="contact-info-share">
+                                <p><i class="fa fa-map-marker"></i> {Address_eu}</p>
+                                <p><i class="fa fa-phone"></i>Tel: {Phone_eu}</p>
+                                <p><i class="fa fa-mobile"></i>&nbsp;&nbsp;Mobile: {Hotline_eu}</p>
+                                <p><i class="fa fa-hdd-o"></i>Fax: {Fax_eu}</p>
+                                <p><i class="fa fa-envelope"></i>Email: {Email_eu}</p>
                             </div>
                         </div>
                     </div>
@@ -68,9 +142,20 @@
 <footer id="footer" class="footer-wrap">
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-4">
+
                 © 2016 Your Company. &nbsp;Designed By <a href="http://mixtourist.com.vn/" target="_blank"
-                                                          class="copyright" style="color: red"> Mixtourist</a></div> <!-- end row -->
+                                                          class="copyright" style="color: red"> Mixtourist</a></div>
+            <div class="social-share" class="col-sm-3">
+                <ul>
+                    <li><a target="_blank" href="{facebook}"><i class="fa fa-facebook"></i></a></li>
+                    <li><a target="_blank" href="{twitter}"><i class="fa fa-twitter"></i></a></li>
+                    <li><a target="_blank" href="{google}"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a target="_blank" href="{youtube}"><i class="fa fa-youtube"></i></a></li>
+                    <li><a target="_blank" href="{rss}"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+            <!-- end row -->
         </div> <!-- end row -->
     </div>  <!-- end container -->
 </footer>

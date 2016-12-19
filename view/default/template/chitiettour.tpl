@@ -85,7 +85,7 @@
                     </div>
                     <div id="booking" style="margin-top: 20px; float: left; width: 100%"
                          class="package-details-content">
-                        <div class="col-md-4 unset_padding_left">
+                        <div class="col-md-4 col-sm-12 col-xs-12 unset_padding_left">
                             <h3 class="title">Đặt tour</h3>
                             <link rel="stylesheet" type="text/css"
                                   href="{SITE-NAME}/view/default/themes/calendar/src/css/pignose.calender.css"/>
@@ -355,8 +355,8 @@
                                 <input id="id_input" hidden value="{id}">
                                 <input id="name_url_input" hidden value="{name_url}">
                             </div>
-                            <div class="booking_left">
-                                <div class="back_detail">
+                            <div style="float: left;width: 100%" class="booking_left">
+                                <div style="float: left;width: 100%" class="back_detail">
 
                                     <input id="price_adults" value="{price}" hidden>
                                     <input id="price_2" value="{price_2}" hidden>
@@ -377,7 +377,7 @@
                                     <p style="margin-bottom: 10px; display: none" id="hidden_total">Thành tiền: <span  class="amount" id="amount_total"></span></p>
                                     <a style="width: 40%; display: none; margin-top: 20px; float: left" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-right"></i> Tiếp tục</a>
                                 </div>
-                                <div class="next_detail" style="display: none">
+                                <div class="next_detail" style="display: none; float: left;width: 100%">
                                     <table class="nicdark_table extrabig nicdark_bg_yellow">
 
                                         <tbody class="nicdark_bg_grey nicdark_border_grey table_booking" style="background-color: #f9f9f9 !important; border: none">
@@ -447,7 +447,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-8 unset_padding_left unset_padding_right">
+                        <div class="col-md-8 col-sm-12 col-xs-12 unset_padding_left unset_padding_right">
                             <h3 class="title">Thông tin chi tiết</h3>
                             <ul class="nav nav-tabs package-nav-tab" role="tablist">
                                 <li class="active"><a href="#lichtrinh" role="tab" data-toggle="tab"

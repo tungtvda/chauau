@@ -5,5 +5,8 @@
                 alt="{name}"></a>
     <h3 class="feature-carosuel-title"><a class="hidden_name" title="{name}"
                 href="{link}">{name}</a></h3>
-    <div>{name_symbol}</div>
+    <div style="text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;" title="{name_symbol}">{name_symbol}</div>
 </div>

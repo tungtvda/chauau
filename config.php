@@ -115,7 +115,7 @@ function contact()
 
 
                         </div>';
-            SendMail('tungtv.soict@gmail.com', $message, $subject);
+            SendMail('vietnamtours@mixtourist.com', $message, $subject);
             echo "<script>alert('Dulichchauau.org cảm ơn quý khách đã gửi liên hệ đến chúng tôi, Dulichchauau.org sẽ liên hệ với bạn sớm nhất, xin cảm ơn!')</script>";
 
             echo "<script>window.location.href='$link_web';</script>";

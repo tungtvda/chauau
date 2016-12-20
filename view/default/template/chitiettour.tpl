@@ -480,8 +480,6 @@
                                 </div>
                             </div>
                         </div>
-
-
                     </div><!--/.package-details-content-->
                 </div><!--/.tab-pane-->
                 <!--/#tourinfo-->

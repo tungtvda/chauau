@@ -17,12 +17,12 @@ session_start();
 require_once DIR.'/common/minifi.output.php';
 ob_start("minify_output");
 
-//define("SITE_NAME", "http://demo.mixtourist.com");
+//define("SITE_NAME", "http://dulichchauau.org");
 //define("DIR", dirname(__FILE__));
 //define('SERVER','localhost');
-//define('DB_USERNAME','dulichado_chauau');
-//define('DB_PASSWORD','pFgQgV1F2i');
-//define('DB_NAME','dulichado_chauau');
+//define('DB_USERNAME','dulichchau_db');
+//define('DB_PASSWORD','cdQRyIyLf');
+//define('DB_NAME','dulichchau_db');
 //define('CACHE',false);
 //define('DATETIME_FORMAT',"y-m-d H:i:s");
 //define('PRIVATE_KEY','hoidinhnvbk');
@@ -115,7 +115,7 @@ function contact()
 
 
                         </div>';
-            SendMail('vietnamtours@mixtourist.com', $message, $subject);
+            SendMail('tungtv.soict@gmail.com', $message, $subject);
             echo "<script>alert('Dulichchauau.org cảm ơn quý khách đã gửi liên hệ đến chúng tôi, Dulichchauau.org sẽ liên hệ với bạn sớm nhất, xin cảm ơn!')</script>";
 
             echo "<script>window.location.href='$link_web';</script>";

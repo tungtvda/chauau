@@ -12,6 +12,7 @@ function show_hanhtrinh($data = array())
     $asign = array();
     $asign['name']= $data['detail'][0]->name;
     $asign['content']= $data['detail'][0]->content;
+
     $asign['hanhtrinh_tab'] ='';
     $asign['hanhtrinh_detail'] ='';
     if(count($data['danhsach'])>0)
@@ -19,6 +20,7 @@ function show_hanhtrinh($data = array())
         $asign['hanhtrinh_tab'] = print_item('hanhtrinh_tab', $data['danhsach']);
         $asign['hanhtrinh_detail'] = print_item('hanhtrinh_detail', $data['danhsach']);
     }
+
     print_template($asign, 'hanhtrinh');
 }
 

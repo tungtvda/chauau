@@ -17,6 +17,7 @@ $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 
 $data['detail']=hanhtrinh_getByTop('1','','');
+
 if(count($data['detail'])==0){
     redict(SITE_NAME);
 }
@@ -39,6 +40,7 @@ $data['link_anh']=$data['menu'][9]->img;
 $title=($title)?$title:'Dulichchauau.org';
 $description=($description)?$description:'Dulichchauau.org';
 $keywords=($keyword)?$keyword:'Dulichchauau.org';
+
 show_header($title,$description,$keywords,$data);
 show_menu($data,'hanhtrinh');
 show_banner($data);

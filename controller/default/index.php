@@ -16,7 +16,7 @@ $data['config']=config_getByTop(1,'','');
 ////
 $data['tour_PROMOTIONS']=tour_getByTop(6,'promotion=1 ','id desc');
 //
-//$data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
+$data['video_index_list']=video_getByTop('','highlights=1','id desc');
 //
 $data['tour_danhmuc']=danhmuc_tour_getByTop('','','position desc');
 $data['tintuc_index']=news_getByTop(8,'','id desc');

@@ -93,7 +93,7 @@
                                         <label hidden>Loại phòng</label>
                                         <select name="room_type_timkiem" class="select2">
                                             <option value="">Loại phòng</option>
-                                           {list_romtype}
+                                            {list_romtype}
                                         </select>
                                     </div>
                                     <input type="hidden" name="post_type" value="hotel">
@@ -105,7 +105,7 @@
                         </div>
                         <div class="thm-tk-tab" id="tintuc">
                             <div class="thm-tk-tab-inner">
-                                <form  action="{SITE-NAME}/tim-kiem-tin-tuc" class="clearfix">
+                                <form action="{SITE-NAME}/tim-kiem-tin-tuc" class="clearfix">
                                     <div class="thm-tk-input-4-1">
                                         <label hidden>Từ khóa</label>
                                         <input type="text" name="key_timkiem" class="thm-tk-input-first"
@@ -119,7 +119,7 @@
                                         </select>
                                     </div>
                                     <button class="btn btn-primary thm-tk-search-btn"
-                                             type="submit">Tìm kiếm
+                                            type="submit">Tìm kiếm
                                     </button>
                                 </form>
                             </div>
@@ -315,7 +315,7 @@
             <div class="wpb_wrapper">
                 <div class="addon-themeum-title " style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">Địa điểm</h2>
-                        <p class="thm-sub-titlestandardstylesub">Khám phá Châu Âu, với rất nhiều địa điểm khách nhau</p>
+                        <p class="thm-sub-titlestandardstylesub">Khám phá Châu Âu, với rất nhiều địa điểm khác nhau</p>
                     </div>
                 </div>
                 <div class="vc_empty_space" style="height: 0px"><span
@@ -373,3 +373,38 @@
     </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
+
+<div class="vc_row-full-width vc_clearfix"></div>
+<div  data-vc-full-width="true" data-vc-full-width-init="false"
+     class="vc_row wpb_row vc_row-fluid show-overflow thm-res-padding section-with-border-gray vc_custom_1477470088839 vc_row-has-fill hidden-xs">
+    <div class="wpb_column vc_column_container vc_col-sm-12">
+        <div class="vc_column-inner ">
+            <div class="wpb_wrapper">
+                <div class="addon-themeum-title " style="text-align:center;">
+                    <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
+                            Video</h2>
+                        <p class="thm-sub-titlestandardstylesub">Châu Âu qua ống kính, máy quay</p></div>
+                </div>
+                <div class="vc_empty_space" style="height:"><span
+                            class="vc_empty_space_inner"></span></div>
+                <!-- A wrapper DIV to center the Gallery -->
+
+
+                <div id="demowrap">
+                    <div class="demo">
+                        <div id="sliderFrame">
+                            <div id="slider">
+                              {video_index_list}
+                            </div>
+                        </div>
+                        <br />
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div class="vc_row-full-width vc_clearfix"></div>
+

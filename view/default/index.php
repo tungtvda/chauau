@@ -30,10 +30,18 @@ function show_index($data = array())
     {
         $asign['hinhanh_index'] = print_item('hinhanh_index', $data['hinhanh_index']);
     }
+    $asign['price_index'] ='';
     if(count($data['price_index'])>0)
     {
         $asign['price_index'] = print_item('price_right', $data['price_index']);
     }
+
+    $asign['video_index_list'] ='';
+    if(count($data['video_index_list'])>0)
+    {
+        $asign['video_index_list'] = print_item('video_index_list', $data['video_index_list']);
+    }
+
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();

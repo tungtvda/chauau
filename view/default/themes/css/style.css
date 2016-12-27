@@ -215,6 +215,17 @@ a, h1, h2, h3, h4, h5, h6{
     width: 100%;
     z-index: 10;
 }
+.title_danhmuc{
+    border-bottom: 1px dotted;
+    padding-bottom: 5px;
+    color: #32aad6;
+    margin: 10px 0 10px;
+    font-size: 16px;
+}
+.div_content_danhmuc{
+    border-bottom: 1px solid #dfdfdf;
+    margin: 10px 0 10px;
+}
 .button_hotline {
 
     /*background-color: #004A7F;*/

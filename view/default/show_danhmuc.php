@@ -45,6 +45,13 @@ function show_danhmuc($data = array())
     $asign['active_khachsan']=$data['active_khachsan'];
     $asign['active_video']=$data['active_video'];
     $asign['active_thuvien_anh']=$data['active_thuvien_anh'];
+    $asign['hidden_new']='display: none';
+    $asign['show_new']='';
+    if($data['active_tintuc']!=''){
+        $asign['hidden_new']='';
+        $asign['show_new']='display: none';
+    }
+
 
     $asign['danhsach_video'] ='';
     if(count($data['danhsach_video'])>0)

@@ -48,11 +48,11 @@ function show_chitiettour($data = array())
         $asign['price_format']= number_format($data['detail'][0]->price,0,",",".");
         $asign['vnd']='vnđ';
     }
-    $asign['price_2_format']= number_format($data['detail'][0]->price_2,0,",",".");
-    $asign['price_3_format']= number_format($data['detail'][0]->price_3,0,",",".");
-    $asign['price_4_format']= number_format($data['detail'][0]->price_4,0,",",".");
-    $asign['price_5_format']= number_format($data['detail'][0]->price_5,0,",",".");
-    $asign['price_6_format']= number_format($data['detail'][0]->price_6,0,",",".");
+//    $asign['price_2_format']= number_format($data['detail'][0]->price_2,0,",",".");
+//    $asign['price_3_format']= number_format($data['detail'][0]->price_3,0,",",".");
+//    $asign['price_4_format']= number_format($data['detail'][0]->price_4,0,",",".");
+//    $asign['price_5_format']= number_format($data['detail'][0]->price_5,0,",",".");
+//    $asign['price_6_format']= number_format($data['detail'][0]->price_6,0,",",".");
     $asign['date_now'] = date('Y-m-d', strtotime(date(DATETIME_FORMAT)));
     $asign['date_now_vn'] = date('d-m-Y', strtotime(date(DATETIME_FORMAT)));
 
@@ -61,6 +61,26 @@ function show_chitiettour($data = array())
     $asign['exclusion']=$data['detail'][0]->exclusion;
     $asign['price_list']=$data['detail'][0]->price_list;
     $asign['vehicle']=$data['detail'][0]->vehicle;
+    $asign['departure_time']=$data['detail'][0]->departure_time;
+    $asign['hidden_date']='';
+    $asign['hidden_date_select']='hidden';
+    $asign['date_select']='';
+    if($data['detail'][0]->departure_time!=''){
+        $asign['hidden_date']='hidden';
+        $arr_explode=explode(',',$data['detail'][0]->departure_time);
+        if(count($arr_explode)>0){
+            $asign['date_now']=date('Y-m-d', strtotime(trim($arr_explode[0])));
+            $asign['date_now_vn'] =trim($arr_explode[0]);
+            $asign['hidden_date_select']='';
+            foreach($arr_explode as $row){
+               $date=trim($row);
+                $date_en=date('Y-m-d', strtotime(trim($row)));
+                $asign['date_select'].='<option value="'.$date_en.'">'.$date.'</option>';
+            }
+        }
+    }else{
+
+    }
 
     $asign['quocgia']='';
     $arr=explode(',',$data['detail'][0]->danhmuc_multi);

@@ -26,33 +26,37 @@
 
 
                     <div class="col-sm-10 common-menu hidden-xs hidden-sm">
-                        <div id="main-menu" class="common-menu-wrap">
-                            <ul id="menu-main-menu" class="nav">
-                                <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {trangchu_mn}">
-                                    <a href="{SITE-NAME}">{trangchu}</a></li>
-                                <li class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children  {chauau_mn} has-menu-child">
-                                    <a href="{SITE-NAME}/du-lich-chau-au/">{chauau}</a>
-                                    <ul role="menu" class="sub-menu">
-                                        {danhmuc_tour_menu}
-                                    </ul>
-                                </li>
-                                <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-menu-child {dichvu_mn}">
-                                    <a href="{SITE-NAME}/dich-vu/">{dichvu}</a>
-                                    <ul role="menu" class="sub-menu">
-                                        {danhmuc_dichvu_menu}
-                                    </ul>
-                                </li>
-                                <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {hanhtrinh_mn}">
-                                    <a href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
-                                <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
-                                    <a target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
-                                <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
-                                            href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
-                                <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
+
+
+                            <div id="main-menu" class="common-menu-wrap">
+                                <ul id="menu-main-menu" class="nav">
+                                    <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {trangchu_mn}">
+                                        <a href="{SITE-NAME}">{trangchu}</a></li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children  {chauau_mn} has-menu-child">
+                                        <a href="{SITE-NAME}/du-lich-chau-au/">{chauau}</a>
+                                        <ul role="menu" class="sub-menu">
+                                            {danhmuc_tour_menu}
+                                        </ul>
+                                    </li>
+                                    <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-menu-child {dichvu_mn}">
+                                        <a href="{SITE-NAME}/dich-vu/">{dichvu}</a>
+                                        <ul role="menu" class="sub-menu">
+                                            {danhmuc_dichvu_menu}
+                                        </ul>
+                                    </li>
+                                    <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {hanhtrinh_mn}">
+                                        <a href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
+                                    <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
+                                        <a target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
+                                                href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
+                                    <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {thangcanh_mn}"><a
                                             href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>-->
 
-                            </ul>
-                        </div><!--/#main-menu-->
+                                </ul>
+                            </div><!--/#main-menu-->
+
+
 
                     </div><!--/.col-sm-9-->
 

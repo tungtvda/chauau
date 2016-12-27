@@ -32,8 +32,8 @@
                                 <p class="price"><i class="icon-dollar"></i> Giá:
                                     <ins><span class="amount"> {price_format}</span> {vnd}</ins>
                                 </p>
-                                <p class="price"><i class="icon-dollar"></i> Mã tour:
-                                    <ins><span class="parameter"> {code}</span></ins>
+                                <p class="price"><i class="icon-dollar"></i> Khởi hành:
+                                    <ins><span class="parameter"> {departure_time}</span></ins>
                                 </p>
                                 <p class="price"><i class="icon-calendar"></i> Thời gian:
                                     <ins><span class="parameter"> {durations}</span></ins>
@@ -91,7 +91,7 @@
     border: 2px solid #FF6666;
     border-radius: 3px 3px 3px 0;
     padding: 20px 10px;
-    padding-bottom: 0;">
+   ">
                                 <h3 class="title">Đặt tour</h3>
                                 <link rel="stylesheet" type="text/css"
                                       href="{SITE-NAME}/view/default/themes/calendar/src/css/pignose.calender.css"/>
@@ -122,6 +122,14 @@
 
 
                                             }
+                                        });
+                                        jQuery("#date_select").change(function(){
+                                            var value_en=jQuery("#date_select option:selected" ).val();
+                                            var value_vn=jQuery("#date_select option:selected" ).text();
+//
+                                            jQuery('#date_input').val(value_en);
+                                            jQuery("#date_table").text(value_vn);
+
                                         });
                                         jQuery("#next_booking").click(function(){
                                             date_now="{date_now}";
@@ -356,7 +364,8 @@
                                     //]]>
                                 </script>
                                 <div>
-                                    <div class="calender"></div>
+
+                                    <div {hidden_date} class="calender"></div>
                                     <input id="date_input" hidden value="{date_now}">
                                     <input id="id_input" hidden value="{id}">
                                     <input id="name_url_input" hidden value="{name_url}">
@@ -370,6 +379,10 @@
                                         <input id="price_4" value="{price_4}" hidden>
                                         <input id="price_5" value="{price_5}" hidden>
                                         <input id="price_6" value="{price_6}" hidden>
+                                        <p {hidden_date_select}>Thời gian khởi anh</p>
+                                        <select {hidden_date_select} style="width: 100%;     padding: 0px;" id="date_select" name="date_select">
+                                            {date_select}
+                                        </select>
 
                                         <p>Số người lớn</p>
                                         <input style="width: 100%;padding: 5px;" class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="num_price_adults"  placeholder="Số người lớn" id="price_adults" value="">
@@ -381,7 +394,7 @@
 
 
                                         <p style="margin-bottom: 10px; display: none" id="hidden_total">Thành tiền: <span  class="amount" id="amount_total"></span></p>
-                                        <a style="width: 40%; display: none; margin-top: 20px; float: left" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-right"></i> Tiếp tục</a>
+                                        <a style="width: 44%; display: none; margin-top: 20px; float: left" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="fa fa-arrow-right"></i> Tiếp tục</a>
                                     </div>
                                     <div class="next_detail" style="display: none; float: left;width: 100%">
                                         <table class="nicdark_table extrabig nicdark_bg_yellow">

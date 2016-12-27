@@ -140,7 +140,7 @@
 </div><!--/#footer-->
 
 <footer id="footer" class="footer-wrap">
-    <div class="container">
+    <div style="margin-bottom: 50px" class="container">
         <div class="row">
             <div class="col-sm-4">
 
@@ -159,6 +159,16 @@
         </div> <!-- end row -->
     </div>  <!-- end container -->
 </footer>
+<div class="row-footer">
+
+    <div class="container">
+        <div class="">
+            <a  class="button_hotline" href="tel:{Hotline}">Hà Nội: {Hotline}</a> &nbsp;
+            <a  class="button_hotline" href="tel:{Hotline_hcm}">Hồ Chí Minh {Hotline_hcm}</a> &nbsp;
+            <a  class="button_hotline" href="tel:{Hotline_eu}">Châu Âu: {Hotline_eu}</a> &nbsp;
+        </div>
+    </div>
+</div>
 </div> <!-- #page -->
 
 

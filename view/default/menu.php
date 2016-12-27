@@ -34,5 +34,8 @@ function view_menu($data = array())
     {
         $asign['danhmuc_dichvu_menu'] = print_item('danhmuctour_menu', $data['danhmuc_dichvu_menu']);
     }
+    $asign['Hotline'] = $data['config'][0]->Hotline;
+    $asign['Hotline_hcm'] = $data['config'][0]->Hotline_hcm;
+    $asign['Hotline_eu'] = $data['config'][0]->Hotline_eu;
     print_template($asign, 'menu');
 }

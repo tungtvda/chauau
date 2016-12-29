@@ -55,11 +55,11 @@
         </div>
         <div class="widget widget_meta package-details-content">
             <h3 class="title">Fanpage</h3>
-            <div class="fb-page" data-href="https://www.facebook.com/mixtourist.vietnam" style="width: 100% !important;"
+            <div class="fb-page" data-href="https://www.facebook.com/mixtourist/" style="width: 100% !important;"
                  data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
                  data-show-facepile="true">
-                <blockquote cite="https://www.facebook.com/mixtourist.vietnam" class="fb-xfbml-parse-ignore"><a
-                            href="https://www.facebook.com/mixtourist.vietnam">MixTourist Viet Nam</a></blockquote>
+                <blockquote cite="https://www.facebook.com/mixtourist/" class="fb-xfbml-parse-ignore"><a
+                            href="https://www.facebook.com/mixtourist/">MixTourist Viet Nam</a></blockquote>
             </div>
         </div>
         <div class="widget widget_archive package-details-content">

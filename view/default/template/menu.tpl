@@ -50,9 +50,9 @@
                                         <a target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
                                     <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
                                                 href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
-                                    <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a
+                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a class="menu_mobi" style="font-weight: bold;"
                                             href="tel:{Hotline}">{Hotline}</a></li>
-                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a
+                                    <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a
                                                 href="tel:{Hotline_hcm}">{Hotline_hcm}</a></li>-->
 
                                 </ul>

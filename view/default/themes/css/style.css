@@ -283,3 +283,34 @@ a, h1, h2, h3, h4, h5, h6{
     -o-animation: glowing 1500ms infinite;
     animation: glowing 1500ms infinite;
 }
+
+.menu_mobi{
+    color: #0094FF;
+    -webkit-animation: glowing_hotline 1500ms infinite;
+    -moz-animation: glowing_hotline 1500ms infinite;
+    -o-animation: glowing_hotline 1500ms infinite;
+    animation: glowing_hotline 1500ms infinite;
+}
+@-webkit-keyframes glowing_hotline {
+    0% { color: #ff0909;  }
+    50% { color: #0094FF; }
+    100% { color: #ff0909;  }
+}
+
+@-moz-keyframes glowing_hotline {
+    0% { color: #ff0909; }
+    50% { color: #0094FF;  }
+    100% { color: #ff0909; }
+}
+
+@-o-keyframes glowing_hotline {
+    0% { color: #ff0909;  }
+    50% { color: #0094FF; }
+    100% { color: #ff0909; }
+}
+
+@keyframes glowing_hotline {
+    0% { color: #ff0909;  }
+    50% { color: #0094FF;  }
+    100% { color: #ff0909;  }
+}

@@ -92,7 +92,7 @@
     border-radius: 3px 3px 3px 0;
     padding: 20px 10px;
    ">
-                                <h3 class="title">Đặt tour</h3>
+                                <h3 class="title" style="text-align: center; font-size: 16px; font-weight: bold">Đặt tour</h3>
                                 <link rel="stylesheet" type="text/css"
                                       href="{SITE-NAME}/view/default/themes/calendar/src/css/pignose.calender.css"/>
                                 <!--                                <script src="themes/calendar/dist/jquery-1.12.4.min.js"></script>-->
@@ -470,7 +470,7 @@
                         </div>
                         <div class="col-md-8 col-sm-12 col-xs-12 unset_padding_left unset_padding_right">
                             <h3 class="title">Thông tin chi tiết</h3>
-                            <ul class="nav nav-tabs package-nav-tab" role="tablist">
+                            <ul hidden class="nav nav-tabs package-nav-tab" role="tablist">
                                 <li class="active"><a href="#lichtrinh" role="tab" data-toggle="tab"
                                                       aria-expanded="true">Lịch trình</a></li>
                                 <li class=""><a href="#baogom" role="tab" data-toggle="tab" aria-expanded="false">Bao
@@ -481,7 +481,7 @@
                                 <li class=""><a href="#binhluan" role="tab" data-toggle="tab" aria-expanded="false">Bình
                                         luận</a></li>
                             </ul><!--/.package-nav-tab-->
-                            <div class="tab-content package-tab-content">
+                            <div style="padding-top: 10px" class="tab-content package-tab-content">
                                 <div class="tab-pane fade active in" id="lichtrinh" style="bottom: 0px;">
                                     {schedule}
                                 </div>

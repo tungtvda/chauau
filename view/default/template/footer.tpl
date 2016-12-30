@@ -140,7 +140,7 @@
 </div><!--/#footer-->
 
 <footer id="footer" class="footer-wrap">
-    <div style="margin-bottom: 50px" class="container">
+    <div  class="container">
         <div class="row">
             <div class="col-sm-4">
 
@@ -159,7 +159,7 @@
         </div> <!-- end row -->
     </div>  <!-- end container -->
 </footer>
-<div class="row-footer">
+<div hidden class="row-footer">
 
     <div class="container">
         <div class="">

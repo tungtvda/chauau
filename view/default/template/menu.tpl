@@ -51,7 +51,7 @@
                                     <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
                                                 href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                     <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a class="menu_mobi" style="font-weight: bold;"
-                                            href="tel:{Hotline}">{Hotline}</a></li>
+                                            href="tel:{Hotline}"><img style="width: 25px;" src="{SITE-NAME}/view/default/themes/images/tel-anphong2.gif">{Hotline}</a></li>
                                     <!--<li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child "><a
                                                 href="tel:{Hotline_hcm}">{Hotline_hcm}</a></li>-->
 
@@ -97,9 +97,9 @@
                                 <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
                                             title="" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
-                                <!--<li id="menu-item-1025"
+                                <li id="menu-item-1025"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
-                                            title="" href="{SITE-NAME}/thang-canh-noi-tieng/">{thangcanh}</a></li>-->
+                                            title="" href="tel:{Hotline}"><img style="width: 25px;" src="{SITE-NAME}/view/default/themes/images/tel-anphong2.gif">{Hotline}</a></li>
                             </ul>
                         </div>
                     </div><!--/.#mobile-menu-->

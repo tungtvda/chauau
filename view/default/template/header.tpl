@@ -325,9 +325,10 @@
         <script type='text/javascript' src='{SITE-NAME}/view/default/themes/wp-includes/js/utils.min1c9b.js?ver=4.6.1'></script>
         <script type='text/javascript' src='{SITE-NAME}/view/default/themes/wp-includes/js/plupload/plupload.full.mincc91.js?ver=2.1.8'></script>
         <!--<script type='text/javascript' src='{SITE-NAME}/view/default/themes/slide_video/html5gallery.js'></script>-->
-        <link href="{SITE-NAME}/view/default/themes/slide_video/js-image-slider.css" rel="stylesheet" />
-        <script src="{SITE-NAME}/view/default/themes/slide_video/mcVideoPlugin.js" type="text/javascript"></script>
-        <script src="{SITE-NAME}/view/default/themes/slide_video/js-image-slider.js" type="text/javascript"></script>
+
+
+
+
 
 
         <link rel="stylesheet" type="text/css"

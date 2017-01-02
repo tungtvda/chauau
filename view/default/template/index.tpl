@@ -336,7 +336,7 @@
             <div class="wpb_wrapper">
                 <div class="addon-themeum-title whitecolor" style="text-align:center;">
                     <div class="themeum-titlelayout1"><h2 class="thm-titlestandardstyle">
-                            Tin tức &amp; Sự kiện</h2>
+                            Cẩm nang du lịch Châu Âu</h2>
                         <p class="thm-sub-titlestandardstylesub">Thông tin hữu ích cho các bạn khi đi du lịch Châu
                             Âu</p></div>
                 </div>
@@ -373,11 +373,19 @@
     </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
-
+<!--<script src="{SITE-NAME}/view/default/themes/slide_video_2/amazingslider.js" type="text/javascript"></script>
+<link href="{SITE-NAME}/view/default/themes/slide_video_2/amazingslider-1.css" rel="stylesheet" />
+<script src="{SITE-NAME}/view/default/themes/slide_video/jquery.js" type="text/javascript"></script>-->
+<script src="{SITE-NAME}/view/default/themes/slide_video/amazingslider.js" type="text/javascript"></script>
+<link href="{SITE-NAME}/view/default/themes/slide_video/amazingslider-1.css" rel="stylesheet" />
+<script src="{SITE-NAME}/view/default/themes/slide_video/initslider-1.js" type="text/javascript"></script>
 <div class="vc_row-full-width vc_clearfix"></div>
 <div  data-vc-full-width="true" data-vc-full-width-init="false"
-     class="vc_row wpb_row vc_row-fluid show-overflow thm-res-padding section-with-border-gray vc_custom_1477470088839 vc_row-has-fill hidden-xs">
-    <div class="wpb_column vc_column_container vc_col-sm-12">
+     class="vc_row wpb_row vc_row-fluid show-overflow thm-res-padding section-with-border-gray vc_custom_1477470088839 vc_row-has-fill ">
+    <div class="col-md-2 vc_hidden-xs">
+        &nbsp;
+    </div>
+    <div class="col-xs-12 col-md-8">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper">
                 <div class="addon-themeum-title " style="text-align:center;">
@@ -390,21 +398,49 @@
                 <!-- A wrapper DIV to center the Gallery -->
 
 
+
                 <div id="demowrap">
-                    <div class="demo">
-                        <div id="sliderFrame">
-                            <div id="slider">
-                              {video_index_list}
-                            </div>
+                    <div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:100%;margin:0px auto 64px;">
+                        <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+                            <ul class="amazingslider-slides" style="display:none;">
+                                {video_index_list}
+                            </ul>
+                            <ul class="amazingslider-thumbnails" style="display:none;">
+                                {video_index_list_item}
+                            </ul>
+
                         </div>
-                        <br />
                     </div>
                 </div>
 
             </div>
         </div>
     </div>
+    <div class="col-md-2 vc_hidden-xs">
+        &nbsp;
+    </div>
 </div>
 <div class="vc_row-full-width vc_clearfix"></div>
 <div class="vc_row-full-width vc_clearfix"></div>
 
+<div data-vc-full-width="true" data-vc-full-width-init="false" style="margin-top: 40px"
+     class="vc_row wpb_row vc_row-fluid thm-res-padding  vc_row-has-fill">
+    <div class="wpb_column vc_column_container vc_col-sm-12">
+        <div class="vc_column-inner ">
+            <div class="wpb_wrapper">
+                <div class="addon-themeum-title whitecolor" style="text-align:center;">
+                    <div class="themeum-titlelayout1"><h2 style="color: #000;" class="thm-titlestandardstyle">
+                            MIXTOURIST</h2>
+                        <p style="color: #000;" class="thm-sub-titlestandardstylesub">Những gì chúng tôi đã đạt được</p></div>
+                </div>
+                <div class="vc_empty_space" style="height: 50px"><span
+                            class="vc_empty_space_inner"></span></div>
+                <div class="row">
+                    {thanhtich_index}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div class="vc_row-full-width vc_clearfix"></div>

@@ -1,6 +1,8 @@
 <div id="sidebar" class="col-sm-3" role="complementary">
     <aside class="widget-area">
-        <div id="search-2" class="widget widget_search">
+        <div style="border: 2px solid #FF6666;
+    border-radius: 3px 3px 3px 0;
+    padding: 20px 10px;" id="search-2" class="widget widget_search">
             <div class="thm-tk-tab active" id="holidays">
                 <div class="thm-tk-tab-inner clearfix">
                     <form id="thm-tk-advancedsearch-form" class="clearfix"

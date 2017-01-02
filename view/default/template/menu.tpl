@@ -98,7 +98,7 @@
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
                                             title="" href="{SITE-NAME}/lien-he.html">{lienhe}</a></li>
                                 <li id="menu-item-1025"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1025"><a class="menu_mobi"
                                             title="" href="tel:{Hotline}"><img style="width: 25px;" src="{SITE-NAME}/view/default/themes/images/tel-anphong2.gif">{Hotline}</a></li>
                             </ul>
                         </div>

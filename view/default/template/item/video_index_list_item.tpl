@@ -1,0 +1,1 @@
+<li><img src="{img}" alt="{name}" title="{name}" /></li>

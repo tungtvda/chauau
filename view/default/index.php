@@ -37,14 +37,23 @@ function show_index($data = array())
     }
 
     $asign['video_index_list'] ='';
+    $asign['video_index_list_item'] ='';
     if(count($data['video_index_list'])>0)
     {
         $asign['video_index_list'] = print_item('video_index_list', $data['video_index_list']);
+        $asign['video_index_list_item'] = print_item('video_index_list_item', $data['video_index_list']);
     }
 
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();
+
+    $asign['thanhtich_index'] ='';
+    if(count($data['thanhtich_index'])>0)
+    {
+        $asign['thanhtich_index'] = print_item('thanhtich_index', $data['thanhtich_index']);
+    }
+
     print_template($asign, 'index');
 }
 

@@ -29,5 +29,10 @@ function view_footer($data = array())
     $asign['facebook'] = $data['mangxahoi'][0]->facebook;
     $asign['google'] = $data['mangxahoi'][0]->google;
     $asign['rss'] = $data['mangxahoi'][0]->rss;
+    $asign['thanhtich_index'] ='';
+    if(count($data['thanhtich_index'])>0)
+    {
+        $asign['thanhtich_index'] = print_item('thanhtich_index', $data['thanhtich_index']);
+    }
     print_template($asign, 'footer');
 }

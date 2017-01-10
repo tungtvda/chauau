@@ -423,7 +423,7 @@
 <div class="vc_row-full-width vc_clearfix"></div>
 <div class="vc_row-full-width vc_clearfix"></div>
 
-<div data-vc-full-width="true" data-vc-full-width-init="false" style="margin-top: 40px"
+<div data-vc-full-width="true" data-vc-full-width-init="false" style="margin-top: 40px; display: none"
      class="vc_row wpb_row vc_row-fluid thm-res-padding  vc_row-has-fill">
     <div class="wpb_column vc_column_container vc_col-sm-12">
         <div class="vc_column-inner ">

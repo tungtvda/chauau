@@ -45,7 +45,7 @@
                                         </ul>
                                     </li>
                                     <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child {hanhtrinh_mn}">
-                                        <a href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
+                                        <a href="{SITE-NAME}/tour-ghep.html">{hanhtrinh}</a></li>
                                     <li class=" menu-item menu-item-type-taxonomy menu-item-object-package-category has-menu-child">
                                         <a target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>
                                     <li class=" menu-item menu-item-type-post_type menu-item-object-page has-menu-child {lienhe_mn}"><a
@@ -90,7 +90,7 @@
                                 </li>
                                 <li id="menu-item-1024"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a
-                                            title="Hành trình" href="{SITE-NAME}/hanh-trinh.html">{hanhtrinh}</a></li>
+                                            title="Hành trình" href="{SITE-NAME}/tour-ghep.html">{hanhtrinh}</a></li>
                                 <li id="menu-item-1024"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a
                                             title="" target="_blank" href="http://vemaybay.azbooking.vn/">{vemaybay}</a></li>

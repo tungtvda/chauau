@@ -48,11 +48,7 @@ function show_index($data = array())
     $asign['list_Quocgia']=returnDanhMucTour();
     $asign['list_romtype']=returnDanhMucRoomType();
 
-    $asign['thanhtich_index'] ='';
-    if(count($data['thanhtich_index'])>0)
-    {
-        $asign['thanhtich_index'] = print_item('thanhtich_index', $data['thanhtich_index']);
-    }
+
 
     print_template($asign, 'index');
 }

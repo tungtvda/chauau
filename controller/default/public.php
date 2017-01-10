@@ -120,6 +120,7 @@ function show_footer($data1=array())
         dangky_email_insert($new_dk);
         echo "<script>alert('Đăng ký email thành công')</script>";
     }
+    $data['thanhtich_index']=thanhtich_getByTop(1,'','postion asc');
     view_footer($data);
 }
 

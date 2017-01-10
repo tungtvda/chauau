@@ -1,16 +1,15 @@
-
 <div class="vc_row-full-width vc_clearfix"></div>
 <div data-vc-full-width="true" data-vc-full-width-init="true"
      class="vc_row wpb_row vc_row-fluid thm-res-padding vc_custom_1476955334093 vc_row-has-fill"
      style="position: relative; left: -89.5px; box-sizing: border-box; width: 1349px; padding-left: 89.5px; padding-right: 89.5px;margin-top: 20px">
-    <div class="wpb_column vc_column_container vc_col-sm-2">
+    <!--<div class="wpb_column vc_column_container vc_col-sm-2">
         <div class="vc_column-inner ">
             <div class="wpb_wrapper"></div>
         </div>
-    </div>
+    </div>-->
     <div class="wpb_column vc_column_container vc_col-sm-8">
         <div class="vc_column-inner ">
-            <div class="wpb_wrapper">
+            <div class="wpb_wrapper" style="margin-top: 60px;">
                 <div class="atmosphere-details newsletter-icon">
                     <article class="atmosphere-content" style="">
                         <ul>
@@ -41,9 +40,12 @@
             </div>
         </div>
     </div>
-    <div class="wpb_column vc_column_container vc_col-sm-2">
+    <div class="wpb_column vc_column_container vc_col-sm-4">
         <div class="vc_column-inner ">
-            <div class="wpb_wrapper"></div>
+            <div class="wpb_wrapper">
+                   {thanhtich_index}
+
+            </div>
         </div>
     </div>
 </div>
@@ -140,7 +142,7 @@
 </div><!--/#footer-->
 
 <footer id="footer" class="footer-wrap">
-    <div  class="container">
+    <div class="container">
         <div class="row">
             <div class="col-sm-4">
 
@@ -163,9 +165,9 @@
 
     <div class="container">
         <div class="">
-            <a  class="button_hotline" href="tel:{Hotline}">Hà Nội: {Hotline}</a> &nbsp;
-            <a  class="button_hotline" href="tel:{Hotline_hcm}">Hồ Chí Minh {Hotline_hcm}</a> &nbsp;
-            <a  class="button_hotline" href="tel:{Hotline_eu}">Châu Âu: {Hotline_eu}</a> &nbsp;
+            <a class="button_hotline" href="tel:{Hotline}">Hà Nội: {Hotline}</a> &nbsp;
+            <a class="button_hotline" href="tel:{Hotline_hcm}">Hồ Chí Minh {Hotline_hcm}</a> &nbsp;
+            <a class="button_hotline" href="tel:{Hotline_eu}">Châu Âu: {Hotline_eu}</a> &nbsp;
         </div>
     </div>
 </div>

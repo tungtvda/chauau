@@ -21,6 +21,6 @@ RewriteRule ^dich-vu/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/danhmucd
 RewriteRule ^tim-kiem-tour$ controller/default/timkiemtour.php
 RewriteRule ^tim-kiem-khach-san$ controller/default/timkiemkhachsan.php
 RewriteRule ^tim-kiem-tin-tuc$ controller/default/timkiemtintuc.php
-RewriteRule ^hanh-trinh.html$ controller/default/hanhtrinh.php
+RewriteRule ^tour-ghep.html$ controller/default/hanhtrinh.php
 RewriteRule ^lien-he.html$ controller/default/lienhe.php
 RewriteRule ^land-tour-chau-au$ controller/default/danhmucdichvu.php?Id=land-tour-chau-au

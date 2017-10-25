@@ -4,31 +4,31 @@
  * @author vdbkpro
  * @copyright 2013
  */
-define("SITE_NAME", "http://localhost/chauau");
-define("DIR", dirname(__FILE__));
-define('SERVER','localhost');
-define('DB_USERNAME','root');
-define('DB_PASSWORD','');
-define('DB_NAME','chauau');
-define('CACHE',false);
-define('DATETIME_FORMAT',"y-m-d H:i:s");
-define('PRIVATE_KEY','hoidinhnvbk');
-session_start();
-require_once DIR.'/common/minifi.output.php';
-ob_start("minify_output");
-
-//define("SITE_NAME", "http://dulichchauau.org");
+//define("SITE_NAME", "http://localhost/chauau");
 //define("DIR", dirname(__FILE__));
 //define('SERVER','localhost');
-//define('DB_USERNAME','dulichchau_db');
-//define('DB_PASSWORD','cdQRyIyLf');
-//define('DB_NAME','dulichchau_db');
+//define('DB_USERNAME','root');
+//define('DB_PASSWORD','');
+//define('DB_NAME','chauau');
 //define('CACHE',false);
 //define('DATETIME_FORMAT',"y-m-d H:i:s");
 //define('PRIVATE_KEY','hoidinhnvbk');
 //session_start();
 //require_once DIR.'/common/minifi.output.php';
 //ob_start("minify_output");
+
+define("SITE_NAME", "http://maiatravelhy.com/");
+define("DIR", dirname(__FILE__));
+define('SERVER','localhost');
+define('DB_USERNAME','maiatravel_data');
+define('DB_PASSWORD','0rOXIIfd');
+define('DB_NAME','maiatravel_data');
+define('CACHE',false);
+define('DATETIME_FORMAT',"y-m-d H:i:s");
+define('PRIVATE_KEY','hoidinhnvbk');
+session_start();
+require_once DIR.'/common/minifi.output.php';
+ob_start("minify_output");
 
 require_once DIR.'/model/contactService.php';
 require_once DIR.'/model/dangky_emailService.php';

